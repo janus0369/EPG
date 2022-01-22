@@ -496,6 +496,14 @@
     <display-name lang="es">TRU TV</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="STAR FUN ESTE">
+    <display-name lang="es">STAR FUN ESTE</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ISAT">
+    <display-name lang="es">ISAT</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20220122001500 -0600" stop="20220122003000 -0600" channel="AZTECA 1">
     <title lang="es">Himno Nacional</title>
   </programme>
@@ -14869,5 +14877,175 @@
   </programme>
   <programme start="20220122231000 -0600" stop="20220122235500 -0600" channel="TRU TV">
     <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20220122001400 -0600" stop="20220122021200 -0600" channel="STAR FUN ESTE">
+    <title lang="es">El Día Después de Mañana</title>
+    <desc lang="es">Jack Hall, un experto en el clima deberá atravesar el país para llegar a su hijo, atrapado en una tormenta repentina que cambiará por completo la tierra.(n)</desc>
+    <credits>
+      <actor>Dennis Quaid</actor>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Ian Holm</actor>
+      <actor>Emmy Rossum</actor>
+      <actor>Sela Ward</actor>
+      <producer>Roland Emmerich</producer>
+      <producer>Mark Gordon</producer>
+      <composer>Harald Kloser</composer>
+    </credits>
+    <date>2004</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_dia_despues_de_manana.jpg" />
+    <country lang="es">Canadá</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220122021200 -0600" stop="20220122040300 -0600" channel="STAR FUN ESTE">
+    <title lang="es">I Now Pronounce You Chuck &amp; Larry</title>
+  </programme>
+  <programme start="20220122040300 -0600" stop="20220122052700 -0600" channel="STAR FUN ESTE">
+    <title lang="es">The Longest Week</title>
+  </programme>
+  <programme start="20220122052700 -0600" stop="20220122071000 -0600" channel="STAR FUN ESTE">
+    <title lang="es">Agentes del desorden</title>
+  </programme>
+  <programme start="20220122071000 -0600" stop="20220122092400 -0600" channel="STAR FUN ESTE">
+    <title lang="es">Divergente</title>
+  </programme>
+  <programme start="20220122092400 -0600" stop="20220122110200 -0600" channel="STAR FUN ESTE">
+    <title lang="es">Mamá se Fue de Viaje</title>
+    <title lang="xx">Mamá se Fue de Viaje</title>
+    <desc lang="es">Víctor y Vera llevan 20 años de casados con cuatro hijos, agobiada por la vida domestica decide tomar unas vacaciones y allí comienzan los problemas.(n)</desc>
+    <credits>
+      <actor>Carla Peterson</actor>
+      <actor>Diego Peretti</actor>
+      <actor>Martín "El mariscal Tito" Lacour</actor>
+      <actor>Agustina Cabo</actor>
+      <actor>Julián Baz</actor>
+      <actor>Lorenzo Winograd</actor>
+      <actor>Muriel Santa Ana</actor>
+      <actor>Martín Piroyansky</actor>
+      <producer>Juan Lovece</producer>
+      <producer>Juan Vera</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/mama_se_fue_de_viaje.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220122110200 -0600" stop="20220122123300 -0600" channel="STAR FUN ESTE">
+    <title lang="es">Vampire sisters 2</title>
+  </programme>
+  <programme start="20220122123300 -0600" stop="20220122135800 -0600" channel="STAR FUN ESTE">
+    <title lang="es">Pequeños invasores</title>
+  </programme>
+  <programme start="20220122135800 -0600" stop="20220122152200 -0600" channel="STAR FUN ESTE">
+    <title lang="es">Gato con botas</title>
+  </programme>
+  <programme start="20220122152200 -0600" stop="20220122172100 -0600" channel="STAR FUN ESTE">
+    <title lang="es">El Día Después de Mañana</title>
+    <desc lang="es">Jack Hall, un experto en el clima deberá atravesar el país para llegar a su hijo, atrapado en una tormenta repentina que cambiará por completo la tierra.(n)</desc>
+    <credits>
+      <actor>Dennis Quaid</actor>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Ian Holm</actor>
+      <actor>Emmy Rossum</actor>
+      <actor>Sela Ward</actor>
+      <producer>Roland Emmerich</producer>
+      <producer>Mark Gordon</producer>
+      <composer>Harald Kloser</composer>
+    </credits>
+    <date>2004</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_dia_despues_de_manana.jpg" />
+    <country lang="es">Canadá</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220122172100 -0600" stop="20220122185500 -0600" channel="STAR FUN ESTE">
+    <title lang="es">Guerra De Papás</title>
+  </programme>
+  <programme start="20220122185500 -0600" stop="20220122203200 -0600" channel="STAR FUN ESTE">
+    <title lang="es">Guerra de Papás 2</title>
+    <title lang="xx">Daddy's Home 2</title>
+    <desc lang="es">Dusty y Brad quieren hacer algo especial con sus hijos en las vacaciones, pero con la llegada de los abuelos Kurt y el Sr Whitaker todo termina en caos.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/guerra_de_papas_2.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220122203200 -0600" stop="20220122220000 -0600" channel="STAR FUN ESTE">
+    <title lang="es">Guerra de novias</title>
+  </programme>
+  <programme start="20220122220000 -0600" stop="20220123010900 -0600" channel="STAR FUN ESTE">
+    <title lang="es">Titanic</title>
+  </programme>
+  <programme start="20220122000400 -0600" stop="20220122013800 -0600" channel="ISAT">
+    <title lang="es">21 And Over</title>
+  </programme>
+  <programme start="20220122013800 -0600" stop="20220122025800 -0600" channel="ISAT">
+    <title lang="es">Upa! 2</title>
+  </programme>
+  <programme start="20220122025800 -0600" stop="20220122041500 -0600" channel="ISAT">
+    <title lang="es">Here Kitty Kitty</title>
+  </programme>
+  <programme start="20220122041500 -0600" stop="20220122070700 -0600" channel="ISAT">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220122070700 -0600" stop="20220122083100 -0600" channel="ISAT">
+    <title lang="es">El Almafuerte</title>
+  </programme>
+  <programme start="20220122083100 -0600" stop="20220122095000 -0600" channel="ISAT">
+    <title lang="es">El sueño de una generación</title>
+  </programme>
+  <programme start="20220122095000 -0600" stop="20220122110300 -0600" channel="ISAT">
+    <title lang="es">La parte por el todo</title>
+  </programme>
+  <programme start="20220122110300 -0600" stop="20220122130800 -0600" channel="ISAT">
+    <title lang="es">What's eating Gilbert Grape</title>
+  </programme>
+  <programme start="20220122130800 -0600" stop="20220122144800 -0600" channel="ISAT">
+    <title lang="es">Un buen dia</title>
+  </programme>
+  <programme start="20220122144800 -0600" stop="20220122161200 -0600" channel="ISAT">
+    <title lang="es">Pichuco</title>
+  </programme>
+  <programme start="20220122161200 -0600" stop="20220122173700 -0600" channel="ISAT">
+    <title lang="es">Tan cerca como pueda</title>
+  </programme>
+  <programme start="20220122173700 -0600" stop="20220122183600 -0600" channel="ISAT">
+    <title lang="es">Carne propia</title>
+  </programme>
+  <programme start="20220122183600 -0600" stop="20220122201400 -0600" channel="ISAT">
+    <title lang="es">La salada</title>
+  </programme>
+  <programme start="20220122201400 -0600" stop="20220122220000 -0600" channel="ISAT">
+    <title lang="es">Brigsby Bear</title>
+  </programme>
+  <programme start="20220122220000 -0600" stop="20220122233400 -0600" channel="ISAT">
+    <title lang="es">Trainspotting</title>
+  </programme>
+  <programme start="20220122233400 -0600" stop="20220123014500 -0600" channel="ISAT">
+    <title lang="es">T2 Trainspotting</title>
+    <desc lang="es">Después de veinte años, Mark decide regresar al lugar que llamó hogar, sus amigos: Daniel, Simon y Francis y otros amigos los están esperando.(n)</desc>
+    <credits>
+      <actor>Ewan McGregor</actor>
+      <actor>Ewen Bremner</actor>
+      <actor>Jonny Lee Miller</actor>
+      <actor>Robert Carlyle</actor>
+      <writer>"Porno" de Irvine Welsh</writer>
+      <producer>Bernard Bellew</producer>
+      <producer>Danny Boyle</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/t2_trainspotting.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
   </programme>
 </tv>
