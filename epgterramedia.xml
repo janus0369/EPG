@@ -52,10 +52,6 @@
     <display-name lang="es">WARNER</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="STAR ACTION">
-    <display-name lang="es">STAR ACTION</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="AMC">
     <display-name lang="es">AMC</display-name>
     <url>http://www.gatotv.com</url>
@@ -132,24 +128,8 @@
     <display-name lang="es">DISCOVERY THEATHER HD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="STAR COMEDY">
-    <display-name lang="es">STAR COMEDY</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="STAR FUN">
-    <display-name lang="es">STAR FUN</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="STAR LIFE">
     <display-name lang="es">STAR LIFE</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="STAR HITS">
-    <display-name lang="es">STAR HITS</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="STAR SERIES">
-    <display-name lang="es">STAR SERIES</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="HBO +">
@@ -276,8 +256,8 @@
     <display-name lang="es">BITME</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="BOOMERANG">
-    <display-name lang="es">BOOMERANG</display-name>
+  <channel id="CARTOONITO">
+    <display-name lang="es">CARTOONITO</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="DISNEY XD">
@@ -472,16 +452,8 @@
     <display-name lang="es">KIDS CENTRAL</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="STAR CLASSICS">
-    <display-name lang="es">STAR CLASSICS</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="TRU TV">
     <display-name lang="es">TRU TV</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="STAR FUN ESTE">
-    <display-name lang="es">STAR FUN ESTE</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="ISAT">
@@ -819,12 +791,6 @@
   <programme start="20220220100000 -0600" stop="20220220110000 -0600" channel="AZTECA 1 -2HRS">
     <title lang="es">Hechos Domingo</title>
   </programme>
-  <programme start="20220220130000 -0600" stop="20220220150000 -0600" channel="AZTECA 1 -2HRS">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
   <programme start="20220220160000 -0600" stop="20220220173000 -0600" channel="AZTECA 1 -2HRS">
     <title lang="es">La Galera</title>
   </programme>
@@ -1016,8 +982,8 @@
   <programme start="20220221053000 -0600" stop="20220221060000 -0600" channel="ESTRELLAS">
     <title lang="es">Farmacias Similares</title>
   </programme>
-  <programme start="20220221133000 -0600" stop="20220221143000 -0600" channel="ESTRELLAS">
-    <title lang="es">Minuto para Ganar</title>
+  <programme start="20220221183000 -0600" stop="20220221193000 -0600" channel="ESTRELLAS">
+    <title lang="es">Amor Dividido</title>
   </programme>
   <programme start="20220221213000 -0600" stop="20220221223000 -0600" channel="ESTRELLAS">
     <title lang="es">Los Ricos También Lloran</title>
@@ -5794,894 +5760,6 @@
   <programme start="20220222235600 -0600" stop="20220223022600 -0600" channel="SPACE">
     <title lang="es">El conjuro 2</title>
   </programme>
-  <programme start="20220218000600 -0600" stop="20220218020900 -0600" channel="WARNER">
-    <title lang="es">Golpe bajo El juego final</title>
-  </programme>
-  <programme start="20220218020900 -0600" stop="20220218023400 -0600" channel="WARNER">
-    <title lang="es">Dragon Ball Super</title>
-    <episode-num system="onscreen">S1 E67</episode-num>
-  </programme>
-  <programme start="20220218023400 -0600" stop="20220218025900 -0600" channel="WARNER">
-    <title lang="es">Dragon Ball Super</title>
-    <episode-num system="onscreen">S1 E68</episode-num>
-  </programme>
-  <programme start="20220218025900 -0600" stop="20220218034800 -0600" channel="WARNER">
-    <title lang="es">Rescue me</title>
-    <episode-num system="onscreen">S1 E10</episode-num>
-  </programme>
-  <programme start="20220218034800 -0600" stop="20220218040900 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S7 E14</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220218040900 -0600" stop="20220218043100 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S7 E15</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220218043100 -0600" stop="20220218045100 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S7 E16</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220218045100 -0600" stop="20220218051100 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S7 E17</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220218051100 -0600" stop="20220218060000 -0600" channel="WARNER">
-    <title lang="es">The Flash</title>
-    <desc lang="es">Barry Allen es un científico que sufre un terrible accidente que para su bien lo convierte en el hombre más rápido del mundo.(n)</desc>
-    <credits>
-      <actor>Grant Gustin</actor>
-      <actor>Jesse L. Martin</actor>
-      <actor>Rick Cosnett</actor>
-      <actor>Danielle Panabaker</actor>
-      <actor>Candice Patton</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_flash.jpg" />
-    <episode-num system="onscreen">S6 E14</episode-num>
-  </programme>
-  <programme start="20220218060000 -0600" stop="20220218073900 -0600" channel="WARNER">
-    <title lang="es">Seinfeld</title>
-    <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.(n)</desc>
-    <credits>
-      <actor>Jerry Seinfeld</actor>
-      <actor>Julia Louis-Dreyfus</actor>
-      <actor>Michael Richards</actor>
-      <actor>Jason Alexander</actor>
-    </credits>
-    <date>1990</date>
-    <category lang="es">Programa</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
-    <episode-num system="onscreen">S7 E11</episode-num>
-  </programme>
-  <programme start="20220218073900 -0600" stop="20220218080100 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S7 E20</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220218080100 -0600" stop="20220218082200 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S7 E21</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220218082200 -0600" stop="20220218084400 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S7 E22</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220218084400 -0600" stop="20220218090400 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S7 E23</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220218090400 -0600" stop="20220218092700 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S7 E24</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220218092700 -0600" stop="20220218095100 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S8 E1</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220218095100 -0600" stop="20220218101200 -0600" channel="WARNER">
-    <title lang="es">Brooklyn nine-nine</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20220218101200 -0600" stop="20220218103500 -0600" channel="WARNER">
-    <title lang="es">Brooklyn nine-nine</title>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20220218103500 -0600" stop="20220218110000 -0600" channel="WARNER">
-    <title lang="es">Dragon Ball Super</title>
-    <episode-num system="onscreen">S1 E69</episode-num>
-  </programme>
-  <programme start="20220218110000 -0600" stop="20220218112600 -0600" channel="WARNER">
-    <title lang="es">Dragon Ball Super</title>
-    <episode-num system="onscreen">S1 E70</episode-num>
-  </programme>
-  <programme start="20220218112600 -0600" stop="20220218133200 -0600" channel="WARNER">
-    <title lang="es">Divinos Secretos</title>
-  </programme>
-  <programme start="20220218133200 -0600" stop="20220218150600 -0600" channel="WARNER">
-    <title lang="es">Gravedad</title>
-    <desc lang="es">Dos astronautas deben encontrar la manera de sobrevivir por si solos cuando su transbordador queda destruido dejándolos solos e incomunicados en el espacio.(n)</desc>
-    <credits>
-      <actor>Sandra Bullock</actor>
-      <actor>George Clooney</actor>
-      <producer>Alfonso Cuarón</producer>
-      <producer>David Heyman</producer>
-      <composer>Steven Price</composer>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/gravedad.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <country lang="es">Reino Unido</country>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220218150600 -0600" stop="20220218175600 -0600" channel="WARNER">
-    <title lang="es">2012</title>
-    <desc lang="es">Un escritor frustrado trata de mantener con vida a su familia cuando una serie de catástrofes en todo el mundo amenazan con destruir la humanidad.(n)</desc>
-    <credits>
-      <actor>John Cusack</actor>
-      <actor>Chiwetel Ejiofor</actor>
-      <actor>Amanda Peet</actor>
-      <actor>Oliver Platt</actor>
-      <actor>Thandie Newton</actor>
-      <actor>Danny Glover</actor>
-      <actor>Woody Harrelson</actor>
-      <producer>Harald Kloser</producer>
-      <producer>Mark Gordon</producer>
-      <composer>Harald Kloser</composer>
-      <composer>Thomas Wander</composer>
-    </credits>
-    <date>2009</date>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/2012.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220218175600 -0600" stop="20220218195600 -0600" channel="WARNER">
-    <title lang="es">Golpe bajo El juego final</title>
-  </programme>
-  <programme start="20220218195600 -0600" stop="20220218220000 -0600" channel="WARNER">
-    <title lang="es">Kong: La Isla Calavera</title>
-    <title lang="xx">Kong: Skull Island</title>
-    <desc lang="es">Un grupo de exploradores viajan a una misteriosa isla del Pacifico que tiene forma de calavera sin saber de los peligros de esta.(n)</desc>
-    <credits>
-      <actor>Tom Hiddleston</actor>
-      <actor>Brie Larson</actor>
-      <actor>Toby Kebbell</actor>
-      <actor>Jason Mitchell</actor>
-      <actor>Corey Hawkins</actor>
-      <actor>John C. Reilly</actor>
-      <actor>Samuel L. Jackson</actor>
-      <actor>Tom Wilkinson</actor>
-      <producer>Thomas Tull</producer>
-      <producer>Jon Jashni</producer>
-      <composer>Henry Jackman</composer>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/kong_la_isla_calavera.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <country lang="es">China</country>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220218220000 -0600" stop="20220219003900 -0600" channel="WARNER">
-    <title lang="es">Aquaman</title>
-    <title lang="xx">Aquaman</title>
-    <desc lang="es">Un mitad humano y mitad atlanticense es llevado al viaje de su vida donde se verá forzado a enfrentar quien es en verdad y descubrir si es digno a ser un rey.(n)</desc>
-    <credits>
-      <actor>Jason Momoa</actor>
-      <actor>Amber Heard</actor>
-      <actor>Willem Dafoe</actor>
-      <actor>Patrick Wilson</actor>
-      <actor>Dolph Lundgren</actor>
-      <actor>Yahya Abdul-Mateen II</actor>
-      <actor>Nicole Kidman</actor>
-      <actor>Temuera Morrison</actor>
-      <producer>Peter Safran</producer>
-      <producer>Rob Cowan</producer>
-      <composer>Rupert Gregson-Williams</composer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/aquaman.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220219003900 -0600" stop="20220219022700 -0600" channel="WARNER">
-    <title lang="es">Dos Armas Letales</title>
-  </programme>
-  <programme start="20220219022700 -0600" stop="20220219025200 -0600" channel="WARNER">
-    <title lang="es">Dragon Ball Super</title>
-    <episode-num system="onscreen">S1 E69</episode-num>
-  </programme>
-  <programme start="20220219025200 -0600" stop="20220219031600 -0600" channel="WARNER">
-    <title lang="es">Dragon Ball Super</title>
-    <episode-num system="onscreen">S1 E70</episode-num>
-  </programme>
-  <programme start="20220219031600 -0600" stop="20220219040400 -0600" channel="WARNER">
-    <title lang="es">Rescue me</title>
-    <episode-num system="onscreen">S1 E11</episode-num>
-  </programme>
-  <programme start="20220219040400 -0600" stop="20220219042600 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S7 E20</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220219042600 -0600" stop="20220219044600 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S7 E21</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220219044600 -0600" stop="20220219050700 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S7 E22</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220219050700 -0600" stop="20220219060000 -0600" channel="WARNER">
-    <title lang="es">Seinfeld</title>
-    <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.(n)</desc>
-    <credits>
-      <actor>Jerry Seinfeld</actor>
-      <actor>Julia Louis-Dreyfus</actor>
-      <actor>Michael Richards</actor>
-      <actor>Jason Alexander</actor>
-    </credits>
-    <date>1990</date>
-    <category lang="es">Programa</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
-    <episode-num system="onscreen">S7 E11</episode-num>
-  </programme>
-  <programme start="20220219060000 -0600" stop="20220219075800 -0600" channel="WARNER">
-    <title lang="es">The Flash</title>
-    <desc lang="es">Barry Allen es un científico que sufre un terrible accidente que para su bien lo convierte en el hombre más rápido del mundo.(n)</desc>
-    <credits>
-      <actor>Grant Gustin</actor>
-      <actor>Jesse L. Martin</actor>
-      <actor>Rick Cosnett</actor>
-      <actor>Danielle Panabaker</actor>
-      <actor>Candice Patton</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_flash.jpg" />
-    <episode-num system="onscreen">S6 E16</episode-num>
-  </programme>
-  <programme start="20220219075800 -0600" stop="20220219081700 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S8 E7</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220219081700 -0600" stop="20220219083900 -0600" channel="WARNER">
-    <title lang="es">Brooklyn nine-nine</title>
-    <episode-num system="onscreen">S3 E16</episode-num>
-  </programme>
-  <programme start="20220219083900 -0600" stop="20220219090300 -0600" channel="WARNER">
-    <title lang="es">Brooklyn nine-nine</title>
-    <episode-num system="onscreen">S3 E17</episode-num>
-  </programme>
-  <programme start="20220219090300 -0600" stop="20220219092800 -0600" channel="WARNER">
-    <title lang="es">Dragon Ball Super</title>
-    <episode-num system="onscreen">S1 E61</episode-num>
-  </programme>
-  <programme start="20220219092800 -0600" stop="20220219095400 -0600" channel="WARNER">
-    <title lang="es">Dragon Ball Super</title>
-    <episode-num system="onscreen">S1 E62</episode-num>
-  </programme>
-  <programme start="20220219095400 -0600" stop="20220219101900 -0600" channel="WARNER">
-    <title lang="es">Dragon Ball Super</title>
-    <episode-num system="onscreen">S1 E63</episode-num>
-  </programme>
-  <programme start="20220219101900 -0600" stop="20220219104300 -0600" channel="WARNER">
-    <title lang="es">Dragon Ball Super</title>
-    <episode-num system="onscreen">S1 E64</episode-num>
-  </programme>
-  <programme start="20220219104300 -0600" stop="20220219110700 -0600" channel="WARNER">
-    <title lang="es">Dragon Ball Super</title>
-    <episode-num system="onscreen">S1 E65</episode-num>
-  </programme>
-  <programme start="20220219110700 -0600" stop="20220219115400 -0600" channel="WARNER">
-    <title lang="es">Wipeout</title>
-    <episode-num system="onscreen">S8 E15</episode-num>
-  </programme>
-  <programme start="20220219115400 -0600" stop="20220219135500 -0600" channel="WARNER">
-    <title lang="es">Golpe bajo El juego final</title>
-  </programme>
-  <programme start="20220219135500 -0600" stop="20220219153200 -0600" channel="WARNER">
-    <title lang="es">El código del miedo</title>
-  </programme>
-  <programme start="20220219153200 -0600" stop="20220219172600 -0600" channel="WARNER">
-    <title lang="es">Dos Armas Letales</title>
-  </programme>
-  <programme start="20220219172600 -0600" stop="20220219192700 -0600" channel="WARNER">
-    <title lang="es">Ataque a la casa blanca</title>
-  </programme>
-  <programme start="20220219192700 -0600" stop="20220219220000 -0600" channel="WARNER">
-    <title lang="es">Aquaman</title>
-    <title lang="xx">Aquaman</title>
-    <desc lang="es">Un mitad humano y mitad atlanticense es llevado al viaje de su vida donde se verá forzado a enfrentar quien es en verdad y descubrir si es digno a ser un rey.(n)</desc>
-    <credits>
-      <actor>Jason Momoa</actor>
-      <actor>Amber Heard</actor>
-      <actor>Willem Dafoe</actor>
-      <actor>Patrick Wilson</actor>
-      <actor>Dolph Lundgren</actor>
-      <actor>Yahya Abdul-Mateen II</actor>
-      <actor>Nicole Kidman</actor>
-      <actor>Temuera Morrison</actor>
-      <producer>Peter Safran</producer>
-      <producer>Rob Cowan</producer>
-      <composer>Rupert Gregson-Williams</composer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/aquaman.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220219220000 -0600" stop="20220219235300 -0600" channel="WARNER">
-    <title lang="es">Rampage: Devastación</title>
-    <title lang="xx">Rampage</title>
-    <desc lang="es">El experto en primates hace equipo con un ingeniero genético para desarrollar un antídoto sobre un experimento que transforma en bestias a los animales.(n)</desc>
-    <credits>
-      <actor>Dwayne Johnson</actor>
-      <actor>Naomie Harris</actor>
-      <actor>Malin Åkerman</actor>
-      <actor>Joe Manganiello</actor>
-      <actor>Jake Lacy</actor>
-      <actor>Marley Shelton</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <writer>"Rampage" de Midway Games</writer>
-      <producer>Dwayne Johnson</producer>
-      <producer>Brad Peyton</producer>
-      <composer>Andrew Lockington</composer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/rampage_devastacion.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220219235300 -0600" stop="20220220015400 -0600" channel="WARNER">
-    <title lang="es">22 Bullets</title>
-  </programme>
-  <programme start="20220220235300 -0600" stop="20220221015400 -0600" channel="WARNER">
-    <title lang="es">22 Bullets</title>
-  </programme>
-  <programme start="20220221015400 -0600" stop="20220221021700 -0600" channel="WARNER">
-    <title lang="es">Brooklyn nine-nine</title>
-    <episode-num system="onscreen">S3 E16</episode-num>
-  </programme>
-  <programme start="20220221021700 -0600" stop="20220221023800 -0600" channel="WARNER">
-    <title lang="es">Brooklyn nine-nine</title>
-    <episode-num system="onscreen">S3 E17</episode-num>
-  </programme>
-  <programme start="20220221023800 -0600" stop="20220221025900 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S8 E2</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220221025900 -0600" stop="20220221032000 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S8 E3</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220221032000 -0600" stop="20220221033900 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S8 E4</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220221033900 -0600" stop="20220221035900 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S8 E5</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220221035900 -0600" stop="20220221042200 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S8 E6</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220221042200 -0600" stop="20220221060000 -0600" channel="WARNER">
-    <title lang="es">The Flash</title>
-    <desc lang="es">Barry Allen es un científico que sufre un terrible accidente que para su bien lo convierte en el hombre más rápido del mundo.(n)</desc>
-    <credits>
-      <actor>Grant Gustin</actor>
-      <actor>Jesse L. Martin</actor>
-      <actor>Rick Cosnett</actor>
-      <actor>Danielle Panabaker</actor>
-      <actor>Candice Patton</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_flash.jpg" />
-    <episode-num system="onscreen">S6 E16</episode-num>
-  </programme>
-  <programme start="20220221060000 -0600" stop="20220221070200 -0600" channel="WARNER">
-    <title lang="es">The Flash</title>
-    <desc lang="es">Barry Allen es un científico que sufre un terrible accidente que para su bien lo convierte en el hombre más rápido del mundo.(n)</desc>
-    <credits>
-      <actor>Grant Gustin</actor>
-      <actor>Jesse L. Martin</actor>
-      <actor>Rick Cosnett</actor>
-      <actor>Danielle Panabaker</actor>
-      <actor>Candice Patton</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_flash.jpg" />
-    <episode-num system="onscreen">S6 E17</episode-num>
-  </programme>
-  <programme start="20220221070200 -0600" stop="20220221072400 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S8 E11</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220221072400 -0600" stop="20220221074500 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S8 E12</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220221074500 -0600" stop="20220221080600 -0600" channel="WARNER">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.(n)</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Mayim Bialik</actor>
-    </credits>
-    <date>2007</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_big_bang_theory.jpg" />
-    <episode-num system="onscreen">S8 E13</episode-num>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220221080600 -0600" stop="20220221083000 -0600" channel="WARNER">
-    <title lang="es">Brooklyn nine-nine</title>
-    <episode-num system="onscreen">S3 E18</episode-num>
-  </programme>
-  <programme start="20220221083000 -0600" stop="20220221085400 -0600" channel="WARNER">
-    <title lang="es">Brooklyn nine-nine</title>
-    <episode-num system="onscreen">S3 E19</episode-num>
-  </programme>
-  <programme start="20220221085400 -0600" stop="20220221091900 -0600" channel="WARNER">
-    <title lang="es">Dragon Ball Super</title>
-    <episode-num system="onscreen">S1 E66</episode-num>
-  </programme>
-  <programme start="20220221091900 -0600" stop="20220221094200 -0600" channel="WARNER">
-    <title lang="es">Dragon Ball Super</title>
-    <episode-num system="onscreen">S1 E67</episode-num>
-  </programme>
-  <programme start="20220221094200 -0600" stop="20220221100600 -0600" channel="WARNER">
-    <title lang="es">Dragon Ball Super</title>
-    <episode-num system="onscreen">S1 E68</episode-num>
-  </programme>
-  <programme start="20220221100600 -0600" stop="20220221103200 -0600" channel="WARNER">
-    <title lang="es">Dragon Ball Super</title>
-    <episode-num system="onscreen">S1 E69</episode-num>
-  </programme>
-  <programme start="20220221103200 -0600" stop="20220221105700 -0600" channel="WARNER">
-    <title lang="es">Dragon Ball Super</title>
-    <episode-num system="onscreen">S1 E70</episode-num>
-  </programme>
-  <programme start="20220221105700 -0600" stop="20220221114900 -0600" channel="WARNER">
-    <title lang="es">Dragon ball Z TV Special #1 G</title>
-  </programme>
-  <programme start="20220221114900 -0600" stop="20220221123800 -0600" channel="WARNER">
-    <title lang="es">Dragon ball Z TV special #2</title>
-  </programme>
-  <programme start="20220221123800 -0600" stop="20220221144000 -0600" channel="WARNER">
-    <title lang="es">Ataque a la casa blanca</title>
-  </programme>
-  <programme start="20220221144000 -0600" stop="20220221162600 -0600" channel="WARNER">
-    <title lang="es">8 minutos antes de morir</title>
-    <title lang="xx">Source Code</title>
-    <desc lang="es">Un soldado despierta en el cuerpo de alguien más con la misión de encontrar una bomba en menos de 8 minutos y evitar vuele en pedazos un tren de pasajeros.(n)</desc>
-    <credits>
-      <actor>Jake Gyllenhaal</actor>
-      <actor>Michelle Monaghan</actor>
-      <actor>Vera Farmiga</actor>
-      <actor>Jeffrey Wright</actor>
-      <producer>Mark Gordon</producer>
-      <producer>Jordan Wynn</producer>
-      <composer>Chris P. Bacon</composer>
-    </credits>
-    <date>2011</date>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/8_minutos_antes_de_morir.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <country lang="es">Francia</country>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220221162600 -0600" stop="20220221182300 -0600" channel="WARNER">
-    <title lang="es">Policias de repuesto</title>
-  </programme>
-  <programme start="20220221182300 -0600" stop="20220221200600 -0600" channel="WARNER">
-    <title lang="es">Venganza Letal (Faster)</title>
-    <desc lang="es">Un asalta bancos tras 10 años de condena decide vengar la muerte de su hermano por quienes lo traicionaron e hicieron que fuera a prisión.(n)</desc>
-    <credits>
-      <actor>Dwayne Johnson</actor>
-      <actor>Tilly Bob Thornton</actor>
-      <actor>Maggie Grace</actor>
-      <producer>Tony Gayton</producer>
-      <producer>Liz Glotzer</producer>
-      <composer>Clint Mansell</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/venganza_letal_faster.jpg" />
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20220221200600 -0600" stop="20220221220000 -0600" channel="WARNER">
-    <title lang="es">Rampage: Devastación</title>
-    <title lang="xx">Rampage</title>
-    <desc lang="es">El experto en primates hace equipo con un ingeniero genético para desarrollar un antídoto sobre un experimento que transforma en bestias a los animales.(n)</desc>
-    <credits>
-      <actor>Dwayne Johnson</actor>
-      <actor>Naomie Harris</actor>
-      <actor>Malin Åkerman</actor>
-      <actor>Joe Manganiello</actor>
-      <actor>Jake Lacy</actor>
-      <actor>Marley Shelton</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <writer>"Rampage" de Midway Games</writer>
-      <producer>Dwayne Johnson</producer>
-      <producer>Brad Peyton</producer>
-      <composer>Andrew Lockington</composer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/rampage_devastacion.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220221220000 -0600" stop="20220222000300 -0600" channel="WARNER">
-    <title lang="es">Pasajeros</title>
-  </programme>
-  <programme start="20220222220000 -0600" stop="20220223000300 -0600" channel="WARNER">
-    <title lang="es">Pasajeros</title>
-  </programme>
   <programme start="20220218002000 -0600" stop="20220218012000 -0600" channel="AMC">
     <title lang="es">Eli Roth's history of horror</title>
     <episode-num system="onscreen">E6</episode-num>
@@ -10285,8 +9363,8 @@
   <programme start="20220222073000 -0600" stop="20220222080000 -0600" channel="ESTRELLAS -2HRS">
     <title lang="es">Farmacias Similares</title>
   </programme>
-  <programme start="20220222140000 -0600" stop="20220222153000 -0600" channel="ESTRELLAS -2HRS">
-    <title lang="es">Cuéntamelo Ya! En Vivo</title>
+  <programme start="20220222183000 -0600" stop="20220222193000 -0600" channel="ESTRELLAS -2HRS">
+    <title lang="es">Contigo Sí</title>
   </programme>
   <programme start="20220222233000 -0600" stop="20220223003000 -0600" channel="ESTRELLAS -2HRS">
     <title lang="es">Los Ricos También Lloran</title>
@@ -11328,324 +10406,131 @@
   <programme start="20220222232400 -0600" stop="20220223001200 -0600" channel="DISCOVERY CIVILIZATION">
     <title lang="es">Grandes misiones de la NASA</title>
   </programme>
-  <programme start="20220218005000 -0600" stop="20220218014300 -0600" channel="HISTORY 2">
-    <title lang="es">Inventos de la antigüedad</title>
-    <episode-num system="onscreen">S3 E4</episode-num>
+  <programme start="20220218004700 -0600" stop="20220218015100 -0600" channel="HISTORY 2">
+    <title lang="es">Mundo de mil tesoros</title>
   </programme>
-  <programme start="20220218014300 -0600" stop="20220218032000 -0600" channel="HISTORY 2">
-    <title lang="es">Dos grados el punto de</title>
+  <programme start="20220218015100 -0600" stop="20220218033100 -0600" channel="HISTORY 2">
+    <title lang="es">Dos grados el punto de no retorno</title>
   </programme>
-  <programme start="20220218032000 -0600" stop="20220218041500 -0600" channel="HISTORY 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E10</episode-num>
-  </programme>
-  <programme start="20220218041500 -0600" stop="20220218051000 -0600" channel="HISTORY 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E11</episode-num>
-  </programme>
-  <programme start="20220218051000 -0600" stop="20220218053500 -0600" channel="HISTORY 2">
+  <programme start="20220218033100 -0600" stop="20220218040000 -0600" channel="HISTORY 2">
     <title lang="es">Errar es humano</title>
-    <episode-num system="onscreen">S1 E10</episode-num>
   </programme>
-  <programme start="20220218053500 -0600" stop="20220218060000 -0600" channel="HISTORY 2">
+  <programme start="20220218040000 -0600" stop="20220218050000 -0600" channel="HISTORY 2">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20220218050000 -0600" stop="20220218060000 -0600" channel="HISTORY 2">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20220218060000 -0600" stop="20220218070000 -0600" channel="HISTORY 2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220218070000 -0600" stop="20220218080000 -0600" channel="HISTORY 2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220218080000 -0600" stop="20220218085500 -0600" channel="HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20220218085500 -0600" stop="20220218100000 -0600" channel="HISTORY 2">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20220218100000 -0600" stop="20220218114000 -0600" channel="HISTORY 2">
+    <title lang="es">Dos grados el punto de no retorno</title>
+  </programme>
+  <programme start="20220218114000 -0600" stop="20220218120600 -0600" channel="HISTORY 2">
     <title lang="es">Errar es humano</title>
-    <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
-  <programme start="20220218060000 -0600" stop="20220218065000 -0600" channel="HISTORY 2">
-    <title lang="es">La maldición de la isla</title>
-    <episode-num system="onscreen">S8 E109</episode-num>
-  </programme>
-  <programme start="20220218065000 -0600" stop="20220218074300 -0600" channel="HISTORY 2">
+  <programme start="20220218120600 -0600" stop="20220218130600 -0600" channel="HISTORY 2">
     <title lang="es">Inventos de la antigüedad</title>
-    <episode-num system="onscreen">S3 E4</episode-num>
   </programme>
-  <programme start="20220218074300 -0600" stop="20220218092000 -0600" channel="HISTORY 2">
-    <title lang="es">Dos grados el punto de</title>
-  </programme>
-  <programme start="20220218092000 -0600" stop="20220218102000 -0600" channel="HISTORY 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E10</episode-num>
-  </programme>
-  <programme start="20220218102000 -0600" stop="20220218111700 -0600" channel="HISTORY 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E11</episode-num>
-  </programme>
-  <programme start="20220218111700 -0600" stop="20220218121000 -0600" channel="HISTORY 2">
-    <title lang="es">Inventos de la antigüedad</title>
-    <episode-num system="onscreen">S3 E4</episode-num>
-  </programme>
-  <programme start="20220218121000 -0600" stop="20220218130100 -0600" channel="HISTORY 2">
+  <programme start="20220218130600 -0600" stop="20220218140600 -0600" channel="HISTORY 2">
     <title lang="es">La maldición de la isla</title>
-    <episode-num system="onscreen">S8 E109</episode-num>
   </programme>
-  <programme start="20220218130100 -0600" stop="20220218140100 -0600" channel="HISTORY 2">
+  <programme start="20220218140600 -0600" stop="20220218154800 -0600" channel="HISTORY 2">
+    <title lang="es">Dos grados el punto de no retorno</title>
+  </programme>
+  <programme start="20220218154800 -0600" stop="20220218165400 -0600" channel="HISTORY 2">
     <title lang="es">Mundo de mil tesoros</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20220218140100 -0600" stop="20220218150100 -0600" channel="HISTORY 2">
+  <programme start="20220218165400 -0600" stop="20220218180000 -0600" channel="HISTORY 2">
     <title lang="es">Mundo de mil tesoros</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20220218150100 -0600" stop="20220218163800 -0600" channel="HISTORY 2">
-    <title lang="es">Dos grados el punto de</title>
-  </programme>
-  <programme start="20220218163800 -0600" stop="20220218172800 -0600" channel="HISTORY 2">
-    <title lang="es">La maldición de la isla</title>
-    <episode-num system="onscreen">S8 E110</episode-num>
-  </programme>
-  <programme start="20220218172800 -0600" stop="20220218182700 -0600" channel="HISTORY 2">
-    <title lang="es">Mundo de mil tesoros</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20220218182700 -0600" stop="20220218192600 -0600" channel="HISTORY 2">
-    <title lang="es">Mundo de mil tesoros</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20220218192600 -0600" stop="20220218201900 -0600" channel="HISTORY 2">
+  <programme start="20220218180000 -0600" stop="20220218190000 -0600" channel="HISTORY 2">
     <title lang="es">Inventos de la antigüedad</title>
-    <episode-num system="onscreen">S3 E5</episode-num>
   </programme>
-  <programme start="20220218201900 -0600" stop="20220218211000 -0600" channel="HISTORY 2">
-    <title lang="es">Proyecto imposible</title>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20220218211000 -0600" stop="20220218220000 -0600" channel="HISTORY 2">
-    <title lang="es">Demoliendo mitos</title>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20220218220000 -0600" stop="20220218230000 -0600" channel="HISTORY 2">
+  <programme start="20220218190000 -0600" stop="20220218200600 -0600" channel="HISTORY 2">
     <title lang="es">Pueblos originarios de México</title>
-    <episode-num system="onscreen">E3</episode-num>
   </programme>
-  <programme start="20220218230000 -0600" stop="20220218235000 -0600" channel="HISTORY 2">
+  <programme start="20220218200600 -0600" stop="20220218205900 -0600" channel="HISTORY 2">
     <title lang="es">Ciudades Ocultas</title>
-    <episode-num system="onscreen">S4 E1</episode-num>
   </programme>
-  <programme start="20220218235000 -0600" stop="20220219004000 -0600" channel="HISTORY 2">
-    <title lang="es">La maldición de la isla</title>
-    <episode-num system="onscreen">S8 E110</episode-num>
-  </programme>
-  <programme start="20220219235000 -0600" stop="20220220004000 -0600" channel="HISTORY 2">
-    <title lang="es">La maldición de la isla</title>
-    <episode-num system="onscreen">S8 E110</episode-num>
-  </programme>
-  <programme start="20220220004000 -0600" stop="20220220013300 -0600" channel="HISTORY 2">
-    <title lang="es">Inventos de la antigüedad</title>
-    <episode-num system="onscreen">S3 E5</episode-num>
-  </programme>
-  <programme start="20220220013300 -0600" stop="20220220022400 -0600" channel="HISTORY 2">
+  <programme start="20220218205900 -0600" stop="20220218215600 -0600" channel="HISTORY 2">
     <title lang="es">Proyecto imposible</title>
-    <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20220220022400 -0600" stop="20220220031400 -0600" channel="HISTORY 2">
+  <programme start="20220218215600 -0600" stop="20220218225200 -0600" channel="HISTORY 2">
     <title lang="es">Demoliendo mitos</title>
-    <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20220220031400 -0600" stop="20220220040900 -0600" channel="HISTORY 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E12</episode-num>
-  </programme>
-  <programme start="20220220040900 -0600" stop="20220220050300 -0600" channel="HISTORY 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E13</episode-num>
-  </programme>
-  <programme start="20220220050300 -0600" stop="20220220053000 -0600" channel="HISTORY 2">
-    <title lang="es">Errar es humano</title>
-    <episode-num system="onscreen">S1 E11</episode-num>
-  </programme>
-  <programme start="20220220053000 -0600" stop="20220220060000 -0600" channel="HISTORY 2">
-    <title lang="es">Errar es humano</title>
-    <episode-num system="onscreen">S1 E12</episode-num>
-  </programme>
-  <programme start="20220220060000 -0600" stop="20220220065000 -0600" channel="HISTORY 2">
+  <programme start="20220218225200 -0600" stop="20220218234800 -0600" channel="HISTORY 2">
     <title lang="es">La maldición de la isla</title>
-    <episode-num system="onscreen">S8 E110</episode-num>
   </programme>
-  <programme start="20220220065000 -0600" stop="20220220074300 -0600" channel="HISTORY 2">
+  <programme start="20220218234800 -0600" stop="20220219004700 -0600" channel="HISTORY 2">
     <title lang="es">Inventos de la antigüedad</title>
-    <episode-num system="onscreen">S3 E5</episode-num>
   </programme>
-  <programme start="20220220074300 -0600" stop="20220220083400 -0600" channel="HISTORY 2">
-    <title lang="es">Proyecto imposible</title>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20220220083400 -0600" stop="20220220092400 -0600" channel="HISTORY 2">
-    <title lang="es">Demoliendo mitos</title>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20220220092400 -0600" stop="20220220102400 -0600" channel="HISTORY 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E12</episode-num>
-  </programme>
-  <programme start="20220220102400 -0600" stop="20220220111700 -0600" channel="HISTORY 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E13</episode-num>
-  </programme>
-  <programme start="20220220111700 -0600" stop="20220220121000 -0600" channel="HISTORY 2">
+  <programme start="20220219234800 -0600" stop="20220220004700 -0600" channel="HISTORY 2">
     <title lang="es">Inventos de la antigüedad</title>
-    <episode-num system="onscreen">S3 E5</episode-num>
   </programme>
-  <programme start="20220220121000 -0600" stop="20220220130500 -0600" channel="HISTORY 2">
-    <title lang="es">La maldición de la isla</title>
-    <episode-num system="onscreen">S8 E110</episode-num>
-  </programme>
-  <programme start="20220220130500 -0600" stop="20220220140500 -0600" channel="HISTORY 2">
+  <programme start="20220220004700 -0600" stop="20220220015300 -0600" channel="HISTORY 2">
     <title lang="es">Pueblos originarios de México</title>
-    <episode-num system="onscreen">E3</episode-num>
   </programme>
-  <programme start="20220220140500 -0600" stop="20220220145900 -0600" channel="HISTORY 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E13</episode-num>
-  </programme>
-  <programme start="20220220145900 -0600" stop="20220220155300 -0600" channel="HISTORY 2">
+  <programme start="20220220015300 -0600" stop="20220220024300 -0600" channel="HISTORY 2">
     <title lang="es">Proyecto imposible</title>
-    <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20220220155300 -0600" stop="20220220164500 -0600" channel="HISTORY 2">
+  <programme start="20220220024300 -0600" stop="20220220031300 -0600" channel="HISTORY 2">
+    <title lang="es">Errar es humano</title>
+  </programme>
+  <programme start="20220220031300 -0600" stop="20220220040300 -0600" channel="HISTORY 2">
     <title lang="es">Demoliendo mitos</title>
-    <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20220220164500 -0600" stop="20220220173800 -0600" channel="HISTORY 2">
-    <title lang="es">Secretos de Estado</title>
-    <episode-num system="onscreen">S2 E11</episode-num>
+  <programme start="20220220040300 -0600" stop="20220220050000 -0600" channel="HISTORY 2">
+    <title lang="es">Milagros decodificados</title>
   </programme>
-  <programme start="20220220173800 -0600" stop="20220220183800 -0600" channel="HISTORY 2">
+  <programme start="20220220050000 -0600" stop="20220220060000 -0600" channel="HISTORY 2">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20220220060000 -0600" stop="20220220070000 -0600" channel="HISTORY 2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220220070000 -0600" stop="20220220080000 -0600" channel="HISTORY 2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220220080000 -0600" stop="20220220085800 -0600" channel="HISTORY 2">
+    <title lang="es">La maldición de la isla</title>
+  </programme>
+  <programme start="20220220085800 -0600" stop="20220220100000 -0600" channel="HISTORY 2">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20220220100000 -0600" stop="20220220110000 -0600" channel="HISTORY 2">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20220220110000 -0600" stop="20220220120000 -0600" channel="HISTORY 2">
+    <title lang="es">Proyecto imposible</title>
+  </programme>
+  <programme start="20220220120000 -0600" stop="20220220130000 -0600" channel="HISTORY 2">
+    <title lang="es">Demoliendo mitos</title>
+  </programme>
+  <programme start="20220220130000 -0600" stop="20220220140000 -0600" channel="HISTORY 2">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20220220140000 -0600" stop="20220220145800 -0600" channel="HISTORY 2">
+    <title lang="es">Proyecto imposible</title>
+  </programme>
+  <programme start="20220220145800 -0600" stop="20220220155800 -0600" channel="HISTORY 2">
+    <title lang="es">Demoliendo mitos</title>
+  </programme>
+  <programme start="20220220155800 -0600" stop="20220220170000 -0600" channel="HISTORY 2">
     <title lang="es">Pueblos originarios de México</title>
-    <episode-num system="onscreen">E3</episode-num>
   </programme>
-  <programme start="20220220183800 -0600" stop="20220220193000 -0600" channel="HISTORY 2">
+  <programme start="20220220170000 -0600" stop="20220220180000 -0600" channel="HISTORY 2">
     <title lang="es">Ciudades Ocultas</title>
-    <episode-num system="onscreen">S4 E1</episode-num>
-  </programme>
-  <programme start="20220220193000 -0600" stop="20220220202000 -0600" channel="HISTORY 2">
-    <title lang="es">Cómo el Sexo Cambió al Mundo</title>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20220220202000 -0600" stop="20220220220000 -0600" channel="HISTORY 2">
-    <title lang="es">Calígula 1400 días de terror</title>
-  </programme>
-  <programme start="20220220220000 -0600" stop="20220220225000 -0600" channel="HISTORY 2">
-    <title lang="es">Ciudades Ocultas</title>
-    <episode-num system="onscreen">S4 E7</episode-num>
-  </programme>
-  <programme start="20220220225000 -0600" stop="20220220235000 -0600" channel="HISTORY 2">
-    <title lang="es">Mundo de mil tesoros</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20220220235000 -0600" stop="20220221004000 -0600" channel="HISTORY 2">
-    <title lang="es">Cómo el Sexo Cambió al Mundo</title>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20220221235000 -0600" stop="20220222004000 -0600" channel="HISTORY 2">
-    <title lang="es">Cómo el Sexo Cambió al Mundo</title>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20220222004000 -0600" stop="20220222013100 -0600" channel="HISTORY 2">
-    <title lang="es">Secretos de Estado</title>
-    <episode-num system="onscreen">S2 E11</episode-num>
-  </programme>
-  <programme start="20220222013100 -0600" stop="20220222031100 -0600" channel="HISTORY 2">
-    <title lang="es">Calígula 1400 días de terror</title>
-  </programme>
-  <programme start="20220222031100 -0600" stop="20220222040600 -0600" channel="HISTORY 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E14</episode-num>
-  </programme>
-  <programme start="20220222040600 -0600" stop="20220222050000 -0600" channel="HISTORY 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E15</episode-num>
-  </programme>
-  <programme start="20220222050000 -0600" stop="20220222053000 -0600" channel="HISTORY 2">
-    <title lang="es">Errar es humano</title>
-    <episode-num system="onscreen">S1 E12</episode-num>
-  </programme>
-  <programme start="20220222053000 -0600" stop="20220222060000 -0600" channel="HISTORY 2">
-    <title lang="es">Errar es humano</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20220222060000 -0600" stop="20220222070000 -0600" channel="HISTORY 2">
-    <title lang="es">Secretos de Estado</title>
-    <episode-num system="onscreen">S2 E11</episode-num>
-  </programme>
-  <programme start="20220222070000 -0600" stop="20220222075500 -0600" channel="HISTORY 2">
-    <title lang="es">Cómo el Sexo Cambió al Mundo</title>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20220222075500 -0600" stop="20220222093200 -0600" channel="HISTORY 2">
-    <title lang="es">Washington</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20220222093200 -0600" stop="20220222102200 -0600" channel="HISTORY 2">
-    <title lang="es">Ciudades Ocultas</title>
-    <episode-num system="onscreen">S4 E7</episode-num>
-  </programme>
-  <programme start="20220222102200 -0600" stop="20220222111600 -0600" channel="HISTORY 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E15</episode-num>
-  </programme>
-  <programme start="20220222111600 -0600" stop="20220222121000 -0600" channel="HISTORY 2">
-    <title lang="es">Cómo el Sexo Cambió al Mundo</title>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20220222121000 -0600" stop="20220222131000 -0600" channel="HISTORY 2">
-    <title lang="es">Secretos de Estado</title>
-    <episode-num system="onscreen">S2 E11</episode-num>
-  </programme>
-  <programme start="20220222131000 -0600" stop="20220222140000 -0600" channel="HISTORY 2">
-    <title lang="es">Ciudades Ocultas</title>
-    <episode-num system="onscreen">S4 E7</episode-num>
-  </programme>
-  <programme start="20220222140000 -0600" stop="20220222150000 -0600" channel="HISTORY 2">
-    <title lang="es">Mundo de mil tesoros</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20220222150000 -0600" stop="20220222152900 -0600" channel="HISTORY 2">
-    <title lang="es">Errar es humano</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20220222152900 -0600" stop="20220222162900 -0600" channel="HISTORY 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E14</episode-num>
-  </programme>
-  <programme start="20220222162900 -0600" stop="20220222172900 -0600" channel="HISTORY 2">
-    <title lang="es">Constructores de imperios</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20220222172900 -0600" stop="20220222181900 -0600" channel="HISTORY 2">
-    <title lang="es">Ciudades Ocultas</title>
-    <episode-num system="onscreen">S4 E7</episode-num>
-  </programme>
-  <programme start="20220222181900 -0600" stop="20220222191900 -0600" channel="HISTORY 2">
-    <title lang="es">Mundo de mil tesoros</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20220222191900 -0600" stop="20220222200900 -0600" channel="HISTORY 2">
-    <title lang="es">Inventos legendarios</title>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20220222200900 -0600" stop="20220222203900 -0600" channel="HISTORY 2">
-    <title lang="es">Grandes Mitos Griegos</title>
-    <episode-num system="onscreen">S1 E9</episode-num>
-  </programme>
-  <programme start="20220222203900 -0600" stop="20220222210900 -0600" channel="HISTORY 2">
-    <title lang="es">Grandes Mitos Griegos</title>
-    <episode-num system="onscreen">S1 E10</episode-num>
-  </programme>
-  <programme start="20220222210900 -0600" stop="20220222220000 -0600" channel="HISTORY 2">
-    <title lang="es">El oro perdido de la segunda</title>
-    <episode-num system="onscreen">E5</episode-num>
-  </programme>
-  <programme start="20220222220000 -0600" stop="20220222225800 -0600" channel="HISTORY 2">
-    <title lang="es">Apocalipsis ancestrales</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20220222225800 -0600" stop="20220222235600 -0600" channel="HISTORY 2">
-    <title lang="es">Apocalipsis ancestrales</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20220222235600 -0600" stop="20220223005600 -0600" channel="HISTORY 2">
-    <title lang="es">Constructores de imperios</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
   <programme start="20220218004600 -0600" stop="20220218013600 -0600" channel="DISCOVERY TURBO">
     <title lang="es">Diesel Dave</title>
@@ -16190,9 +15075,6 @@
   <programme start="20220219131500 -0600" stop="20220219140000 -0600" channel="ANTENA 3">
     <title lang="es">Hoteles con encanto</title>
   </programme>
-  <programme start="20220219140000 -0600" stop="20220219144500 -0600" channel="ANTENA 3">
-    <title lang="es">Noticias 2</title>
-  </programme>
   <programme start="20220219144500 -0600" stop="20220219160000 -0600" channel="ANTENA 3">
     <title lang="es">45 Revoluciones</title>
   </programme>
@@ -16231,6 +15113,9 @@
   </programme>
   <programme start="20220221010000 -0600" stop="20220221014500 -0600" channel="ANTENA 3">
     <title lang="es">Noticias directo</title>
+  </programme>
+  <programme start="20220221183000 -0600" stop="20220221193000 -0600" channel="ANTENA 3">
+    <title lang="es">Pasapalabra</title>
   </programme>
   <programme start="20220221201500 -0600" stop="20220221214500 -0600" channel="ANTENA 3">
     <title lang="es">Programa por determinar</title>
@@ -24692,8 +23577,8 @@
   <programme start="20220221033000 -0600" stop="20220221040000 -0600" channel="UNIVISION HD">
     <title lang="es">Noticiero Univisión - Fin de semana</title>
   </programme>
-  <programme start="20220221140500 -0600" stop="20220221150000 -0600" channel="UNIVISION HD">
-    <title lang="es">Cukur</title>
+  <programme start="20220221191000 -0600" stop="20220221200500 -0600" channel="UNIVISION HD">
+    <title lang="es">Lazos de amor</title>
   </programme>
   <programme start="20220218010000 -0600" stop="20220218020000 -0600" channel="PASIONES HD">
     <title lang="es">La hoguera de la ambición</title>
@@ -24905,6 +23790,9 @@
   <programme start="20220219140000 -0600" stop="20220219150000 -0600" channel="GLITZ">
     <title lang="es">Casos de Familia</title>
   </programme>
+  <programme start="20220219190000 -0600" stop="20220219200000 -0600" channel="GLITZ">
+    <title lang="es">Cartas del corazón</title>
+  </programme>
   <programme start="20220220030000 -0600" stop="20220220040000 -0600" channel="GLITZ">
     <title lang="es">¿Quién tiene la razón</title>
   </programme>
@@ -24957,9 +23845,6 @@
     <title lang="es">¿Quién tiene la razón</title>
   </programme>
   <programme start="20220221030000 -0600" stop="20220221040000 -0600" channel="GLITZ">
-    <title lang="es">El amor las vuelve locas</title>
-  </programme>
-  <programme start="20220221140000 -0600" stop="20220221150000 -0600" channel="GLITZ">
     <title lang="es">El amor las vuelve locas</title>
   </programme>
   <programme start="20220221150000 -0600" stop="20220221160000 -0600" channel="GLITZ">
@@ -25121,8 +24006,8 @@
   <programme start="20220219093000 -0600" stop="20220219100000 -0600" channel="BABYTV">
     <title lang="es">Estudios Baby TV</title>
   </programme>
-  <programme start="20220219143000 -0600" stop="20220219150000 -0600" channel="BABYTV">
-    <title lang="es">El patio de la imaginación</title>
+  <programme start="20220219190000 -0600" stop="20220219193000 -0600" channel="BABYTV">
+    <title lang="es">Cálmate y Relájate</title>
   </programme>
   <programme start="20220220093000 -0600" stop="20220220100000 -0600" channel="BABYTV">
     <title lang="es">Canciones y rimas</title>
@@ -25407,9 +24292,6 @@
     <title lang="es">Attack on Titan</title>
     <episode-num system="onscreen">S1 E10</episode-num>
   </programme>
-  <programme start="20220221140500 -0600" stop="20220221150000 -0600" channel="BITME">
-    <title lang="es">Súper X</title>
-  </programme>
   <programme start="20220221150000 -0600" stop="20220221163000 -0600" channel="BITME">
     <title lang="es">Game Time</title>
   </programme>
@@ -25428,6 +24310,369 @@
   </programme>
   <programme start="20220221230000 -0600" stop="20220222003000 -0600" channel="BITME">
     <title lang="es">Game Time</title>
+  </programme>
+  <programme start="20220218010000 -0600" stop="20220218020000 -0600" channel="CARTOONITO">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20220218020000 -0600" stop="20220218030000 -0600" channel="CARTOONITO">
+    <title lang="es">Oddbods</title>
+  </programme>
+  <programme start="20220218030000 -0600" stop="20220218040000 -0600" channel="CARTOONITO">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20220218040000 -0600" stop="20220218050000 -0600" channel="CARTOONITO">
+    <title lang="es">Scooby Doo y ¿quién crees tú</title>
+  </programme>
+  <programme start="20220218050000 -0600" stop="20220218060000 -0600" channel="CARTOONITO">
+    <title lang="es">Masha y el Oso</title>
+    <title lang="xx">Masha i Medved</title>
+    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención.(n)</desc>
+    <credits>
+      <producer>Oleg Kuzovkov</producer>
+      <producer>Dmitrij Lovejko</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/masha_y_el_oso.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220218060000 -0600" stop="20220218061500 -0600" channel="CARTOONITO">
+    <title lang="es">La Granja de Zenón</title>
+  </programme>
+  <programme start="20220218061500 -0600" stop="20220218063000 -0600" channel="CARTOONITO">
+    <title lang="es">CoComelon</title>
+  </programme>
+  <programme start="20220218063000 -0600" stop="20220218064500 -0600" channel="CARTOONITO">
+    <title lang="es">Cleo y Cuquín</title>
+  </programme>
+  <programme start="20220218064500 -0600" stop="20220218070000 -0600" channel="CARTOONITO">
+    <title lang="es">Mundo Bita</title>
+  </programme>
+  <programme start="20220218070000 -0600" stop="20220218080000 -0600" channel="CARTOONITO">
+    <title lang="es">Masha y el Oso</title>
+    <title lang="xx">Masha i Medved</title>
+    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención.(n)</desc>
+    <credits>
+      <producer>Oleg Kuzovkov</producer>
+      <producer>Dmitrij Lovejko</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/masha_y_el_oso.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220218080000 -0600" stop="20220218083000 -0600" channel="CARTOONITO">
+    <title lang="es">Thomas and Friends</title>
+  </programme>
+  <programme start="20220218083000 -0600" stop="20220218090000 -0600" channel="CARTOONITO">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20220218090000 -0600" stop="20220218093000 -0600" channel="CARTOONITO">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20220218093000 -0600" stop="20220218100000 -0600" channel="CARTOONITO">
+    <title lang="es">Lucas the Spider</title>
+  </programme>
+  <programme start="20220218100000 -0600" stop="20220218103000 -0600" channel="CARTOONITO">
+    <title lang="es">Little Ellen</title>
+  </programme>
+  <programme start="20220218103000 -0600" stop="20220218110000 -0600" channel="CARTOONITO">
+    <title lang="es">Yabba Dabba Dinosaurs</title>
+  </programme>
+  <programme start="20220218110000 -0600" stop="20220218113000 -0600" channel="CARTOONITO">
+    <title lang="es">Mush-Mush y los Mushables</title>
+  </programme>
+  <programme start="20220218113000 -0600" stop="20220218120000 -0600" channel="CARTOONITO">
+    <title lang="es">Mónica y su pandilla</title>
+  </programme>
+  <programme start="20220218120000 -0600" stop="20220218130000 -0600" channel="CARTOONITO">
+    <title lang="es">Masha y el Oso</title>
+    <title lang="xx">Masha i Medved</title>
+    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención.(n)</desc>
+    <credits>
+      <producer>Oleg Kuzovkov</producer>
+      <producer>Dmitrij Lovejko</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/masha_y_el_oso.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220218130000 -0600" stop="20220218133000 -0600" channel="CARTOONITO">
+    <title lang="es">Thomas and Friends</title>
+  </programme>
+  <programme start="20220218133000 -0600" stop="20220218143000 -0600" channel="CARTOONITO">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20220218143000 -0600" stop="20220218150000 -0600" channel="CARTOONITO">
+    <title lang="es">Hey Duggee</title>
+  </programme>
+  <programme start="20220218150000 -0600" stop="20220218153000 -0600" channel="CARTOONITO">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20220218153000 -0600" stop="20220218160000 -0600" channel="CARTOONITO">
+    <title lang="es">Yabba Dabba Dinosaurs</title>
+  </programme>
+  <programme start="20220218160000 -0600" stop="20220218163000 -0600" channel="CARTOONITO">
+    <title lang="es">Lucas the Spider</title>
+  </programme>
+  <programme start="20220218163000 -0600" stop="20220218170000 -0600" channel="CARTOONITO">
+    <title lang="es">Little Ellen</title>
+  </programme>
+  <programme start="20220218170000 -0600" stop="20220218171500 -0600" channel="CARTOONITO">
+    <title lang="es">CoComelon</title>
+  </programme>
+  <programme start="20220218171500 -0600" stop="20220218173000 -0600" channel="CARTOONITO">
+    <title lang="es">La Granja de Zenón</title>
+  </programme>
+  <programme start="20220218173000 -0600" stop="20220218174500 -0600" channel="CARTOONITO">
+    <title lang="es">Morphle</title>
+  </programme>
+  <programme start="20220218174500 -0600" stop="20220218180000 -0600" channel="CARTOONITO">
+    <title lang="es">Blippi</title>
+  </programme>
+  <programme start="20220218180000 -0600" stop="20220218184500 -0600" channel="CARTOONITO">
+    <title lang="es">Masha y el Oso</title>
+    <title lang="xx">Masha i Medved</title>
+    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención.(n)</desc>
+    <credits>
+      <producer>Oleg Kuzovkov</producer>
+      <producer>Dmitrij Lovejko</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/masha_y_el_oso.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220218184500 -0600" stop="20220218190000 -0600" channel="CARTOONITO">
+    <title lang="es">Odo</title>
+  </programme>
+  <programme start="20220218190000 -0600" stop="20220218193000 -0600" channel="CARTOONITO">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20220218193000 -0600" stop="20220218200000 -0600" channel="CARTOONITO">
+    <title lang="es">Scooby Doo y ¿quién crees tú</title>
+  </programme>
+  <programme start="20220218200000 -0600" stop="20220218203000 -0600" channel="CARTOONITO">
+    <title lang="es">Yabba Dabba Dinosaurs</title>
+  </programme>
+  <programme start="20220218203000 -0600" stop="20220218210000 -0600" channel="CARTOONITO">
+    <title lang="es">Little Ellen</title>
+  </programme>
+  <programme start="20220218210000 -0600" stop="20220218213000 -0600" channel="CARTOONITO">
+    <title lang="es">Lucas the Spider</title>
+  </programme>
+  <programme start="20220218213000 -0600" stop="20220218220000 -0600" channel="CARTOONITO">
+    <title lang="es">Thomas and Friends</title>
+  </programme>
+  <programme start="20220218220000 -0600" stop="20220218223000 -0600" channel="CARTOONITO">
+    <title lang="es">La Granja de Zenón</title>
+  </programme>
+  <programme start="20220218223000 -0600" stop="20220218224500 -0600" channel="CARTOONITO">
+    <title lang="es">CoComelon</title>
+  </programme>
+  <programme start="20220218224500 -0600" stop="20220218230000 -0600" channel="CARTOONITO">
+    <title lang="es">Cleo y Cuquín</title>
+  </programme>
+  <programme start="20220218230000 -0600" stop="20220219000000 -0600" channel="CARTOONITO">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20220219060000 -0600" stop="20220219070000 -0600" channel="CARTOONITO">
+    <title lang="es">Oddbods</title>
+  </programme>
+  <programme start="20220219070000 -0600" stop="20220219080000 -0600" channel="CARTOONITO">
+    <title lang="es">CoComelon</title>
+  </programme>
+  <programme start="20220219080000 -0600" stop="20220219081500 -0600" channel="CARTOONITO">
+    <title lang="es">Blippi</title>
+  </programme>
+  <programme start="20220219081500 -0600" stop="20220219083000 -0600" channel="CARTOONITO">
+    <title lang="es">Masha's Tales</title>
+  </programme>
+  <programme start="20220219083000 -0600" stop="20220219084500 -0600" channel="CARTOONITO">
+    <title lang="es">Cleo y Cuquín</title>
+  </programme>
+  <programme start="20220219084500 -0600" stop="20220219090000 -0600" channel="CARTOONITO">
+    <title lang="es">Morphle</title>
+  </programme>
+  <programme start="20220219090000 -0600" stop="20220219100000 -0600" channel="CARTOONITO">
+    <title lang="es">La Granja de Zenón</title>
+  </programme>
+  <programme start="20220219100000 -0600" stop="20220219113000 -0600" channel="CARTOONITO">
+    <title lang="es">Masha y el Oso</title>
+    <title lang="xx">Masha i Medved</title>
+    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención.(n)</desc>
+    <credits>
+      <producer>Oleg Kuzovkov</producer>
+      <producer>Dmitrij Lovejko</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/masha_y_el_oso.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220219113000 -0600" stop="20220219120000 -0600" channel="CARTOONITO">
+    <title lang="es">WeeBoom</title>
+  </programme>
+  <programme start="20220219120000 -0600" stop="20220219123000 -0600" channel="CARTOONITO">
+    <title lang="es">Yabba Dabba Dinosaurs</title>
+  </programme>
+  <programme start="20220219123000 -0600" stop="20220219130000 -0600" channel="CARTOONITO">
+    <title lang="es">Little Ellen</title>
+  </programme>
+  <programme start="20220219130000 -0600" stop="20220219133000 -0600" channel="CARTOONITO">
+    <title lang="es">Lucas the Spider</title>
+  </programme>
+  <programme start="20220219133000 -0600" stop="20220219140000 -0600" channel="CARTOONITO">
+    <title lang="es">Mush-Mush y los Mushables</title>
+  </programme>
+  <programme start="20220219140000 -0600" stop="20220219143000 -0600" channel="CARTOONITO">
+    <title lang="es">Thomas and Friends</title>
+  </programme>
+  <programme start="20220219143000 -0600" stop="20220219150000 -0600" channel="CARTOONITO">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20220219150000 -0600" stop="20220219153000 -0600" channel="CARTOONITO">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20220219153000 -0600" stop="20220219154500 -0600" channel="CARTOONITO">
+    <title lang="es">La Granja de Zenón</title>
+  </programme>
+  <programme start="20220219154500 -0600" stop="20220219160000 -0600" channel="CARTOONITO">
+    <title lang="es">Morphle</title>
+  </programme>
+  <programme start="20220219160000 -0600" stop="20220219161500 -0600" channel="CARTOONITO">
+    <title lang="es">CoComelon</title>
+  </programme>
+  <programme start="20220219161500 -0600" stop="20220219163000 -0600" channel="CARTOONITO">
+    <title lang="es">Blippi</title>
+  </programme>
+  <programme start="20220219163000 -0600" stop="20220219173000 -0600" channel="CARTOONITO">
+    <title lang="es">Cartoonito Movie</title>
+  </programme>
+  <programme start="20220219173000 -0600" stop="20220219180000 -0600" channel="CARTOONITO">
+    <title lang="es">Oddbods</title>
+  </programme>
+  <programme start="20220219180000 -0600" stop="20220219190000 -0600" channel="CARTOONITO">
+    <title lang="es">Masha y el Oso</title>
+    <title lang="xx">Masha i Medved</title>
+    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención.(n)</desc>
+    <credits>
+      <producer>Oleg Kuzovkov</producer>
+      <producer>Dmitrij Lovejko</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/masha_y_el_oso.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220219190000 -0600" stop="20220219200000 -0600" channel="CARTOONITO">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20220219200000 -0600" stop="20220219203000 -0600" channel="CARTOONITO">
+    <title lang="es">Scooby Doo y ¿quién crees tú</title>
+  </programme>
+  <programme start="20220219203000 -0600" stop="20220219210000 -0600" channel="CARTOONITO">
+    <title lang="es">Hey Duggee</title>
+  </programme>
+  <programme start="20220219210000 -0600" stop="20220219213000 -0600" channel="CARTOONITO">
+    <title lang="es">Yabba Dabba Dinosaurs</title>
+  </programme>
+  <programme start="20220219213000 -0600" stop="20220219220000 -0600" channel="CARTOONITO">
+    <title lang="es">Little Ellen</title>
+  </programme>
+  <programme start="20220219220000 -0600" stop="20220219223000 -0600" channel="CARTOONITO">
+    <title lang="es">Lucas the Spider</title>
+  </programme>
+  <programme start="20220219223000 -0600" stop="20220219230000 -0600" channel="CARTOONITO">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20220219230000 -0600" stop="20220219231500 -0600" channel="CARTOONITO">
+    <title lang="es">La Granja de Zenón</title>
+  </programme>
+  <programme start="20220219231500 -0600" stop="20220219233000 -0600" channel="CARTOONITO">
+    <title lang="es">CoComelon</title>
+  </programme>
+  <programme start="20220219233000 -0600" stop="20220219234500 -0600" channel="CARTOONITO">
+    <title lang="es">Blippi</title>
+  </programme>
+  <programme start="20220219234500 -0600" stop="20220220000000 -0600" channel="CARTOONITO">
+    <title lang="es">Morphle</title>
+  </programme>
+  <programme start="20220220180000 -0600" stop="20220220183000 -0600" channel="CARTOONITO">
+    <title lang="es">Masha y el Oso</title>
+    <title lang="xx">Masha i Medved</title>
+    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención.(n)</desc>
+    <credits>
+      <producer>Oleg Kuzovkov</producer>
+      <producer>Dmitrij Lovejko</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/masha_y_el_oso.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220220183000 -0600" stop="20220220184500 -0600" channel="CARTOONITO">
+    <title lang="es">Masha y el Oso</title>
+    <title lang="xx">Masha i Medved</title>
+    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención.(n)</desc>
+    <credits>
+      <producer>Oleg Kuzovkov</producer>
+      <producer>Dmitrij Lovejko</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/masha_y_el_oso.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220220184500 -0600" stop="20220220190000 -0600" channel="CARTOONITO">
+    <title lang="es">Odo</title>
+  </programme>
+  <programme start="20220220190000 -0600" stop="20220220193000 -0600" channel="CARTOONITO">
+    <title lang="es">Tom and Jerry in New York</title>
+  </programme>
+  <programme start="20220220193000 -0600" stop="20220220200000 -0600" channel="CARTOONITO">
+    <title lang="es">Scooby Doo y ¿quién crees tú</title>
+  </programme>
+  <programme start="20220220200000 -0600" stop="20220220203000 -0600" channel="CARTOONITO">
+    <title lang="es">Yabba Dabba Dinosaurs</title>
+  </programme>
+  <programme start="20220220203000 -0600" stop="20220220210000 -0600" channel="CARTOONITO">
+    <title lang="es">Little Ellen</title>
+  </programme>
+  <programme start="20220220210000 -0600" stop="20220220213000 -0600" channel="CARTOONITO">
+    <title lang="es">Lucas the Spider</title>
+  </programme>
+  <programme start="20220220213000 -0600" stop="20220220220000 -0600" channel="CARTOONITO">
+    <title lang="es">Thomas and Friends</title>
+  </programme>
+  <programme start="20220220220000 -0600" stop="20220220223000 -0600" channel="CARTOONITO">
+    <title lang="es">La Granja de Zenón</title>
+  </programme>
+  <programme start="20220220223000 -0600" stop="20220220224500 -0600" channel="CARTOONITO">
+    <title lang="es">CoComelon</title>
+  </programme>
+  <programme start="20220220224500 -0600" stop="20220220230000 -0600" channel="CARTOONITO">
+    <title lang="es">Cleo y Cuquín</title>
+  </programme>
+  <programme start="20220220230000 -0600" stop="20220221000000 -0600" channel="CARTOONITO">
+    <title lang="es">Pocoyó</title>
   </programme>
   <programme start="20220218001500 -0600" stop="20220218003000 -0600" channel="DISNEY XD">
     <title lang="es">Pecezuelos</title>
@@ -28457,9 +27702,6 @@
   </programme>
   <programme start="20220219092800 -0600" stop="20220219103500 -0600" channel="NATGEO KIDS">
     <title lang="es">The Jungle Bunch</title>
-  </programme>
-  <programme start="20220219133500 -0600" stop="20220219143500 -0600" channel="NATGEO KIDS">
-    <title lang="es">Heidi</title>
   </programme>
   <programme start="20220219170000 -0600" stop="20220219173700 -0600" channel="NATGEO KIDS">
     <title lang="es">Animal manía</title>
@@ -32059,27 +31301,8 @@
   <programme start="20220220121500 -0600" stop="20220220124500 -0600" channel="TEEN NICK">
     <title lang="es">Side Hustle</title>
   </programme>
-  <programme start="20220220142500 -0600" stop="20220220145000 -0600" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-    <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor.(n)</desc>
-    <credits>
-      <actor>Kira Kosarin</actor>
-      <actor>Jack Griffo</actor>
-      <actor>Addison Riecke</actor>
-      <actor>Diego Velázquez</actor>
-      <actor>Chris Tallman</actor>
-      <actor>Rosa Blasi</actor>
-      <actor>Maya Le Clark</actor>
-      <producer>Dan Cross</producer>
-      <producer>David Hoge</producer>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_thundermans.jpg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
+  <programme start="20220220185500 -0600" stop="20220220192000 -0600" channel="TEEN NICK">
+    <title lang="es">Side Hustle</title>
   </programme>
   <programme start="20220218000300 -0600" stop="20220218002900 -0600" channel="DISCOVERY KIDS">
     <title lang="es">Cazadores de monstruos</title>
@@ -35462,7 +34685,7 @@
   <programme start="20220218060000 -0600" stop="20220218180000 -0600" channel="CINEMA DINAMITA">
     <title lang="es">Cinema Dinamita</title>
   </programme>
-  <programme start="20220219060000 -0600" stop="20220219180000 -0600" channel="CINEMA DINAMITA">
+  <programme start="20220218180000 -0600" stop="20220219060000 -0600" channel="CINEMA DINAMITA">
     <title lang="es">Cinema Dinamita</title>
   </programme>
   <programme start="20220218010000 -0600" stop="20220218024500 -0600" channel="PARAMOUNT">
@@ -38895,6 +38118,9 @@
   <programme start="20220219130000 -0600" stop="20220219160000 -0600" channel="VH1">
     <title lang="es">Non-Stop Nostalgia</title>
   </programme>
+  <programme start="20220219190000 -0600" stop="20220219210000 -0600" channel="VH1">
+    <title lang="es">Non-Stop Nostalgia</title>
+  </programme>
   <programme start="20220220010000 -0600" stop="20220220020000 -0600" channel="VH1">
     <title lang="es">Class Of 2002</title>
   </programme>
@@ -39147,14 +38373,14 @@
   <programme start="20220220230000 -0600" stop="20220221000000 -0600" channel="EXA TV">
     <title lang="es">In Da House</title>
   </programme>
-  <programme start="20220221143000 -0600" stop="20220221150000 -0600" channel="EXA TV">
-    <title lang="es">K-POP</title>
-  </programme>
   <programme start="20220221150000 -0600" stop="20220221160000 -0600" channel="EXA TV">
     <title lang="es">In Da House</title>
   </programme>
   <programme start="20220221180000 -0600" stop="20220221190000 -0600" channel="EXA TV">
     <title lang="es">Videos</title>
+  </programme>
+  <programme start="20220221190000 -0600" stop="20220221192000 -0600" channel="EXA TV">
+    <title lang="es">Top 5</title>
   </programme>
   <programme start="20220221210000 -0600" stop="20220221220000 -0600" channel="EXA TV">
     <title lang="es">In Da House</title>
@@ -40002,8 +39228,8 @@
   <programme start="20220221023000 -0600" stop="20220221050000 -0600" channel="FOROTV">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20220221140000 -0600" stop="20220221150000 -0600" channel="FOROTV">
-    <title lang="es">Noticias MX En Vivo</title>
+  <programme start="20220221180000 -0600" stop="20220221200000 -0600" channel="FOROTV">
+    <title lang="es">Las noticias En Vivo</title>
   </programme>
   <programme start="20220218010000 -0600" stop="20220218020000 -0600" channel="TELEFORMULA">
     <title lang="es">Eduardo Ruiz Healy</title>
@@ -40197,11 +39423,11 @@
   <programme start="20220221050000 -0600" stop="20220221053000 -0600" channel="TELEFORMULA">
     <title lang="es">La Fórmula es...Domingo</title>
   </programme>
-  <programme start="20220221133000 -0600" stop="20220221153000 -0600" channel="TELEFORMULA">
-    <title lang="es">López Dóriga en Fórmula</title>
-  </programme>
   <programme start="20220221170000 -0600" stop="20220221180000 -0600" channel="TELEFORMULA">
     <title lang="es">La Fórmula es... Orvañanos</title>
+  </programme>
+  <programme start="20220221180000 -0600" stop="20220221200000 -0600" channel="TELEFORMULA">
+    <title lang="es">José Cárdenas informa</title>
   </programme>
   <programme start="20220218010000 -0600" stop="20220218030000 -0600" channel="ESPN 3 HD">
     <title lang="es">Zenit vs. Betis</title>
@@ -40518,7 +39744,7 @@
   <programme start="20220218233000 -0600" stop="20220219000000 -0600" channel="ENLACE">
     <title lang="es">Maratonica</title>
   </programme>
-  <programme start="20220219143000 -0600" stop="20220219150500 -0600" channel="ENLACE">
+  <programme start="20220219190000 -0600" stop="20220219193000 -0600" channel="ENLACE">
     <title lang="es">Maratonica</title>
   </programme>
   <programme start="20220219213000 -0600" stop="20220219230000 -0600" channel="ENLACE">
@@ -40925,9 +40151,6 @@
   </programme>
   <programme start="20220220140000 -0600" stop="20220220143000 -0600" channel="MARIAVISION">
     <title lang="es">De la mano de Jesús y María</title>
-  </programme>
-  <programme start="20220220143000 -0600" stop="20220220153000 -0600" channel="MARIAVISION">
-    <title lang="es">La Divina Misericordia</title>
   </programme>
   <programme start="20220220153000 -0600" stop="20220220160000 -0600" channel="MARIAVISION">
     <title lang="es">El santo rosario, Capilla M+V</title>
@@ -42574,11 +41797,22 @@
   <programme start="20220219104000 -0600" stop="20220219110000 -0600" channel="TRU TV">
     <title lang="es">Efecto carbonaro</title>
   </programme>
-  <programme start="20220219142500 -0600" stop="20220219151000 -0600" channel="TRU TV">
-    <title lang="es">Los vídeos mas tontos</title>
-  </programme>
   <programme start="20220219184000 -0600" stop="20220219190000 -0600" channel="TRU TV">
     <title lang="es">Efecto carbonaro</title>
+  </programme>
+  <programme start="20220219190000 -0600" stop="20220219192500 -0600" channel="TRU TV">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas.(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
   </programme>
   <programme start="20220220024000 -0600" stop="20220220030000 -0600" channel="TRU TV">
     <title lang="es">Efecto carbonaro</title>
@@ -43472,8 +42706,9 @@
   <programme start="20220221023500 -0600" stop="20220221033000 -0600" channel="UNICABLE">
     <title lang="es">Con permiso</title>
   </programme>
-  <programme start="20220221143000 -0600" stop="20220221160000 -0600" channel="UNICABLE">
-    <title lang="es">El clon</title>
+  <programme start="20220221184500 -0600" stop="20220221194500 -0600" channel="UNICABLE">
+    <title lang="es">Laura sin censura</title>
+    <episode-num system="onscreen">S2</episode-num>
   </programme>
   <programme start="20220221213000 -0600" stop="20220221223000 -0600" channel="UNICABLE">
     <title lang="es">De noche todo pasa</title>
