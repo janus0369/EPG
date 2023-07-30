@@ -4,10 +4,6 @@
     <display-name lang="es">AXN</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="CINEMAX">
-    <display-name lang="es">CINEMAX</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="HISTORY">
     <display-name lang="es">HISTORY</display-name>
     <url>http://www.gatotv.com</url>
@@ -92,10 +88,6 @@
     <display-name lang="es">SEMILLITAS</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="TEEN NICK">
-    <display-name lang="es">TEEN NICK</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="TNT">
     <display-name lang="es">TNT</display-name>
     <url>http://www.gatotv.com</url>
@@ -122,14 +114,6 @@
   </channel>
   <channel id="TELEHIT">
     <display-name lang="es">TELEHIT</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="MTV">
-    <display-name lang="es">MTV</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="TCM">
-    <display-name lang="es">TCM</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="GOLDEN EDGE">
@@ -198,6 +182,18 @@
   </channel>
   <channel id="ADRENALINA">
     <display-name lang="es">ADRENALINA</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CANAL 5">
+    <display-name lang="es">CANAL 5</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="AZTECA UNO">
+    <display-name lang="es">AZTECA UNO</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="A +">
+    <display-name lang="es">A +</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <programme start="20230730003000 -0500" stop="20230730012500 -0500" channel="AXN">
@@ -2175,317 +2171,6 @@
     <rating>
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20230730010400 -0500" stop="20230730024500 -0500" channel="CINEMAX">
-    <title lang="es">El niño</title>
-  </programme>
-  <programme start="20230730024500 -0500" stop="20230730042800 -0500" channel="CINEMAX">
-    <title lang="es">Amityville El Origen de</title>
-  </programme>
-  <programme start="20230730042800 -0500" stop="20230730060000 -0500" channel="CINEMAX">
-    <title lang="es">Locos por las Nueces 2</title>
-    <title lang="xx">The Nut Job 2</title>
-    <desc lang="es">Cuando el alcalde decide destruir el Parque Liberty para construir un peligroso parque de diversiones en su lugar.  Surly y su pandilla intentarán impedirlo.(n)</desc>
-    <credits>
-      <actor>Will Arnett</actor>
-      <actor>Maya Rudolph</actor>
-      <actor>Jackie Chan</actor>
-      <actor>Katherine Heigl</actor>
-      <actor>Bobby Moynihan</actor>
-      <actor>Bobby Cannavale</actor>
-      <actor>Isabela Moner</actor>
-      <actor>Jeff Dunham</actor>
-      <producer>Harry Linden</producer>
-      <producer>Bob Barlen</producer>
-      <composer>Heitor Pereira</composer>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/locos_por_las_nueces_2.jpg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20230730060000 -0500" stop="20230730071900 -0500" channel="CINEMAX">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20230730071900 -0500" stop="20230730090200 -0500" channel="CINEMAX">
-    <title lang="es">A la deriva</title>
-  </programme>
-  <programme start="20230730090200 -0500" stop="20230730103300 -0500" channel="CINEMAX">
-    <title lang="es">Infectados</title>
-  </programme>
-  <programme start="20230730103300 -0500" stop="20230730131500 -0500" channel="CINEMAX">
-    <title lang="es">Los Juegos del Hambre</title>
-    <desc lang="es">Panem elije participantes de doce distritos, cada distrito aporta 2 participantes eligiéndolos como tributo.(n)</desc>
-    <credits>
-      <actor>Jennifer Lawrence</actor>
-      <actor>Josh Hutcherson</actor>
-      <actor>Liam Hemsworth</actor>
-      <actor>Woody Harrelson</actor>
-      <actor>Elizabeth Banks</actor>
-      <actor>Lenny Kravitz</actor>
-      <actor>Stanley Tucci</actor>
-      <actor>Donald Sutherland</actor>
-      <producer>Jon Kilik</producer>
-      <producer>Nina Jacobson</producer>
-      <composer>James Newton Howard</composer>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/los_juegos_del_hambre.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20230730131500 -0500" stop="20230730143800 -0500" channel="CINEMAX">
-    <title lang="es">Lo que el agua se llevó</title>
-  </programme>
-  <programme start="20230730143800 -0500" stop="20230730171100 -0500" channel="CINEMAX">
-    <title lang="es">Capitán Phillips</title>
-  </programme>
-  <programme start="20230730171100 -0500" stop="20230730190700 -0500" channel="CINEMAX">
-    <title lang="es">Alerta en lo profundo</title>
-  </programme>
-  <programme start="20230730190700 -0500" stop="20230730210700 -0500" channel="CINEMAX">
-    <title lang="es">Alerta en lo profundo 2</title>
-  </programme>
-  <programme start="20230730210700 -0500" stop="20230730232100 -0500" channel="CINEMAX">
-    <title lang="es">Capitán Phillips</title>
-  </programme>
-  <programme start="20230730232100 -0500" stop="20230731005800 -0500" channel="CINEMAX">
-    <title lang="es">Peligro en el mar</title>
-  </programme>
-  <programme start="20230731232100 -0500" stop="20230801005800 -0500" channel="CINEMAX">
-    <title lang="es">Peligro en el mar</title>
-  </programme>
-  <programme start="20230801005800 -0500" stop="20230801032300 -0500" channel="CINEMAX">
-    <title lang="es">Los Juegos del Hambre</title>
-    <desc lang="es">Panem elije participantes de doce distritos, cada distrito aporta 2 participantes eligiéndolos como tributo.(n)</desc>
-    <credits>
-      <actor>Jennifer Lawrence</actor>
-      <actor>Josh Hutcherson</actor>
-      <actor>Liam Hemsworth</actor>
-      <actor>Woody Harrelson</actor>
-      <actor>Elizabeth Banks</actor>
-      <actor>Lenny Kravitz</actor>
-      <actor>Stanley Tucci</actor>
-      <actor>Donald Sutherland</actor>
-      <producer>Jon Kilik</producer>
-      <producer>Nina Jacobson</producer>
-      <composer>James Newton Howard</composer>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/los_juegos_del_hambre.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20230801032300 -0500" stop="20230801045800 -0500" channel="CINEMAX">
-    <title lang="es">Alerta en lo profundo 2</title>
-  </programme>
-  <programme start="20230801045800 -0500" stop="20230801060000 -0500" channel="CINEMAX">
-    <title lang="es">Nosotros somos el sueño</title>
-  </programme>
-  <programme start="20230801060000 -0500" stop="20230801071200 -0500" channel="CINEMAX">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20230801071200 -0500" stop="20230801091100 -0500" channel="CINEMAX">
-    <title lang="es">El discurso dEl Rey</title>
-  </programme>
-  <programme start="20230801091100 -0500" stop="20230801112600 -0500" channel="CINEMAX">
-    <title lang="es">El Rey Arturo: La Leyenda de la Espada</title>
-    <desc lang="es">Cuando el padre del pequeño Arturo es asesinado, su tío se apodera de la corona.  Pero todo está por cambiar cuando Arturo tome la espada de la piedra.(n)</desc>
-    <credits>
-      <actor>Charlie Hunnam</actor>
-      <actor>Astrid Bergès-Frisbey</actor>
-      <actor>Djimon Hounsou</actor>
-      <actor>Aidan Gillen</actor>
-      <actor>Jude Law</actor>
-      <actor>Eric Bana</actor>
-      <producer>Lionel Wigram</producer>
-      <producer>Steve Clark-Hall</producer>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_rey_arturo_la_leyenda_de_la_espada.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <country lang="es">Reino Unido</country>
-  </programme>
-  <programme start="20230801112600 -0500" stop="20230801134700 -0500" channel="CINEMAX">
-    <title lang="es">Parque Jurásico</title>
-    <title lang="xx">Jurassic Park</title>
-    <desc lang="es">En una isla remota donde un parque temático con dinosaurios vivos está a punto de convertirse en mortal, ahora cinco personas deben luchar para sobrevivir.(n)</desc>
-    <credits>
-      <actor>Sam Neill</actor>
-      <actor>Laura Dern</actor>
-      <actor>Jeff Goldblum</actor>
-      <actor>Richard Attenborough</actor>
-      <actor>Bob Peck</actor>
-      <actor>Martin Ferrero</actor>
-      <actor>BD Wong</actor>
-      <actor>Samuel L. Jackson</actor>
-      <producer>Kathleen Kennedy</producer>
-      <producer>Gerald R. Molen</producer>
-      <composer>John Williams</composer>
-    </credits>
-    <date>1993</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/parque_jurasico.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20230801134700 -0500" stop="20230801160900 -0500" channel="CINEMAX">
-    <title lang="es">World Trade Center</title>
-  </programme>
-  <programme start="20230801160900 -0500" stop="20230801183000 -0500" channel="CINEMAX">
-    <title lang="es">La esperanza vive en mí</title>
-  </programme>
-  <programme start="20230801183000 -0500" stop="20230801210000 -0500" channel="CINEMAX">
-    <title lang="es">Midway: Batalla en el Pacífico</title>
-    <title lang="xx">Midway</title>
-    <desc lang="es">Después de presenciar el devastador ataque sorpresa a Pearl Harbor, un piloto y su escuadrón planean un contrataque al imponente ejército japonés.(n)</desc>
-    <credits>
-      <actor>Ed Skrein</actor>
-      <actor>Patrick Wilson</actor>
-      <actor>Luke Evans</actor>
-      <actor>Aaron Eckhart</actor>
-      <actor>Nick Jonas</actor>
-      <actor>Mandy Moore</actor>
-      <actor>Dennis Quaid</actor>
-      <actor>Woody Harrelson</actor>
-      <producer>Roland Emmerich</producer>
-      <producer>Mark Gordon</producer>
-      <composer>Harald Kloser</composer>
-      <composer>Thomas Wander</composer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/midway_batalla_en_el_pacifico.jpg" />
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20230801210000 -0500" stop="20230801232100 -0500" channel="CINEMAX">
-    <title lang="es">El Rey Arturo: La Leyenda de la Espada</title>
-    <desc lang="es">Cuando el padre del pequeño Arturo es asesinado, su tío se apodera de la corona.  Pero todo está por cambiar cuando Arturo tome la espada de la piedra.(n)</desc>
-    <credits>
-      <actor>Charlie Hunnam</actor>
-      <actor>Astrid Bergès-Frisbey</actor>
-      <actor>Djimon Hounsou</actor>
-      <actor>Aidan Gillen</actor>
-      <actor>Jude Law</actor>
-      <actor>Eric Bana</actor>
-      <producer>Lionel Wigram</producer>
-      <producer>Steve Clark-Hall</producer>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_rey_arturo_la_leyenda_de_la_espada.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <country lang="es">Reino Unido</country>
-  </programme>
-  <programme start="20230801232100 -0500" stop="20230802012900 -0500" channel="CINEMAX">
-    <title lang="es">Operación oculta</title>
-  </programme>
-  <programme start="20230802012900 -0500" stop="20230802031000 -0500" channel="CINEMAX">
-    <title lang="es">Afghan luke Verdad oculta</title>
-  </programme>
-  <programme start="20230802031000 -0500" stop="20230802045900 -0500" channel="CINEMAX">
-    <title lang="es">Ultimo Día en Marte</title>
-  </programme>
-  <programme start="20230802045900 -0500" stop="20230802060000 -0500" channel="CINEMAX">
-    <title lang="es">El discurso dEl Rey</title>
-  </programme>
-  <programme start="20230802060000 -0500" stop="20230802074200 -0500" channel="CINEMAX">
-    <title lang="es">Rescate en Entebbe</title>
-    <title lang="xx">Entebbe</title>
-    <desc lang="es">Basa en hechos reales del secuestro del vuelo con ruta de Tel Aviv a París en 1976, mostrando la misión de rescate más alucinante que se haya intentado.(n)</desc>
-    <credits>
-      <actor>Rosamund Pike</actor>
-      <actor>Daniel Brühl</actor>
-      <actor>Eddie Marsan</actor>
-      <actor>Ben Schnetzer</actor>
-      <actor>Lior Ashkenazi</actor>
-      <actor>Denis Ménochet</actor>
-      <producer>Tim Bevan</producer>
-      <producer>Liza Chasin</producer>
-      <composer>Rodrigo Amarante</composer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/7_dias_en_entebbe.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20230802074200 -0500" stop="20230802100200 -0500" channel="CINEMAX">
-    <title lang="es">El infiltrado</title>
-  </programme>
-  <programme start="20230802100200 -0500" stop="20230802120700 -0500" channel="CINEMAX">
-    <title lang="es">El implacable</title>
-  </programme>
-  <programme start="20230802120700 -0500" stop="20230802135900 -0500" channel="CINEMAX">
-    <title lang="es">En guerra con mi abuelo</title>
-  </programme>
-  <programme start="20230802135900 -0500" stop="20230802162200 -0500" channel="CINEMAX">
-    <title lang="es">Atracción peligrosa</title>
-  </programme>
-  <programme start="20230802162200 -0500" stop="20230802190000 -0500" channel="CINEMAX">
-    <title lang="es">La Intérprete</title>
-  </programme>
-  <programme start="20230803162200 -0500" stop="20230803190000 -0500" channel="CINEMAX">
-    <title lang="es">La Intérprete</title>
-  </programme>
-  <programme start="20230803190000 -0500" stop="20230803210000 -0500" channel="CINEMAX">
-    <title lang="es">Volver al Futuro II</title>
-    <title lang="xx">Back to the Future Part II</title>
-    <desc lang="es">Después de visitar el año 2015, Marty McFly debe regresar al año de 1955 para evitar cambios en su presente de 1985, sin interferir en su primer viaje.(n)</desc>
-    <credits>
-      <actor>Michael J. Fox</actor>
-      <actor>Christopher Lloyd</actor>
-      <actor>Lea Thompson</actor>
-      <actor>Thomas F. Wilson</actor>
-      <actor>Elisabeth Shue</actor>
-      <producer>Neil Canton</producer>
-      <producer>Bob Gale</producer>
-      <composer>Alan Silvestri</composer>
-    </credits>
-    <date>1989</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/volver_al_futuro_ii.jpg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20230803210000 -0500" stop="20230803230900 -0500" channel="CINEMAX">
-    <title lang="es">Volver al Futuro</title>
-    <title lang="xx">Back to the Future</title>
-    <desc lang="es">Un joven regresa treinta años atrás en la máquina del tiempo diseñada por el Dr. Emmet Brown, ahora deberá encontrar la manera de volver al futuro.(n)</desc>
-    <credits>
-      <actor>Michael J. Fox</actor>
-      <actor>Christopher Lloyd</actor>
-      <actor>Crispin Glover</actor>
-      <actor>Lea Thompson</actor>
-      <actor>Thomas F. Wilson</actor>
-      <producer>Neil Canton</producer>
-      <producer>Bob Gale</producer>
-      <composer>Alan Silvestri</composer>
-    </credits>
-    <date>1985</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/volver_al_futuro.jpg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20230803230900 -0500" stop="20230804013200 -0500" channel="CINEMAX">
-    <title lang="es">V de venganza</title>
-  </programme>
-  <programme start="20230804230900 -0500" stop="20230805013200 -0500" channel="CINEMAX">
-    <title lang="es">V de venganza</title>
   </programme>
   <programme start="20230730002900 -0500" stop="20230730011900 -0500" channel="HISTORY">
     <title lang="es">Alienígenas ancestrales</title>
@@ -10900,8 +10585,8 @@
   <programme start="20230731120000 -0500" stop="20230731123000 -0500" channel="BABYTV">
     <title lang="es">Tutti Frutti</title>
   </programme>
-  <programme start="20230731123000 -0500" stop="20230731130000 -0500" channel="BABYTV">
-    <title lang="es">La hora del arte, la actividad y la música</title>
+  <programme start="20230731130000 -0500" stop="20230731133000 -0500" channel="BABYTV">
+    <title lang="es">Los primeros descubrimientos mágicos</title>
   </programme>
   <programme start="20230731210000 -0500" stop="20230731220000 -0500" channel="BABYTV">
     <title lang="es">Noches de ensueño</title>
@@ -12021,1311 +11706,6 @@
   </programme>
   <programme start="20230801175100 -0500" stop="20230801180300 -0500" channel="SEMILLITAS">
     <title lang="es">Pirata y capitano</title>
-  </programme>
-  <programme start="20230730001000 -0500" stop="20230730003500 -0500" channel="TEEN NICK">
-    <title lang="es">Game shakers</title>
-  </programme>
-  <programme start="20230730003500 -0500" stop="20230730010000 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-    <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man.(n)</desc>
-    <credits>
-      <actor>Jace Norman</actor>
-      <actor>Cooper Barnes</actor>
-      <actor>Riele Downs</actor>
-      <actor>Sean Ryan Fox</actor>
-      <actor>Ella Anderson</actor>
-      <actor>Michael D. Cohen</actor>
-      <composer>Michael Corcoran</composer>
-      <composer>Zack Hexum</composer>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/henry_danger.jpg" />
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230730010000 -0500" stop="20230730012500 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-    <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man.(n)</desc>
-    <credits>
-      <actor>Jace Norman</actor>
-      <actor>Cooper Barnes</actor>
-      <actor>Riele Downs</actor>
-      <actor>Sean Ryan Fox</actor>
-      <actor>Ella Anderson</actor>
-      <actor>Michael D. Cohen</actor>
-      <composer>Michael Corcoran</composer>
-      <composer>Zack Hexum</composer>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/henry_danger.jpg" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230730012500 -0500" stop="20230730015000 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230730015000 -0500" stop="20230730021500 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230730021500 -0500" stop="20230730024500 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230730024500 -0500" stop="20230730031000 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230730031000 -0500" stop="20230730033500 -0500" channel="TEEN NICK">
-    <title lang="es">Sam &amp; Cat</title>
-  </programme>
-  <programme start="20230730033500 -0500" stop="20230730035500 -0500" channel="TEEN NICK">
-    <title lang="es">Sam &amp; Cat</title>
-  </programme>
-  <programme start="20230730035500 -0500" stop="20230730042500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S2 E11</episode-num>
-  </programme>
-  <programme start="20230730042500 -0500" stop="20230730045000 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S2 E9</episode-num>
-  </programme>
-  <programme start="20230730045000 -0500" stop="20230730051500 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230730051500 -0500" stop="20230730054000 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230730054000 -0500" stop="20230730060500 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230730060500 -0500" stop="20230730063000 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230730063000 -0500" stop="20230730065500 -0500" channel="TEEN NICK">
-    <title lang="es">Tyler Perry's Young Dylan</title>
-  </programme>
-  <programme start="20230730065500 -0500" stop="20230730072000 -0500" channel="TEEN NICK">
-    <title lang="es">Tyler Perry's Young Dylan</title>
-  </programme>
-  <programme start="20230730072000 -0500" stop="20230730074500 -0500" channel="TEEN NICK">
-    <title lang="es">Danger Force</title>
-  </programme>
-  <programme start="20230730074500 -0500" stop="20230730081000 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230730081000 -0500" stop="20230730083500 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230730083500 -0500" stop="20230730090000 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-    <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man.(n)</desc>
-    <credits>
-      <actor>Jace Norman</actor>
-      <actor>Cooper Barnes</actor>
-      <actor>Riele Downs</actor>
-      <actor>Sean Ryan Fox</actor>
-      <actor>Ella Anderson</actor>
-      <actor>Michael D. Cohen</actor>
-      <composer>Michael Corcoran</composer>
-      <composer>Zack Hexum</composer>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/henry_danger.jpg" />
-    <episode-num system="onscreen">S3 E16</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230730090000 -0500" stop="20230730092500 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230730092500 -0500" stop="20230730095000 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-    <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man.(n)</desc>
-    <credits>
-      <actor>Jace Norman</actor>
-      <actor>Cooper Barnes</actor>
-      <actor>Riele Downs</actor>
-      <actor>Sean Ryan Fox</actor>
-      <actor>Ella Anderson</actor>
-      <actor>Michael D. Cohen</actor>
-      <composer>Michael Corcoran</composer>
-      <composer>Zack Hexum</composer>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/henry_danger.jpg" />
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230730095000 -0500" stop="20230730102000 -0500" channel="TEEN NICK">
-    <title lang="es">Sam &amp; Cat</title>
-  </programme>
-  <programme start="20230730102000 -0500" stop="20230730104500 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230730104500 -0500" stop="20230730111000 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230730111000 -0500" stop="20230730113500 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230730113500 -0500" stop="20230730120000 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230730120000 -0500" stop="20230730122500 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230730122500 -0500" stop="20230730125000 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-    <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man.(n)</desc>
-    <credits>
-      <actor>Jace Norman</actor>
-      <actor>Cooper Barnes</actor>
-      <actor>Riele Downs</actor>
-      <actor>Sean Ryan Fox</actor>
-      <actor>Ella Anderson</actor>
-      <actor>Michael D. Cohen</actor>
-      <composer>Michael Corcoran</composer>
-      <composer>Zack Hexum</composer>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/henry_danger.jpg" />
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230730125000 -0500" stop="20230730131500 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230730131500 -0500" stop="20230730134000 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230730134000 -0500" stop="20230730140500 -0500" channel="TEEN NICK">
-    <title lang="es">Danger Force</title>
-  </programme>
-  <programme start="20230730140500 -0500" stop="20230730142500 -0500" channel="TEEN NICK">
-    <title lang="es">Danger Force</title>
-  </programme>
-  <programme start="20230730142500 -0500" stop="20230730145000 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S2 E12</episode-num>
-  </programme>
-  <programme start="20230730145000 -0500" stop="20230730151500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-  </programme>
-  <programme start="20230730151500 -0500" stop="20230730153500 -0500" channel="TEEN NICK">
-    <title lang="es">Sam &amp; Cat</title>
-  </programme>
-  <programme start="20230730153500 -0500" stop="20230730155500 -0500" channel="TEEN NICK">
-    <title lang="es">Sam &amp; Cat</title>
-  </programme>
-  <programme start="20230730155500 -0500" stop="20230730162000 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230730162000 -0500" stop="20230730164500 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230730164500 -0500" stop="20230730170500 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230730170500 -0500" stop="20230730173000 -0500" channel="TEEN NICK">
-    <title lang="es">Goldie's Oldies</title>
-  </programme>
-  <programme start="20230730173000 -0500" stop="20230730175000 -0500" channel="TEEN NICK">
-    <title lang="es">Goldie's Oldies</title>
-  </programme>
-  <programme start="20230730175000 -0500" stop="20230730181500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20230730181500 -0500" stop="20230730184000 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230730184000 -0500" stop="20230730190000 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230730190000 -0500" stop="20230730192500 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230730192500 -0500" stop="20230730194500 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230730194500 -0500" stop="20230730201000 -0500" channel="TEEN NICK">
-    <title lang="es">Sam &amp; Cat</title>
-  </programme>
-  <programme start="20230730201000 -0500" stop="20230730203000 -0500" channel="TEEN NICK">
-    <title lang="es">Sam &amp; Cat</title>
-  </programme>
-  <programme start="20230730203000 -0500" stop="20230730205500 -0500" channel="TEEN NICK">
-    <title lang="es">Hunter Street</title>
-  </programme>
-  <programme start="20230730205500 -0500" stop="20230730211500 -0500" channel="TEEN NICK">
-    <title lang="es">Hunter Street</title>
-  </programme>
-  <programme start="20230730211500 -0500" stop="20230730214000 -0500" channel="TEEN NICK">
-    <title lang="es">Hunter Street</title>
-  </programme>
-  <programme start="20230730214000 -0500" stop="20230730220500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S3 E7</episode-num>
-  </programme>
-  <programme start="20230730220500 -0500" stop="20230730222500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-  </programme>
-  <programme start="20230730222500 -0500" stop="20230730230000 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S3 E9</episode-num>
-  </programme>
-  <programme start="20230730230000 -0500" stop="20230730232000 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230730232000 -0500" stop="20230730234500 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230730234500 -0500" stop="20230731001000 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230731234500 -0500" stop="20230801001000 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230801001000 -0500" stop="20230801003500 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230801003500 -0500" stop="20230801010500 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-    <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man.(n)</desc>
-    <credits>
-      <actor>Jace Norman</actor>
-      <actor>Cooper Barnes</actor>
-      <actor>Riele Downs</actor>
-      <actor>Sean Ryan Fox</actor>
-      <actor>Ella Anderson</actor>
-      <actor>Michael D. Cohen</actor>
-      <composer>Michael Corcoran</composer>
-      <composer>Zack Hexum</composer>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/henry_danger.jpg" />
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230801010500 -0500" stop="20230801013000 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230801013000 -0500" stop="20230801015000 -0500" channel="TEEN NICK">
-    <title lang="es">Danger Force</title>
-  </programme>
-  <programme start="20230801015000 -0500" stop="20230801022000 -0500" channel="TEEN NICK">
-    <title lang="es">Game shakers</title>
-  </programme>
-  <programme start="20230801022000 -0500" stop="20230801024500 -0500" channel="TEEN NICK">
-    <title lang="es">Game shakers</title>
-  </programme>
-  <programme start="20230801024500 -0500" stop="20230801031000 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S1 E16</episode-num>
-  </programme>
-  <programme start="20230801031000 -0500" stop="20230801033500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme start="20230801033500 -0500" stop="20230801040000 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S3 E9</episode-num>
-  </programme>
-  <programme start="20230801040000 -0500" stop="20230801042500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S3 E10</episode-num>
-  </programme>
-  <programme start="20230801042500 -0500" stop="20230801044500 -0500" channel="TEEN NICK">
-    <title lang="es">Sam &amp; Cat</title>
-  </programme>
-  <programme start="20230801044500 -0500" stop="20230801051000 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230801051000 -0500" stop="20230801053500 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230801053500 -0500" stop="20230801060000 -0500" channel="TEEN NICK">
-    <title lang="es">Tyler Perry's Young Dylan</title>
-  </programme>
-  <programme start="20230801060000 -0500" stop="20230801062000 -0500" channel="TEEN NICK">
-    <title lang="es">Tyler Perry's Young Dylan</title>
-  </programme>
-  <programme start="20230801062000 -0500" stop="20230801065000 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230801065000 -0500" stop="20230801071500 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230801071500 -0500" stop="20230801073500 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230801073500 -0500" stop="20230801080000 -0500" channel="TEEN NICK">
-    <title lang="es">School of Rock</title>
-  </programme>
-  <programme start="20230801080000 -0500" stop="20230801082500 -0500" channel="TEEN NICK">
-    <title lang="es">School of Rock</title>
-  </programme>
-  <programme start="20230801082500 -0500" stop="20230801085000 -0500" channel="TEEN NICK">
-    <title lang="es">Nicky, Ricky, Dicky &amp; Dawn</title>
-  </programme>
-  <programme start="20230801085000 -0500" stop="20230801094000 -0500" channel="TEEN NICK">
-    <title lang="es">Nicky, Ricky, Dicky &amp; Dawn</title>
-  </programme>
-  <programme start="20230801094000 -0500" stop="20230801100500 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230801100500 -0500" stop="20230801103000 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230801103000 -0500" stop="20230801110000 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-    <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man.(n)</desc>
-    <credits>
-      <actor>Jace Norman</actor>
-      <actor>Cooper Barnes</actor>
-      <actor>Riele Downs</actor>
-      <actor>Sean Ryan Fox</actor>
-      <actor>Ella Anderson</actor>
-      <actor>Michael D. Cohen</actor>
-      <composer>Michael Corcoran</composer>
-      <composer>Zack Hexum</composer>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/henry_danger.jpg" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230801110000 -0500" stop="20230801112500 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230801112500 -0500" stop="20230801115000 -0500" channel="TEEN NICK">
-    <title lang="es">Danger Force</title>
-  </programme>
-  <programme start="20230801115000 -0500" stop="20230801121500 -0500" channel="TEEN NICK">
-    <title lang="es">Game shakers</title>
-  </programme>
-  <programme start="20230801121500 -0500" stop="20230801124000 -0500" channel="TEEN NICK">
-    <title lang="es">Tyler Perry's Young Dylan</title>
-  </programme>
-  <programme start="20230801124000 -0500" stop="20230801130000 -0500" channel="TEEN NICK">
-    <title lang="es">Nicky, Ricky, Dicky &amp; Dawn</title>
-  </programme>
-  <programme start="20230801130000 -0500" stop="20230801132500 -0500" channel="TEEN NICK">
-    <title lang="es">Nicky, Ricky, Dicky &amp; Dawn</title>
-  </programme>
-  <programme start="20230801132500 -0500" stop="20230801135000 -0500" channel="TEEN NICK">
-    <title lang="es">School of Rock</title>
-  </programme>
-  <programme start="20230801135000 -0500" stop="20230801141500 -0500" channel="TEEN NICK">
-    <title lang="es">School of Rock</title>
-  </programme>
-  <programme start="20230801141500 -0500" stop="20230801144000 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230801144000 -0500" stop="20230801152500 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230801152500 -0500" stop="20230801155000 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230801155000 -0500" stop="20230801161500 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230801161500 -0500" stop="20230801163500 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230801163500 -0500" stop="20230801170000 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230801170000 -0500" stop="20230801172500 -0500" channel="TEEN NICK">
-    <title lang="es">Danger Force</title>
-  </programme>
-  <programme start="20230801172500 -0500" stop="20230801174500 -0500" channel="TEEN NICK">
-    <title lang="es">Game shakers</title>
-  </programme>
-  <programme start="20230801174500 -0500" stop="20230801181000 -0500" channel="TEEN NICK">
-    <title lang="es">Tyler Perry's Young Dylan</title>
-  </programme>
-  <programme start="20230801181000 -0500" stop="20230801183000 -0500" channel="TEEN NICK">
-    <title lang="es">Tyler Perry's Young Dylan</title>
-  </programme>
-  <programme start="20230801183000 -0500" stop="20230801185500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-  </programme>
-  <programme start="20230801185500 -0500" stop="20230801191500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S2 E3</episode-num>
-  </programme>
-  <programme start="20230801191500 -0500" stop="20230801194000 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230801194000 -0500" stop="20230801200500 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230801200500 -0500" stop="20230801202500 -0500" channel="TEEN NICK">
-    <title lang="es">Sam &amp; Cat</title>
-  </programme>
-  <programme start="20230801202500 -0500" stop="20230801205000 -0500" channel="TEEN NICK">
-    <title lang="es">Sam &amp; Cat</title>
-  </programme>
-  <programme start="20230801205000 -0500" stop="20230801211000 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230801211000 -0500" stop="20230801213500 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230801213500 -0500" stop="20230801215500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S3 E10</episode-num>
-  </programme>
-  <programme start="20230801215500 -0500" stop="20230801222000 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S3 E13</episode-num>
-  </programme>
-  <programme start="20230801222000 -0500" stop="20230801224500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S3 E8</episode-num>
-  </programme>
-  <programme start="20230801224500 -0500" stop="20230801230000 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S3 E14</episode-num>
-  </programme>
-  <programme start="20230801230000 -0500" stop="20230801232000 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230801232000 -0500" stop="20230801234500 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230801234500 -0500" stop="20230802001000 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230802001000 -0500" stop="20230802003500 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230802003500 -0500" stop="20230802010500 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230802010500 -0500" stop="20230802013000 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230802013000 -0500" stop="20230802015000 -0500" channel="TEEN NICK">
-    <title lang="es">Danger Force</title>
-  </programme>
-  <programme start="20230802015000 -0500" stop="20230802022000 -0500" channel="TEEN NICK">
-    <title lang="es">Game shakers</title>
-  </programme>
-  <programme start="20230802022000 -0500" stop="20230802024500 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230802024500 -0500" stop="20230802031000 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230802031000 -0500" stop="20230802033500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S2 E2</episode-num>
-  </programme>
-  <programme start="20230802033500 -0500" stop="20230802040000 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S3 E13</episode-num>
-  </programme>
-  <programme start="20230802040000 -0500" stop="20230802042500 -0500" channel="TEEN NICK">
-    <title lang="es">Sam &amp; Cat</title>
-  </programme>
-  <programme start="20230802042500 -0500" stop="20230802044500 -0500" channel="TEEN NICK">
-    <title lang="es">Sam &amp; Cat</title>
-  </programme>
-  <programme start="20230802044500 -0500" stop="20230802051000 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230802051000 -0500" stop="20230802053500 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230802053500 -0500" stop="20230802060000 -0500" channel="TEEN NICK">
-    <title lang="es">Tyler Perry's Young Dylan</title>
-  </programme>
-  <programme start="20230802060000 -0500" stop="20230802062500 -0500" channel="TEEN NICK">
-    <title lang="es">Tyler Perry's Young Dylan</title>
-  </programme>
-  <programme start="20230802062500 -0500" stop="20230802065000 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230802065000 -0500" stop="20230802071500 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230802071500 -0500" stop="20230802073500 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230802073500 -0500" stop="20230802080000 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230802080000 -0500" stop="20230802082500 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230802082500 -0500" stop="20230802085000 -0500" channel="TEEN NICK">
-    <title lang="es">Danger Force</title>
-  </programme>
-  <programme start="20230802085000 -0500" stop="20230802091500 -0500" channel="TEEN NICK">
-    <title lang="es">Danger Force</title>
-  </programme>
-  <programme start="20230802091500 -0500" stop="20230802094000 -0500" channel="TEEN NICK">
-    <title lang="es">Nickelodeon's Unfiltered</title>
-  </programme>
-  <programme start="20230802094000 -0500" stop="20230802100500 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230802100500 -0500" stop="20230802103000 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230802103000 -0500" stop="20230802110000 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230802110000 -0500" stop="20230802112500 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230802112500 -0500" stop="20230802115000 -0500" channel="TEEN NICK">
-    <title lang="es">Danger Force</title>
-  </programme>
-  <programme start="20230802115000 -0500" stop="20230802121500 -0500" channel="TEEN NICK">
-    <title lang="es">Game shakers</title>
-  </programme>
-  <programme start="20230802121500 -0500" stop="20230802124000 -0500" channel="TEEN NICK">
-    <title lang="es">Tyler Perry's Young Dylan</title>
-  </programme>
-  <programme start="20230802124000 -0500" stop="20230802130000 -0500" channel="TEEN NICK">
-    <title lang="es">Nicky, Ricky, Dicky &amp; Dawn</title>
-  </programme>
-  <programme start="20230802130000 -0500" stop="20230802132500 -0500" channel="TEEN NICK">
-    <title lang="es">Nicky, Ricky, Dicky &amp; Dawn</title>
-  </programme>
-  <programme start="20230802132500 -0500" stop="20230802135000 -0500" channel="TEEN NICK">
-    <title lang="es">School of Rock</title>
-  </programme>
-  <programme start="20230802135000 -0500" stop="20230802141500 -0500" channel="TEEN NICK">
-    <title lang="es">School of Rock</title>
-  </programme>
-  <programme start="20230802141500 -0500" stop="20230802144000 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230802144000 -0500" stop="20230802150500 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230802150500 -0500" stop="20230802152500 -0500" channel="TEEN NICK">
-    <title lang="es">Nickelodeon's Unfiltered</title>
-  </programme>
-  <programme start="20230802152500 -0500" stop="20230802155000 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230802155000 -0500" stop="20230802161500 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230802161500 -0500" stop="20230802163500 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230802163500 -0500" stop="20230802170000 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230802170000 -0500" stop="20230802172500 -0500" channel="TEEN NICK">
-    <title lang="es">Danger Force</title>
-  </programme>
-  <programme start="20230802172500 -0500" stop="20230802174500 -0500" channel="TEEN NICK">
-    <title lang="es">Game shakers</title>
-  </programme>
-  <programme start="20230802174500 -0500" stop="20230802181000 -0500" channel="TEEN NICK">
-    <title lang="es">Tyler Perry's Young Dylan</title>
-  </programme>
-  <programme start="20230802183000 -0500" stop="20230802185500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-  </programme>
-  <programme start="20230802185500 -0500" stop="20230802191500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S2 E12</episode-num>
-  </programme>
-  <programme start="20230802191500 -0500" stop="20230802194000 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230802194000 -0500" stop="20230802200500 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230802200500 -0500" stop="20230802202500 -0500" channel="TEEN NICK">
-    <title lang="es">Sam &amp; Cat</title>
-  </programme>
-  <programme start="20230802202500 -0500" stop="20230802205000 -0500" channel="TEEN NICK">
-    <title lang="es">Sam &amp; Cat</title>
-  </programme>
-  <programme start="20230802205000 -0500" stop="20230802211000 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230802211000 -0500" stop="20230802213500 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230802213500 -0500" stop="20230802215500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S4 E2</episode-num>
-  </programme>
-  <programme start="20230802215500 -0500" stop="20230802222000 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S4 E4</episode-num>
-  </programme>
-  <programme start="20230802222000 -0500" stop="20230802224500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S4 E8</episode-num>
-  </programme>
-  <programme start="20230802224500 -0500" stop="20230802230000 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-    <episode-num system="onscreen">S4 E9</episode-num>
-  </programme>
-  <programme start="20230802230000 -0500" stop="20230802232000 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230802232000 -0500" stop="20230802234500 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230803003500 -0500" stop="20230803010500 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230803010500 -0500" stop="20230803013000 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230803013000 -0500" stop="20230803015000 -0500" channel="TEEN NICK">
-    <title lang="es">Danger Force</title>
-  </programme>
-  <programme start="20230803015000 -0500" stop="20230803022000 -0500" channel="TEEN NICK">
-    <title lang="es">Game shakers</title>
-  </programme>
-  <programme start="20230803022000 -0500" stop="20230803024500 -0500" channel="TEEN NICK">
-    <title lang="es">Game shakers</title>
-  </programme>
-  <programme start="20230803024500 -0500" stop="20230803031000 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-  </programme>
-  <programme start="20230803031000 -0500" stop="20230803033500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-  </programme>
-  <programme start="20230803033500 -0500" stop="20230803040000 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-  </programme>
-  <programme start="20230803040000 -0500" stop="20230803042500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-  </programme>
-  <programme start="20230803042500 -0500" stop="20230803044500 -0500" channel="TEEN NICK">
-    <title lang="es">Sam &amp; Cat</title>
-  </programme>
-  <programme start="20230803044500 -0500" stop="20230803051000 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230803051000 -0500" stop="20230803053500 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230803053500 -0500" stop="20230803060000 -0500" channel="TEEN NICK">
-    <title lang="es">Tyler Perry's Young Dylan</title>
-  </programme>
-  <programme start="20230803060000 -0500" stop="20230803062500 -0500" channel="TEEN NICK">
-    <title lang="es">Tyler Perry's Young Dylan</title>
-  </programme>
-  <programme start="20230803062500 -0500" stop="20230803065000 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230803065000 -0500" stop="20230803071500 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230803071500 -0500" stop="20230803073500 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230803073500 -0500" stop="20230803080000 -0500" channel="TEEN NICK">
-    <title lang="es">School of Rock</title>
-  </programme>
-  <programme start="20230803080000 -0500" stop="20230803082500 -0500" channel="TEEN NICK">
-    <title lang="es">School of Rock</title>
-  </programme>
-  <programme start="20230803082500 -0500" stop="20230803085000 -0500" channel="TEEN NICK">
-    <title lang="es">Nicky, Ricky, Dicky &amp; Dawn</title>
-  </programme>
-  <programme start="20230803094000 -0500" stop="20230803100500 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230803100500 -0500" stop="20230803103000 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230803103000 -0500" stop="20230803110000 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230803110000 -0500" stop="20230803112500 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230803112500 -0500" stop="20230803115000 -0500" channel="TEEN NICK">
-    <title lang="es">Danger Force</title>
-  </programme>
-  <programme start="20230803115000 -0500" stop="20230803121500 -0500" channel="TEEN NICK">
-    <title lang="es">Game shakers</title>
-  </programme>
-  <programme start="20230803124000 -0500" stop="20230803130000 -0500" channel="TEEN NICK">
-    <title lang="es">Nicky, Ricky, Dicky &amp; Dawn</title>
-  </programme>
-  <programme start="20230803130000 -0500" stop="20230803132500 -0500" channel="TEEN NICK">
-    <title lang="es">Nicky, Ricky, Dicky &amp; Dawn</title>
-  </programme>
-  <programme start="20230803132500 -0500" stop="20230803135000 -0500" channel="TEEN NICK">
-    <title lang="es">School of Rock</title>
-  </programme>
-  <programme start="20230803135000 -0500" stop="20230803141500 -0500" channel="TEEN NICK">
-    <title lang="es">School of Rock</title>
-  </programme>
-  <programme start="20230803141500 -0500" stop="20230803144000 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230803144000 -0500" stop="20230803152500 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230803152500 -0500" stop="20230803155000 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230803155000 -0500" stop="20230803161500 -0500" channel="TEEN NICK">
-    <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20230803161500 -0500" stop="20230803163500 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230803163500 -0500" stop="20230803170000 -0500" channel="TEEN NICK">
-    <title lang="es">Henry Danger</title>
-  </programme>
-  <programme start="20230803170000 -0500" stop="20230803172500 -0500" channel="TEEN NICK">
-    <title lang="es">Danger Force</title>
-  </programme>
-  <programme start="20230803172500 -0500" stop="20230803174500 -0500" channel="TEEN NICK">
-    <title lang="es">Game shakers</title>
-  </programme>
-  <programme start="20230803183000 -0500" stop="20230803185500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-  </programme>
-  <programme start="20230803185500 -0500" stop="20230803191500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-  </programme>
-  <programme start="20230803191500 -0500" stop="20230803194000 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230803194000 -0500" stop="20230803200500 -0500" channel="TEEN NICK">
-    <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20230803200500 -0500" stop="20230803202500 -0500" channel="TEEN NICK">
-    <title lang="es">Sam &amp; Cat</title>
-  </programme>
-  <programme start="20230803202500 -0500" stop="20230803205000 -0500" channel="TEEN NICK">
-    <title lang="es">Sam &amp; Cat</title>
-  </programme>
-  <programme start="20230803205000 -0500" stop="20230803211000 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230803211000 -0500" stop="20230803213500 -0500" channel="TEEN NICK">
-    <title lang="es">Side Hustle</title>
-  </programme>
-  <programme start="20230803213500 -0500" stop="20230803215500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-  </programme>
-  <programme start="20230803215500 -0500" stop="20230803222000 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-  </programme>
-  <programme start="20230803222000 -0500" stop="20230803224500 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
-  </programme>
-  <programme start="20230803224500 -0500" stop="20230803230000 -0500" channel="TEEN NICK">
-    <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
-    <credits>
-      <actor>Victoria Justice</actor>
-      <producer>Robin Weiner</producer>
-      <producer>Joe Catania</producer>
-      <composer>Michael Corcoran</composer>
-      <composer>Dr. Luke</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Juvenil</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
   </programme>
   <programme start="20230730002400 -0500" stop="20230730021900 -0500" channel="TNT">
     <title lang="es">Aves de presa (y la fantabulosa emancipación de Harley Quinn)</title>
@@ -15610,458 +13990,6 @@ Leo rompe la promesa que le hizo a su novia de ser más responsable cuando lleva
   </programme>
   <programme start="20230803223500 -0500" stop="20230803233000 -0500" channel="TELEHIT">
     <title lang="es">Reggaepop</title>
-  </programme>
-  <programme start="20230730010000 -0500" stop="20230730020500 -0500" channel="MTV">
-    <title lang="es">Resistiré</title>
-    <episode-num system="onscreen">E163</episode-num>
-  </programme>
-  <programme start="20230730020500 -0500" stop="20230730030000 -0500" channel="MTV">
-    <title lang="es">Latino Fuerte</title>
-  </programme>
-  <programme start="20230730030000 -0500" stop="20230730040000 -0500" channel="MTV">
-    <title lang="es">MTV ATR A Todo Ritmo</title>
-  </programme>
-  <programme start="20230730040000 -0500" stop="20230730060000 -0500" channel="MTV">
-    <title lang="es">Insomnio MTV</title>
-  </programme>
-  <programme start="20230730060000 -0500" stop="20230730070000 -0500" channel="MTV">
-    <title lang="es">Tu Mix de Hoy</title>
-  </programme>
-  <programme start="20230730070000 -0500" stop="20230730080000 -0500" channel="MTV">
-    <title lang="es">Arriba MTV</title>
-  </programme>
-  <programme start="20230730080000 -0500" stop="20230730090000 -0500" channel="MTV">
-    <title lang="es">Latino Fuerte</title>
-  </programme>
-  <programme start="20230730090000 -0500" stop="20230730100000 -0500" channel="MTV">
-    <title lang="es">Playlist Teamatica</title>
-  </programme>
-  <programme start="20230730100000 -0500" stop="20230730111000 -0500" channel="MTV">
-    <title lang="es">Playlist Teamatica</title>
-  </programme>
-  <programme start="20230730111000 -0500" stop="20230730120000 -0500" channel="MTV">
-    <title lang="es">World Stage</title>
-  </programme>
-  <programme start="20230730120000 -0500" stop="20230730125500 -0500" channel="MTV">
-    <title lang="es">Teen Wolf</title>
-    <episode-num system="onscreen">E304</episode-num>
-  </programme>
-  <programme start="20230730125500 -0500" stop="20230730135000 -0500" channel="MTV">
-    <title lang="es">Teen Wolf</title>
-    <episode-num system="onscreen">E305</episode-num>
-  </programme>
-  <programme start="20230730135000 -0500" stop="20230730144500 -0500" channel="MTV">
-    <title lang="es">Teen Wolf</title>
-    <episode-num system="onscreen">E306</episode-num>
-  </programme>
-  <programme start="20230730144500 -0500" stop="20230730155500 -0500" channel="MTV">
-    <title lang="es">RuPaul's Drag Race</title>
-    <episode-num system="onscreen">E1505</episode-num>
-  </programme>
-  <programme start="20230730155500 -0500" stop="20230730170500 -0500" channel="MTV">
-    <title lang="es">RuPaul's Drag Race</title>
-    <episode-num system="onscreen">E1506</episode-num>
-  </programme>
-  <programme start="20230730170500 -0500" stop="20230730183500 -0500" channel="MTV">
-    <title lang="es">Resistiré</title>
-    <episode-num system="onscreen">E161</episode-num>
-  </programme>
-  <programme start="20230730183500 -0500" stop="20230730194500 -0500" channel="MTV">
-    <title lang="es">Resistiré</title>
-    <episode-num system="onscreen">E162</episode-num>
-  </programme>
-  <programme start="20230730194500 -0500" stop="20230730210000 -0500" channel="MTV">
-    <title lang="es">Drag Race Mexico</title>
-    <episode-num system="onscreen">E106</episode-num>
-  </programme>
-  <programme start="20230730210000 -0500" stop="20230730221000 -0500" channel="MTV">
-    <title lang="es">Rio Shore</title>
-    <episode-num system="onscreen">E301</episode-num>
-  </programme>
-  <programme start="20230730221000 -0500" stop="20230730232000 -0500" channel="MTV">
-    <title lang="es">Rio Shore</title>
-    <episode-num system="onscreen">E302</episode-num>
-  </programme>
-  <programme start="20230730232000 -0500" stop="20230731001500 -0500" channel="MTV">
-    <title lang="es">Are You the One</title>
-    <episode-num system="onscreen">E901</episode-num>
-  </programme>
-  <programme start="20230731232000 -0500" stop="20230801001500 -0500" channel="MTV">
-    <title lang="es">Are You the One</title>
-    <episode-num system="onscreen">E901</episode-num>
-  </programme>
-  <programme start="20230801001500 -0500" stop="20230801011000 -0500" channel="MTV">
-    <title lang="es">Are You the One</title>
-    <episode-num system="onscreen">E902</episode-num>
-  </programme>
-  <programme start="20230801011000 -0500" stop="20230801013500 -0500" channel="MTV">
-    <title lang="es">MTV Cribs</title>
-  </programme>
-  <programme start="20230801013500 -0500" stop="20230801020000 -0500" channel="MTV">
-    <title lang="es">MTV Cribs</title>
-  </programme>
-  <programme start="20230801020000 -0500" stop="20230801030000 -0500" channel="MTV">
-    <title lang="es">Latino Fuerte</title>
-  </programme>
-  <programme start="20230801090000 -0500" stop="20230801095500 -0500" channel="MTV">
-    <title lang="es">Catfish S.4-5</title>
-    <episode-num system="onscreen">E814</episode-num>
-  </programme>
-  <programme start="20230801095500 -0500" stop="20230801104500 -0500" channel="MTV">
-    <title lang="es">Catfish S.4-5</title>
-    <episode-num system="onscreen">E815</episode-num>
-  </programme>
-  <programme start="20230801104500 -0500" stop="20230801113500 -0500" channel="MTV">
-    <title lang="es">Catfish S.4-5</title>
-    <episode-num system="onscreen">E816</episode-num>
-  </programme>
-  <programme start="20230801113500 -0500" stop="20230801120500 -0500" channel="MTV">
-    <title lang="es">Sabrina La Bruja Adolescente</title>
-    <episode-num system="onscreen">E301</episode-num>
-  </programme>
-  <programme start="20230801120500 -0500" stop="20230801123000 -0500" channel="MTV">
-    <title lang="es">Sabrina La Bruja Adolescente</title>
-    <episode-num system="onscreen">E302</episode-num>
-  </programme>
-  <programme start="20230801123000 -0500" stop="20230801132500 -0500" channel="MTV">
-    <title lang="es">Teen Wolf</title>
-    <episode-num system="onscreen">E403</episode-num>
-  </programme>
-  <programme start="20230801132500 -0500" stop="20230801142000 -0500" channel="MTV">
-    <title lang="es">Teen Wolf</title>
-    <episode-num system="onscreen">E404</episode-num>
-  </programme>
-  <programme start="20230801142000 -0500" stop="20230801145000 -0500" channel="MTV">
-    <title lang="es">Ridiculousness</title>
-    <episode-num system="onscreen">E2321</episode-num>
-  </programme>
-  <programme start="20230801145000 -0500" stop="20230801152000 -0500" channel="MTV">
-    <title lang="es">Ridiculousness</title>
-    <episode-num system="onscreen">E2322</episode-num>
-  </programme>
-  <programme start="20230801152000 -0500" stop="20230801155000 -0500" channel="MTV">
-    <title lang="es">Sabrina La Bruja Adolescente</title>
-    <episode-num system="onscreen">E301</episode-num>
-  </programme>
-  <programme start="20230801155000 -0500" stop="20230801161500 -0500" channel="MTV">
-    <title lang="es">Sabrina La Bruja Adolescente</title>
-    <episode-num system="onscreen">E302</episode-num>
-  </programme>
-  <programme start="20230801161500 -0500" stop="20230801171000 -0500" channel="MTV">
-    <title lang="es">Just Tattoo of Us</title>
-    <episode-num system="onscreen">E201</episode-num>
-  </programme>
-  <programme start="20230801171000 -0500" stop="20230801180500 -0500" channel="MTV">
-    <title lang="es">Just Tattoo of Us</title>
-    <episode-num system="onscreen">E202</episode-num>
-  </programme>
-  <programme start="20230801180500 -0500" stop="20230801183500 -0500" channel="MTV">
-    <title lang="es">Sabrina La Bruja Adolescente</title>
-    <episode-num system="onscreen">E505</episode-num>
-  </programme>
-  <programme start="20230801183500 -0500" stop="20230801190500 -0500" channel="MTV">
-    <title lang="es">Sabrina La Bruja Adolescente</title>
-    <episode-num system="onscreen">E506</episode-num>
-  </programme>
-  <programme start="20230801190500 -0500" stop="20230801200000 -0500" channel="MTV">
-    <title lang="es">Ex On The Beach</title>
-    <episode-num system="onscreen">E1108</episode-num>
-  </programme>
-  <programme start="20230801200000 -0500" stop="20230801205500 -0500" channel="MTV">
-    <title lang="es">Teen Wolf</title>
-    <episode-num system="onscreen">E611</episode-num>
-  </programme>
-  <programme start="20230801205500 -0500" stop="20230801220500 -0500" channel="MTV">
-    <title lang="es">Rio Shore</title>
-    <episode-num system="onscreen">E303</episode-num>
-  </programme>
-  <programme start="20230801220500 -0500" stop="20230801231000 -0500" channel="MTV">
-    <title lang="es">Resistiré</title>
-    <episode-num system="onscreen">E162</episode-num>
-  </programme>
-  <programme start="20230801231000 -0500" stop="20230802001500 -0500" channel="MTV">
-    <title lang="es">Resistiré</title>
-    <episode-num system="onscreen">E163</episode-num>
-  </programme>
-  <programme start="20230802231000 -0500" stop="20230803001500 -0500" channel="MTV">
-    <title lang="es">Resistiré</title>
-    <episode-num system="onscreen">E163</episode-num>
-  </programme>
-  <programme start="20230803001500 -0500" stop="20230803010500 -0500" channel="MTV">
-    <title lang="es">Teen Wolf</title>
-    <episode-num system="onscreen">E611</episode-num>
-  </programme>
-  <programme start="20230803010500 -0500" stop="20230803013000 -0500" channel="MTV">
-    <title lang="es">Sabrina La Bruja Adolescente</title>
-    <episode-num system="onscreen">E505</episode-num>
-  </programme>
-  <programme start="20230803013000 -0500" stop="20230803020000 -0500" channel="MTV">
-    <title lang="es">Sabrina La Bruja Adolescente</title>
-    <episode-num system="onscreen">E506</episode-num>
-  </programme>
-  <programme start="20230803090000 -0500" stop="20230803095500 -0500" channel="MTV">
-    <title lang="es">Catfish S.4-5</title>
-    <episode-num system="onscreen">E817</episode-num>
-  </programme>
-  <programme start="20230803095500 -0500" stop="20230803104500 -0500" channel="MTV">
-    <title lang="es">Catfish S.4-5</title>
-    <episode-num system="onscreen">E818</episode-num>
-  </programme>
-  <programme start="20230803104500 -0500" stop="20230803113500 -0500" channel="MTV">
-    <title lang="es">Catfish S.4-5</title>
-    <episode-num system="onscreen">E819</episode-num>
-  </programme>
-  <programme start="20230803113500 -0500" stop="20230803120500 -0500" channel="MTV">
-    <title lang="es">Sabrina La Bruja Adolescente</title>
-    <episode-num system="onscreen">E303</episode-num>
-  </programme>
-  <programme start="20230803120500 -0500" stop="20230803123000 -0500" channel="MTV">
-    <title lang="es">Sabrina La Bruja Adolescente</title>
-    <episode-num system="onscreen">E304</episode-num>
-  </programme>
-  <programme start="20230803123000 -0500" stop="20230803132500 -0500" channel="MTV">
-    <title lang="es">Teen Wolf</title>
-    <episode-num system="onscreen">E404</episode-num>
-  </programme>
-  <programme start="20230803132500 -0500" stop="20230803142000 -0500" channel="MTV">
-    <title lang="es">Teen Wolf</title>
-    <episode-num system="onscreen">E406</episode-num>
-  </programme>
-  <programme start="20230803142000 -0500" stop="20230803145000 -0500" channel="MTV">
-    <title lang="es">Ridiculousness</title>
-    <episode-num system="onscreen">E2323</episode-num>
-  </programme>
-  <programme start="20230803145000 -0500" stop="20230803152000 -0500" channel="MTV">
-    <title lang="es">Ridiculousness</title>
-    <episode-num system="onscreen">E2324</episode-num>
-  </programme>
-  <programme start="20230803152000 -0500" stop="20230803155000 -0500" channel="MTV">
-    <title lang="es">Sabrina La Bruja Adolescente</title>
-    <episode-num system="onscreen">E303</episode-num>
-  </programme>
-  <programme start="20230803155000 -0500" stop="20230803161500 -0500" channel="MTV">
-    <title lang="es">Sabrina La Bruja Adolescente</title>
-    <episode-num system="onscreen">E304</episode-num>
-  </programme>
-  <programme start="20230803161500 -0500" stop="20230803171000 -0500" channel="MTV">
-    <title lang="es">Just Tattoo of Us</title>
-    <episode-num system="onscreen">E203</episode-num>
-  </programme>
-  <programme start="20230803171000 -0500" stop="20230803180500 -0500" channel="MTV">
-    <title lang="es">Just Tattoo of Us</title>
-    <episode-num system="onscreen">E204</episode-num>
-  </programme>
-  <programme start="20230803180500 -0500" stop="20230803183500 -0500" channel="MTV">
-    <title lang="es">Sabrina La Bruja Adolescente</title>
-    <episode-num system="onscreen">E507</episode-num>
-  </programme>
-  <programme start="20230803183500 -0500" stop="20230803190500 -0500" channel="MTV">
-    <title lang="es">Sabrina La Bruja Adolescente</title>
-    <episode-num system="onscreen">E508</episode-num>
-  </programme>
-  <programme start="20230803190500 -0500" stop="20230803200000 -0500" channel="MTV">
-    <title lang="es">MTV Couples Retreat</title>
-    <episode-num system="onscreen">E301</episode-num>
-  </programme>
-  <programme start="20230803200000 -0500" stop="20230803205500 -0500" channel="MTV">
-    <title lang="es">Teen Wolf</title>
-    <episode-num system="onscreen">E612</episode-num>
-  </programme>
-  <programme start="20230803205500 -0500" stop="20230803220000 -0500" channel="MTV">
-    <title lang="es">Resistiré</title>
-    <episode-num system="onscreen">E164</episode-num>
-  </programme>
-  <programme start="20230803220000 -0500" stop="20230803231000 -0500" channel="MTV">
-    <title lang="es">Drag Race Mexico</title>
-    <episode-num system="onscreen">E105</episode-num>
-  </programme>
-  <programme start="20230803231000 -0500" stop="20230804002000 -0500" channel="MTV">
-    <title lang="es">Drag Race Mexico</title>
-    <episode-num system="onscreen">E106</episode-num>
-  </programme>
-  <programme start="20230804231000 -0500" stop="20230805002000 -0500" channel="MTV">
-    <title lang="es">Drag Race Mexico</title>
-    <episode-num system="onscreen">E106</episode-num>
-  </programme>
-  <programme start="20230730001600 -0500" stop="20230730022400 -0500" channel="TCM">
-    <title lang="es">Velvet Goldmine</title>
-  </programme>
-  <programme start="20230730022400 -0500" stop="20230730030100 -0500" channel="TCM">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20230730030100 -0500" stop="20230730033600 -0500" channel="TCM">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20230730033600 -0500" stop="20230730034900 -0500" channel="TCM">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20230730034900 -0500" stop="20230730040000 -0500" channel="TCM">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20230730040000 -0500" stop="20230730043900 -0500" channel="TCM">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20230730043900 -0500" stop="20230730063000 -0500" channel="TCM">
-    <title lang="es">Escribiendo de amor</title>
-  </programme>
-  <programme start="20230730063000 -0500" stop="20230730081300 -0500" channel="TCM">
-    <title lang="es">Érase una vez en México</title>
-  </programme>
-  <programme start="20230730081300 -0500" stop="20230730100900 -0500" channel="TCM">
-    <title lang="es">Los cazafantasmas II</title>
-  </programme>
-  <programme start="20230730100900 -0500" stop="20230730115600 -0500" channel="TCM">
-    <title lang="es">Hechizo del tiempo</title>
-  </programme>
-  <programme start="20230730115600 -0500" stop="20230730142400 -0500" channel="TCM">
-    <title lang="es">Che</title>
-  </programme>
-  <programme start="20230730142400 -0500" stop="20230730161100 -0500" channel="TCM">
-    <title lang="es">Fuera de juego</title>
-  </programme>
-  <programme start="20230730161100 -0500" stop="20230730183600 -0500" channel="TCM">
-    <title lang="es">Hamlet</title>
-  </programme>
-  <programme start="20230730183600 -0500" stop="20230730200000 -0500" channel="TCM">
-    <title lang="es">El gigante de hierro</title>
-  </programme>
-  <programme start="20230730200000 -0500" stop="20230730221100 -0500" channel="TCM">
-    <title lang="es">Velvet Goldmine</title>
-  </programme>
-  <programme start="20230730221100 -0500" stop="20230731000400 -0500" channel="TCM">
-    <title lang="es">El asesino dentro de mi</title>
-  </programme>
-  <programme start="20230731000400 -0500" stop="20230731020200 -0500" channel="TCM">
-    <title lang="es">L'Amant</title>
-  </programme>
-  <programme start="20230731020200 -0500" stop="20230731023900 -0500" channel="TCM">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20230731023900 -0500" stop="20230731031400 -0500" channel="TCM">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20230731031400 -0500" stop="20230731035000 -0500" channel="TCM">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20230731035000 -0500" stop="20230731040000 -0500" channel="TCM">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20230731040000 -0500" stop="20230731062500 -0500" channel="TCM">
-    <title lang="es">Che</title>
-  </programme>
-  <programme start="20230731062500 -0500" stop="20230731081000 -0500" channel="TCM">
-    <title lang="es">Fuera de juego</title>
-  </programme>
-  <programme start="20230731081000 -0500" stop="20230731103900 -0500" channel="TCM">
-    <title lang="es">Hamlet</title>
-  </programme>
-  <programme start="20230731103900 -0500" stop="20230731120300 -0500" channel="TCM">
-    <title lang="es">El gigante de hierro</title>
-  </programme>
-  <programme start="20230731120300 -0500" stop="20230731141100 -0500" channel="TCM">
-    <title lang="es">¿Dónde quedo el amor</title>
-  </programme>
-  <programme start="20230731141100 -0500" stop="20230731162200 -0500" channel="TCM">
-    <title lang="es">¡Adiós Lenin</title>
-  </programme>
-  <programme start="20230731162200 -0500" stop="20230731175100 -0500" channel="TCM">
-    <title lang="es">Todos los perros van al cielo</title>
-  </programme>
-  <programme start="20230731175100 -0500" stop="20230731200000 -0500" channel="TCM">
-    <title lang="es">¿A Quién Ama Gilbert Grape</title>
-  </programme>
-  <programme start="20230731200000 -0500" stop="20230731220200 -0500" channel="TCM">
-    <title lang="es">L'Amant</title>
-  </programme>
-  <programme start="20230731220200 -0500" stop="20230801001700 -0500" channel="TCM">
-    <title lang="es">Tango feroz, la leyenda de tanguito</title>
-  </programme>
-  <programme start="20230801220200 -0500" stop="20230802001700 -0500" channel="TCM">
-    <title lang="es">Tango feroz, la leyenda de tanguito</title>
-  </programme>
-  <programme start="20230802001700 -0500" stop="20230802015300 -0500" channel="TCM">
-    <title lang="es">Trainspotting</title>
-  </programme>
-  <programme start="20230802015300 -0500" stop="20230802023100 -0500" channel="TCM">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20230802023100 -0500" stop="20230802030800 -0500" channel="TCM">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20230802030800 -0500" stop="20230802034300 -0500" channel="TCM">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20230802034300 -0500" stop="20230802041100 -0500" channel="TCM">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20230802041100 -0500" stop="20230802061200 -0500" channel="TCM">
-    <title lang="es">¿Dónde quedo el amor</title>
-  </programme>
-  <programme start="20230802061200 -0500" stop="20230802081800 -0500" channel="TCM">
-    <title lang="es">¡Adiós Lenin</title>
-  </programme>
-  <programme start="20230802081800 -0500" stop="20230802094800 -0500" channel="TCM">
-    <title lang="es">Todos los perros van al cielo</title>
-  </programme>
-  <programme start="20230802094800 -0500" stop="20230802115600 -0500" channel="TCM">
-    <title lang="es">¿A Quién Ama Gilbert Grape</title>
-  </programme>
-  <programme start="20230802115600 -0500" stop="20230802134400 -0500" channel="TCM">
-    <title lang="es">Directo al corazón</title>
-  </programme>
-  <programme start="20230802134400 -0500" stop="20230802160000 -0500" channel="TCM">
-    <title lang="es">Che: el argentino</title>
-  </programme>
-  <programme start="20230802160000 -0500" stop="20230802180400 -0500" channel="TCM">
-    <title lang="es">Mr. Jones</title>
-  </programme>
-  <programme start="20230802180400 -0500" stop="20230802200000 -0500" channel="TCM">
-    <title lang="es">Corazón de León</title>
-  </programme>
-  <programme start="20230802200000 -0500" stop="20230802213600 -0500" channel="TCM">
-    <title lang="es">Trainspotting</title>
-  </programme>
-  <programme start="20230802213600 -0500" stop="20230803000700 -0500" channel="TCM">
-    <title lang="es">Lolita</title>
-  </programme>
-  <programme start="20230803213600 -0500" stop="20230804000700 -0500" channel="TCM">
-    <title lang="es">Lolita</title>
-  </programme>
-  <programme start="20230804000700 -0500" stop="20230804014500 -0500" channel="TCM">
-    <title lang="es">En la mente del asesino</title>
-  </programme>
-  <programme start="20230804014500 -0500" stop="20230804043500 -0500" channel="TCM">
-    <title lang="es">En el camino</title>
-  </programme>
-  <programme start="20230804043500 -0500" stop="20230804062000 -0500" channel="TCM">
-    <title lang="es">Directo al corazón</title>
-  </programme>
-  <programme start="20230804062000 -0500" stop="20230804083100 -0500" channel="TCM">
-    <title lang="es">Che: el argentino</title>
-  </programme>
-  <programme start="20230804083100 -0500" stop="20230804103200 -0500" channel="TCM">
-    <title lang="es">Mr. Jones</title>
-  </programme>
-  <programme start="20230804103200 -0500" stop="20230804122300 -0500" channel="TCM">
-    <title lang="es">Corazón de León</title>
-  </programme>
-  <programme start="20230804122300 -0500" stop="20230804141700 -0500" channel="TCM">
-    <title lang="es">Escribiendo de amor</title>
-  </programme>
-  <programme start="20230804141700 -0500" stop="20230804155400 -0500" channel="TCM">
-    <title lang="es">Antes de separarnos</title>
-  </programme>
-  <programme start="20230804155400 -0500" stop="20230804175400 -0500" channel="TCM">
-    <title lang="es">Mi nombre es August Rush</title>
-  </programme>
-  <programme start="20230804175400 -0500" stop="20230804200000 -0500" channel="TCM">
-    <title lang="es">The Fan</title>
-  </programme>
-  <programme start="20230804200000 -0500" stop="20230804214700 -0500" channel="TCM">
-    <title lang="es">En la mente del asesino</title>
-  </programme>
-  <programme start="20230804214700 -0500" stop="20230805001600 -0500" channel="TCM">
-    <title lang="es">En el camino</title>
   </programme>
   <programme start="20230730001000 -0500" stop="20230730021800 -0500" channel="GOLDEN EDGE">
     <title lang="es">Fragmentado</title>
@@ -21823,5 +19751,544 @@ Leo rompe la promesa que le hizo a su novia de ser más responsable cuando lleva
   </programme>
   <programme start="20230802212000 -0500" stop="20230802230000 -0500" channel="ADRENALINA">
     <title lang="es">Ruano vs. Beltrán Repetición</title>
+  </programme>
+  <programme start="20230730003000 -0500" stop="20230730043000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230730043000 -0500" stop="20230730050000 -0500" channel="CANAL 5">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20230730050000 -0500" stop="20230730060000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230730060000 -0500" stop="20230730070000 -0500" channel="CANAL 5">
+    <title lang="es">El cuarto de Blue</title>
+  </programme>
+  <programme start="20230730070000 -0500" stop="20230730090000 -0500" channel="CANAL 5">
+    <title lang="es">Zoey 101</title>
+  </programme>
+  <programme start="20230730090000 -0500" stop="20230730103000 -0500" channel="CANAL 5">
+    <title lang="es">Los Padrinos Mágicos</title>
+    <title lang="xx">The Fairly OddParents</title>
+    <desc lang="es">Un niño tiene dos padrinos mágicos que pueden hacer realidad todos sus deseos, pero debe tener cuidado con lo que pide porque a veces pueden ser peligrosos.(n)</desc>
+    <credits>
+      <producer>Ray DeLaurentis</producer>
+      <producer>Randy Saba</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_padrinos_magicos.jpg" />
+    <country lang="es">Canadá</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230730103000 -0500" stop="20230730114500 -0500" channel="CANAL 5">
+    <title lang="es">Las aventuras de Scooby Doo</title>
+  </programme>
+  <programme start="20230730114500 -0500" stop="20230730133000 -0500" channel="CANAL 5">
+    <title lang="es">Pup Star Gira mundial</title>
+  </programme>
+  <programme start="20230730133000 -0500" stop="20230730154500 -0500" channel="CANAL 5">
+    <title lang="es">Mi papá y nuestro mundo</title>
+  </programme>
+  <programme start="20230730154500 -0500" stop="20230730174500 -0500" channel="CANAL 5">
+    <title lang="es">Babe El puerquito valiente</title>
+  </programme>
+  <programme start="20230730174500 -0500" stop="20230730194500 -0500" channel="CANAL 5">
+    <title lang="es">La nana magica</title>
+  </programme>
+  <programme start="20230730194500 -0500" stop="20230730220000 -0500" channel="CANAL 5">
+    <title lang="es">El regreso de la nana mágica</title>
+  </programme>
+  <programme start="20230730220000 -0500" stop="20230731000000 -0500" channel="CANAL 5">
+    <title lang="es">Dolittle</title>
+    <title lang="xx">Dolittle</title>
+    <desc lang="es">El excéntrico doctor John Dolittle zarpa a una aventura junto con sus amigos animales después de que la joven reina Victoria cayera gravemente enferma.(n)</desc>
+    <credits>
+      <actor>Robert Downey Jr.</actor>
+      <actor>Antonio Banderas</actor>
+      <actor>Michael Sheen</actor>
+      <actor>Harry Collett</actor>
+      <actor>Jim Broadbent</actor>
+      <actor>Jessie Buckley</actor>
+      <actor>Carmel Laniado</actor>
+      <actor>Ralph Ineson</actor>
+      <producer>Joe Roth</producer>
+      <producer>Jeff Kirschenbaum</producer>
+      <composer>Danny Elfman</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/dolittle.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20230731000000 -0500" stop="20230731020000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230731020000 -0500" stop="20230731040000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230731040000 -0500" stop="20230731043000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230731043000 -0500" stop="20230731050000 -0500" channel="CANAL 5">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20230731050000 -0500" stop="20230731063000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230731063000 -0500" stop="20230731070000 -0500" channel="CANAL 5">
+    <title lang="es">CoComelon</title>
+  </programme>
+  <programme start="20230731070000 -0500" stop="20230731073000 -0500" channel="CANAL 5">
+    <title lang="es">Las Aventuras Sunny Bunnies</title>
+  </programme>
+  <programme start="20230731073000 -0500" stop="20230731080000 -0500" channel="CANAL 5">
+    <title lang="es">La casa de muñecas de Gabby</title>
+  </programme>
+  <programme start="20230731080000 -0500" stop="20230731083000 -0500" channel="CANAL 5">
+    <title lang="es">Peppa Pig</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.(n)</desc>
+    <credits>
+      <producer>Phil Davies</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/peppa.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230731083000 -0500" stop="20230731090000 -0500" channel="CANAL 5">
+    <title lang="es">PJ Masks: Héroes en Pijamas</title>
+    <title lang="xx">PJ Masks</title>
+    <desc lang="es">Tres niños de 6 años que viven una vida normal durante el día se convierten en superhéroes por las noches para luchar contra el crimen como un equipo.(n)</desc>
+    <credits>
+      <producer>Guillaume Hellouin</producer>
+      <producer>Corinne Kouper</producer>
+      <composer>Eric Renwart</composer>
+      <composer>David Freedman</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/pj_masks_heroes_en_pijamas.jpg" />
+    <country lang="es">Francia</country>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Canadá</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230731090000 -0500" stop="20230731100000 -0500" channel="CANAL 5">
+    <title lang="es">Las Aventuras Jimmy Neutrón</title>
+  </programme>
+  <programme start="20230731100000 -0500" stop="20230731110000 -0500" channel="CANAL 5">
+    <title lang="es">El jefe bebé</title>
+  </programme>
+  <programme start="20230731110000 -0500" stop="20230731120000 -0500" channel="CANAL 5">
+    <title lang="es">iCarly</title>
+  </programme>
+  <programme start="20230731120000 -0500" stop="20230731130000 -0500" channel="CANAL 5">
+    <title lang="es">Jurassic World Campamento</title>
+  </programme>
+  <programme start="20230731130000 -0500" stop="20230731140000 -0500" channel="CANAL 5">
+    <title lang="es">¡Ponte en Onda Scooby Doo</title>
+  </programme>
+  <programme start="20230731140000 -0500" stop="20230731150000 -0500" channel="CANAL 5">
+    <title lang="es">Miraculous Ladybug</title>
+  </programme>
+  <programme start="20230731150000 -0500" stop="20230731163000 -0500" channel="CANAL 5">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20230731163000 -0500" stop="20230731171500 -0500" channel="CANAL 5">
+    <title lang="es">el chavo animado</title>
+  </programme>
+  <programme start="20230731171500 -0500" stop="20230731200000 -0500" channel="CANAL 5">
+    <title lang="es">Blanca Nieves y El Cazador</title>
+  </programme>
+  <programme start="20230731200000 -0500" stop="20230731220000 -0500" channel="CANAL 5">
+    <title lang="es">¿Cuál es el bueno</title>
+  </programme>
+  <programme start="20230731220000 -0500" stop="20230731233000 -0500" channel="CANAL 5">
+    <title lang="es">La casa de los famosos</title>
+  </programme>
+  <programme start="20230731233000 -0500" stop="20230801000000 -0500" channel="CANAL 5">
+    <title lang="es">1000 Maneras de Morir</title>
+    <desc lang="es">Serie que muestra distintas formas de perder la vida, unas accidentales, trágicas y otras un tanto absurdas; a través de expertos y un poco de ciencia.(n)</desc>
+    <credits>
+      <actor>Ron Perlman</actor>
+      <actor>Khyber Zaffarkhan</actor>
+      <actor>Irena Murphy</actor>
+      <producer>Tom McMahon</producer>
+      <producer>Thom Beers</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/1000_maneras_de_morir.jpg" />
+  </programme>
+  <programme start="20230801063000 -0500" stop="20230801070000 -0500" channel="CANAL 5">
+    <title lang="es">Simon</title>
+  </programme>
+  <programme start="20230801070000 -0500" stop="20230801073000 -0500" channel="CANAL 5">
+    <title lang="es">Pikwik Pack</title>
+  </programme>
+  <programme start="20230801073000 -0500" stop="20230801080000 -0500" channel="CANAL 5">
+    <title lang="es">Super Wings</title>
+  </programme>
+  <programme start="20230801080000 -0500" stop="20230801083000 -0500" channel="CANAL 5">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay.(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country lang="es">Canadá</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230801083000 -0500" stop="20230801090000 -0500" channel="CANAL 5">
+    <title lang="es">Oddbods</title>
+  </programme>
+  <programme start="20230801100000 -0500" stop="20230801110000 -0500" channel="CANAL 5">
+    <title lang="es">Los Pitufos</title>
+  </programme>
+  <programme start="20230801163000 -0500" stop="20230801174500 -0500" channel="CANAL 5">
+    <title lang="es">el chavo animado</title>
+  </programme>
+  <programme start="20230801174500 -0500" stop="20230801200000 -0500" channel="CANAL 5">
+    <title lang="es">En el corazón del mar</title>
+  </programme>
+  <programme start="20230802000000 -0500" stop="20230802010000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230802010000 -0500" stop="20230802013000 -0500" channel="CANAL 5">
+    <title lang="es">Estatus</title>
+  </programme>
+  <programme start="20230802013000 -0500" stop="20230802043000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230802174500 -0500" stop="20230802200000 -0500" channel="CANAL 5">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20230803150000 -0500" stop="20230803163000 -0500" channel="CANAL 5">
+    <title lang="es">Bob Esponja La pelicula</title>
+  </programme>
+  <programme start="20230803174500 -0500" stop="20230803200000 -0500" channel="CANAL 5">
+    <title lang="es">La bella y la bestia</title>
+  </programme>
+  <programme start="20230730020000 -0500" stop="20230730040000 -0500" channel="AZTECA UNO">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230730040000 -0500" stop="20230730050000 -0500" channel="AZTECA UNO">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230730050000 -0500" stop="20230730053000 -0500" channel="AZTECA UNO">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20230730053000 -0500" stop="20230730060000 -0500" channel="AZTECA UNO">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20230730060000 -0500" stop="20230730080000 -0500" channel="AZTECA UNO">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20230730080000 -0500" stop="20230730090000 -0500" channel="AZTECA UNO">
+    <title lang="es">Hechos Domingo</title>
+  </programme>
+  <programme start="20230730090000 -0500" stop="20230730130000 -0500" channel="AZTECA UNO">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20230730130000 -0500" stop="20230730150000 -0500" channel="AZTECA UNO">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20230730150000 -0500" stop="20230730170000 -0500" channel="AZTECA UNO">
+    <title lang="es">Domingo Al Extremo</title>
+  </programme>
+  <programme start="20230730170000 -0500" stop="20230730200000 -0500" channel="AZTECA UNO">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.(n)</desc>
+    <credits>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+  <programme start="20230730200000 -0500" stop="20230730231500 -0500" channel="AZTECA UNO">
+    <title lang="es">MasterChef Celebrity</title>
+  </programme>
+  <programme start="20230730231500 -0500" stop="20230731001500 -0500" channel="AZTECA UNO">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20230731001500 -0500" stop="20230731004500 -0500" channel="AZTECA UNO">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20230731004500 -0500" stop="20230731024500 -0500" channel="AZTECA UNO">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230731024500 -0500" stop="20230731044500 -0500" channel="AZTECA UNO">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230731044500 -0500" stop="20230731050000 -0500" channel="AZTECA UNO">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230731053000 -0500" stop="20230731060000 -0500" channel="AZTECA UNO">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230731060000 -0500" stop="20230731070000 -0500" channel="AZTECA UNO">
+    <title lang="es">Hechos A.M Primera Línea</title>
+  </programme>
+  <programme start="20230731070000 -0500" stop="20230731080000 -0500" channel="AZTECA UNO">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20230731080000 -0500" stop="20230731090000 -0500" channel="AZTECA UNO">
+    <title lang="es">Nosotros, Ustedes y Hechos</title>
+  </programme>
+  <programme start="20230731090000 -0500" stop="20230731130000 -0500" channel="AZTECA UNO">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20230731130000 -0500" stop="20230731140000 -0500" channel="AZTECA UNO">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.(n)</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
+  </programme>
+  <programme start="20230731140000 -0500" stop="20230731150000 -0500" channel="AZTECA UNO">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20230731150000 -0500" stop="20230731160000 -0500" channel="AZTECA UNO">
+    <title lang="es">Escape Perfecto</title>
+  </programme>
+  <programme start="20230731160000 -0500" stop="20230731173000 -0500" channel="AZTECA UNO">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20230731173000 -0500" stop="20230731193000 -0500" channel="AZTECA UNO">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20230731193000 -0500" stop="20230731203000 -0500" channel="AZTECA UNO">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20230731203000 -0500" stop="20230731223000 -0500" channel="AZTECA UNO">
+    <title lang="es">Survivor 2023</title>
+  </programme>
+  <programme start="20230731223000 -0500" stop="20230731231500 -0500" channel="AZTECA UNO">
+    <title lang="es">Noticiero Hechos de la noche</title>
+  </programme>
+  <programme start="20230731231500 -0500" stop="20230731233000 -0500" channel="AZTECA UNO">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20230731233000 -0500" stop="20230731234500 -0500" channel="AZTECA UNO">
+    <title lang="es">Campañeando</title>
+  </programme>
+  <programme start="20230731234500 -0500" stop="20230801001500 -0500" channel="AZTECA UNO">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20230801234500 -0500" stop="20230802001500 -0500" channel="AZTECA UNO">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20230802001500 -0500" stop="20230802011500 -0500" channel="AZTECA UNO">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20230802011500 -0500" stop="20230802050000 -0500" channel="AZTECA UNO">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230730003000 -0500" stop="20230730023000 -0500" channel="A +">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230730023000 -0500" stop="20230730043000 -0500" channel="A +">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230730043000 -0500" stop="20230730050000 -0500" channel="A +">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230730050000 -0500" stop="20230730051500 -0500" channel="A +">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20230730051500 -0500" stop="20230730063000 -0500" channel="A +">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230730063000 -0500" stop="20230730073000 -0500" channel="A +">
+    <title lang="es">Naturista Naturalmente</title>
+  </programme>
+  <programme start="20230730073000 -0500" stop="20230730083000 -0500" channel="A +">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230730083000 -0500" stop="20230730090000 -0500" channel="A +">
+    <title lang="es">Energía y vida</title>
+  </programme>
+  <programme start="20230730090000 -0500" stop="20230730120000 -0500" channel="A +">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230730120000 -0500" stop="20230730150000 -0500" channel="A +">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230730150000 -0500" stop="20230730153000 -0500" channel="A +">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230730153000 -0500" stop="20230730160000 -0500" channel="A +">
+    <title lang="es">Iglesia Adventista</title>
+  </programme>
+  <programme start="20230730160000 -0500" stop="20230730174500 -0500" channel="A +">
+    <title lang="es">Dos gallos y dos gallinas</title>
+  </programme>
+  <programme start="20230730174500 -0500" stop="20230730193000 -0500" channel="A +">
+    <title lang="es">Los apuros de dos gallos</title>
+  </programme>
+  <programme start="20230730193000 -0500" stop="20230730210000 -0500" channel="A +">
+    <title lang="es">24 Horas de vida</title>
+  </programme>
+  <programme start="20230730210000 -0500" stop="20230730223000 -0500" channel="A +">
+    <title lang="es">Tu vida contra mi vida</title>
+  </programme>
+  <programme start="20230730223000 -0500" stop="20230731000000 -0500" channel="A +">
+    <title lang="es">Extranormal</title>
+    <desc lang="es">Un programa donde se ven las actividades paranormales, milagros, manifestaciones fantasmagóricas, eventos religiosos y todo lo Extra Normal.(n)</desc>
+    <date>2007</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/extranormal.jpg" />
+  </programme>
+  <programme start="20230731000000 -0500" stop="20230731003000 -0500" channel="A +">
+    <title lang="es">Yetzali</title>
+  </programme>
+  <programme start="20230731003000 -0500" stop="20230731023000 -0500" channel="A +">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20230731023000 -0500" stop="20230731050000 -0500" channel="A +">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20230731050000 -0500" stop="20230731051500 -0500" channel="A +">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20230731051500 -0500" stop="20230731073000 -0500" channel="A +">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230731073000 -0500" stop="20230731090000 -0500" channel="A +">
+    <title lang="es">Naturista Naturalmente</title>
+  </programme>
+  <programme start="20230731090000 -0500" stop="20230731093000 -0500" channel="A +">
+    <title lang="es">Manantial de vida</title>
+  </programme>
+  <programme start="20230731093000 -0500" stop="20230731103000 -0500" channel="A +">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20230731103000 -0500" stop="20230731111500 -0500" channel="A +">
+    <title lang="es">Siempre tuya Acapulco</title>
+  </programme>
+  <programme start="20230731111500 -0500" stop="20230731120000 -0500" channel="A +">
+    <title lang="es">Bajo el alma</title>
+  </programme>
+  <programme start="20230731120000 -0500" stop="20230731140000 -0500" channel="A +">
+    <title lang="es">Negra consentida</title>
+  </programme>
+  <programme start="20230731140000 -0500" stop="20230731153000 -0500" channel="A +">
+    <title lang="es">Napoleoncito</title>
+  </programme>
+  <programme start="20230731153000 -0500" stop="20230731161500 -0500" channel="A +">
+    <title lang="es">Los Rey</title>
+  </programme>
+  <programme start="20230731161500 -0500" stop="20230731170000 -0500" channel="A +">
+    <title lang="es">Todo por amor</title>
+  </programme>
+  <programme start="20230731170000 -0500" stop="20230731174500 -0500" channel="A +">
+    <title lang="es">Amor de familia</title>
+  </programme>
+  <programme start="20230731174500 -0500" stop="20230731183000 -0500" channel="A +">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20230731183000 -0500" stop="20230731200000 -0500" channel="A +">
+    <title lang="es">Dos alegres gavilanes</title>
+  </programme>
+  <programme start="20230731200000 -0500" stop="20230731213000 -0500" channel="A +">
+    <title lang="es">Con el diablo en el cuerpo</title>
+  </programme>
+  <programme start="20230731213000 -0500" stop="20230731223000 -0500" channel="A +">
+    <title lang="es">Ahora Más Noticias En Vivo</title>
+  </programme>
+  <programme start="20230731223000 -0500" stop="20230801000000 -0500" channel="A +">
+    <title lang="es">Un camino al cielo</title>
+  </programme>
+  <programme start="20230801111500 -0500" stop="20230801120000 -0500" channel="A +">
+    <title lang="es">Hombre tenías que ser</title>
+  </programme>
+  <programme start="20230801120000 -0500" stop="20230801140000 -0500" channel="A +">
+    <title lang="es">Tres citas con el destino</title>
+  </programme>
+  <programme start="20230801140000 -0500" stop="20230801153000 -0500" channel="A +">
+    <title lang="es">El marido de mi novia</title>
+  </programme>
+  <programme start="20230801183000 -0500" stop="20230801200000 -0500" channel="A +">
+    <title lang="es">Rateros último modelo</title>
+  </programme>
+  <programme start="20230801200000 -0500" stop="20230801213000 -0500" channel="A +">
+    <title lang="es">Manuel Saldivar, el Texano</title>
+  </programme>
+  <programme start="20230801223000 -0500" stop="20230802000000 -0500" channel="A +">
+    <title lang="es">Un pícaro aventurero</title>
+  </programme>
+  <programme start="20230802120000 -0500" stop="20230802140000 -0500" channel="A +">
+    <title lang="es">Me ha besado un hombre</title>
+  </programme>
+  <programme start="20230802140000 -0500" stop="20230802153000 -0500" channel="A +">
+    <title lang="es">Las Leandras</title>
+  </programme>
+  <programme start="20230802183000 -0500" stop="20230802200000 -0500" channel="A +">
+    <title lang="es">Juan Polainas</title>
+  </programme>
+  <programme start="20230802200000 -0500" stop="20230802213000 -0500" channel="A +">
+    <title lang="es">Fiesta en el corazón</title>
+  </programme>
+  <programme start="20230802223000 -0500" stop="20230803000000 -0500" channel="A +">
+    <title lang="es">Kermesse</title>
+  </programme>
+  <programme start="20230803090000 -0500" stop="20230803093000 -0500" channel="A +">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230803093000 -0500" stop="20230803103000 -0500" channel="A +">
+    <title lang="es">Manantial de vida</title>
+  </programme>
+  <programme start="20230803120000 -0500" stop="20230803140000 -0500" channel="A +">
+    <title lang="es">El niño perdido</title>
+  </programme>
+  <programme start="20230803140000 -0500" stop="20230803153000 -0500" channel="A +">
+    <title lang="es">El baño de Afrodita</title>
+  </programme>
+  <programme start="20230803183000 -0500" stop="20230803200000 -0500" channel="A +">
+    <title lang="es">Santo vs. los secuestradores</title>
+  </programme>
+  <programme start="20230803200000 -0500" stop="20230803213000 -0500" channel="A +">
+    <title lang="es">Chanoc en la isla</title>
+  </programme>
+  <programme start="20230803223000 -0500" stop="20230804000000 -0500" channel="A +">
+    <title lang="es">Esta y la otra con un solo bol</title>
   </programme>
 </tv>
