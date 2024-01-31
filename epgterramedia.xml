@@ -504,6 +504,22 @@
     <display-name lang="es">AyE</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="MTV">
+    <display-name lang="es">MTV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MTV 80S">
+    <display-name lang="es">MTV 80S</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="AZTECA UNO -2">
+    <display-name lang="es">AZTECA UNO -2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="LAS ESTRELLAS -2">
+    <display-name lang="es">LAS ESTRELLAS -2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20240131003000 -0600" stop="20240131012500 -0600" channel="AXN">
     <title lang="es">Hawaii Five-0</title>
     <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más.(n)</desc>
@@ -5961,7 +5977,7 @@
     <date>2007</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/extranormal.jpg" />
   </programme>
-  <programme start="20240201090000 -0600" stop="20240201110000 -0600" channel="AZMUNDO">
+  <programme start="20240201110000 -0600" stop="20240201130000 -0600" channel="AZMUNDO">
     <title lang="es">Venga la alegría</title>
     <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
     <date>2006</date>
@@ -13255,8 +13271,8 @@
   <programme start="20240131230000 -0600" stop="20240201000000 -0600" channel="UNIVISION HD">
     <title lang="es">Contacto deportivo</title>
   </programme>
-  <programme start="20240201060000 -0600" stop="20240201100000 -0600" channel="UNIVISION HD">
-    <title lang="es">Despierta América</title>
+  <programme start="20240201114500 -0600" stop="20240201124500 -0600" channel="UNIVISION HD">
+    <title lang="es">Amor-didas</title>
   </programme>
   <programme start="20240201124500 -0600" stop="20240201133000 -0600" channel="UNIVISION HD">
     <title lang="es">Te sigo amando</title>
@@ -13600,6 +13616,9 @@
   <programme start="20240201120000 -0600" stop="20240201123000 -0600" channel="BABYTV">
     <title lang="es">Canciones &amp; rimas</title>
   </programme>
+  <programme start="20240202113000 -0600" stop="20240202120000 -0600" channel="BABYTV">
+    <title lang="es">Canciones y rimas y otras historias</title>
+  </programme>
   <programme start="20240202120000 -0600" stop="20240202123000 -0600" channel="BABYTV">
     <title lang="es">Estudios Baby TV</title>
   </programme>
@@ -13672,8 +13691,8 @@
   <programme start="20240131222500 -0600" stop="20240201000000 -0600" channel="BITME">
     <title lang="es">Cuidado con lo que deseas</title>
   </programme>
-  <programme start="20240201091500 -0600" stop="20240201101500 -0600" channel="BITME">
-    <title lang="es">Furcio</title>
+  <programme start="20240201111000 -0600" stop="20240201122500 -0600" channel="BITME">
+    <title lang="es">el chavo animado</title>
   </programme>
   <programme start="20240201142000 -0600" stop="20240201155000 -0600" channel="BITME">
     <title lang="es">Día de muertos</title>
@@ -15938,9 +15957,6 @@
   <programme start="20240201030000 -0600" stop="20240201050000 -0600" channel="TUDN">
     <title lang="es">Cruz Azul vs. Tijuana</title>
   </programme>
-  <programme start="20240201090000 -0600" stop="20240201100000 -0600" channel="TUDN">
-    <title lang="es">Fut en 60</title>
-  </programme>
   <programme start="20240201100000 -0600" stop="20240201120000 -0600" channel="TUDN">
     <title lang="es">América vs. Querétaro</title>
   </programme>
@@ -16249,9 +16265,6 @@
   <programme start="20240202070000 -0600" stop="20240202090000 -0600" channel="AFIZZIONADOS">
     <title lang="es">Nunca se olvida</title>
   </programme>
-  <programme start="20240202090000 -0600" stop="20240202100000 -0600" channel="AFIZZIONADOS">
-    <title lang="es">Súper Estadio Europa Repetición</title>
-  </programme>
   <programme start="20240202110000 -0600" stop="20240202130000 -0600" channel="AFIZZIONADOS">
     <title lang="es">Tigres vs. San Luis Repetición</title>
   </programme>
@@ -16513,6 +16526,9 @@
   <programme start="20240201103500 -0600" stop="20240201113000 -0600" channel="TELEHIT">
     <title lang="es">Reggaepop</title>
   </programme>
+  <programme start="20240201113000 -0600" stop="20240201120000 -0600" channel="TELEHIT">
+    <title lang="es">Playhit</title>
+  </programme>
   <programme start="20240201122500 -0600" stop="20240201132000 -0600" channel="TELEHIT">
     <title lang="es">Ponle Play</title>
   </programme>
@@ -16569,9 +16585,6 @@
   </programme>
   <programme start="20240202081500 -0600" stop="20240202084500 -0600" channel="TELEHIT">
     <title lang="es">Mood perreo</title>
-  </programme>
-  <programme start="20240202084500 -0600" stop="20240202094000 -0600" channel="TELEHIT">
-    <title lang="es">Double pop</title>
   </programme>
   <programme start="20240202094000 -0600" stop="20240202103500 -0600" channel="TELEHIT">
     <title lang="es">Ponle Play</title>
@@ -17708,8 +17721,8 @@
   <programme start="20240201080000 -0600" stop="20240201090000 -0600" channel="MTV HITS">
     <title lang="es">Girls in Love</title>
   </programme>
-  <programme start="20240201090000 -0600" stop="20240201110000 -0600" channel="MTV HITS">
-    <title lang="es">Totally 10s</title>
+  <programme start="20240201110000 -0600" stop="20240201130000 -0600" channel="MTV HITS">
+    <title lang="es">Worldwide Hits</title>
   </programme>
   <programme start="20240201130000 -0600" stop="20240201140000 -0600" channel="MTV HITS">
     <title lang="es">This Week's MTV Top 20</title>
@@ -18062,8 +18075,8 @@
   <programme start="20240201215000 -0600" stop="20240201220000 -0600" channel="EXA TV">
     <title lang="es">Videos</title>
   </programme>
-  <programme start="20240202090000 -0600" stop="20240202100000 -0600" channel="EXA TV">
-    <title lang="es">Videos</title>
+  <programme start="20240202110000 -0600" stop="20240202130000 -0600" channel="EXA TV">
+    <title lang="es">EXATv En Español</title>
   </programme>
   <programme start="20240202130000 -0600" stop="20240202132000 -0600" channel="EXA TV">
     <title lang="es">Top 5</title>
@@ -19522,8 +19535,8 @@
   <programme start="20240202040000 -0600" stop="20240202045500 -0600" channel="UNICABLE">
     <title lang="es">Netas divinas</title>
   </programme>
-  <programme start="20240202082000 -0600" stop="20240202095000 -0600" channel="UNICABLE">
-    <title lang="es">María la del Barrio</title>
+  <programme start="20240202115000 -0600" stop="20240202125000 -0600" channel="UNICABLE">
+    <title lang="es">La 3era en discordia</title>
   </programme>
   <programme start="20240202213000 -0600" stop="20240202223000 -0600" channel="UNICABLE">
     <title lang="es">Miembros al aire</title>
@@ -22589,9 +22602,6 @@
   <programme start="20240131231000 -0600" stop="20240201000000 -0600" channel="ADRENALINA">
     <title lang="es">Cloroformo</title>
   </programme>
-  <programme start="20240201072500 -0600" stop="20240201101000 -0600" channel="ADRENALINA">
-    <title lang="es">Reto 4 Elementos</title>
-  </programme>
   <programme start="20240201105500 -0600" stop="20240201115500 -0600" channel="ADRENALINA">
     <title lang="es">Ruano vs. Beltrán Repetición</title>
   </programme>
@@ -22862,8 +22872,28 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20240201090000 -0600" stop="20240201103000 -0600" channel="CANAL 5">
-    <title lang="es">Las Aventuras Jimmy Neutrón</title>
+  <programme start="20240201103000 -0600" stop="20240201120000 -0600" channel="CANAL 5">
+    <title lang="es">Kung Fu Panda</title>
+    <desc lang="es">En el Valle de la Paz, el Panda Po se siente llamado por el Dragón Guerrero a pesar de ser obeso y sin destreza alguna de las artes marciales.(n)</desc>
+    <credits>
+      <actor>Jack Black</actor>
+      <actor>Dustin Hoffman</actor>
+      <actor>Angelina Jolie</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Lucy Liu</actor>
+      <actor>Seth Rogen</actor>
+      <actor>David Cross</actor>
+      <actor>Ian McShane</actor>
+      <producer>Melissa Cobb</producer>
+      <composer>Hans Zimmer</composer>
+      <composer>John Powell</composer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/kung_fu_panda.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
   </programme>
   <programme start="20240201133000 -0600" stop="20240201150000 -0600" channel="CANAL 5">
     <title lang="es">Sonic Boom</title>
@@ -23760,8 +23790,8 @@
   <programme start="20240201223000 -0600" stop="20240201233000 -0600" channel="AZTECA SIETE">
     <title lang="es">9.1.1</title>
   </programme>
-  <programme start="20240202090000 -0600" stop="20240202103000 -0600" channel="AZTECA SIETE">
-    <title lang="es">Baby Looney Tunes</title>
+  <programme start="20240202103000 -0600" stop="20240202120000 -0600" channel="AZTECA SIETE">
+    <title lang="es">Los Pitufos</title>
   </programme>
   <programme start="20240202120000 -0600" stop="20240202130000 -0600" channel="AZTECA SIETE">
     <title lang="es">Mansión Foster</title>
@@ -24678,26 +24708,22 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20240201090000 -0600" stop="20240201093000 -0600" channel="NICKELODEON">
-    <title lang="es">PAW Patrol</title>
-    <title lang="xx">PAW Patrol</title>
-    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay.(n)</desc>
+  <programme start="20240201095500 -0600" stop="20240201102000 -0600" channel="NICKELODEON">
+    <title lang="es">Monster high</title>
+  </programme>
+  <programme start="20240201104500 -0600" stop="20240201122500 -0600" channel="NICKELODEON">
+    <title lang="es">The Loud House</title>
+    <title lang="xx">The Loud House</title>
+    <desc lang="es">Con la ayuda de su mejor amigo, un niño de 11 años desarrolla estrategias nuevas cada día para poder sobrevivir al caos que provocan sus diez hermanas.(n)</desc>
     <credits>
-      <producer>Patricia Burns</producer>
-      <composer>Michael Smidi Smith</composer>
-      <composer>Scott Krippayne</composer>
+      <producer>Karen Malach</producer>
     </credits>
-    <date>2013</date>
+    <date>2016</date>
     <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
-    <country lang="es">Canadá</country>
-    <country lang="es">Estados Unidos</country>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/the_loud_house.jpg" />
     <rating>
       <value>TV-PG</value>
     </rating>
-  </programme>
-  <programme start="20240201095500 -0600" stop="20240201102000 -0600" channel="NICKELODEON">
-    <title lang="es">Monster high</title>
   </programme>
   <programme start="20240201122500 -0600" stop="20240201125000 -0600" channel="NICKELODEON">
     <title lang="es">The Really Loud House</title>
@@ -27002,547 +27028,230 @@
     <title lang="es">Guardianes de Luisiana</title>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20240131001800 -0600" stop="20240131010800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Sueños mecánicos</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
+  <programme start="20240131002400 -0600" stop="20240131011500 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Parásitos asesinos</title>
   </programme>
-  <programme start="20240131010800 -0600" stop="20240131015800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Al estilo Kindig</title>
-    <episode-num system="onscreen">S9 E2</episode-num>
+  <programme start="20240131011500 -0600" stop="20240131020000 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Parásitos asesinos</title>
   </programme>
-  <programme start="20240131015800 -0600" stop="20240131024700 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Mexicánicos</title>
-    <episode-num system="onscreen">S9 E2</episode-num>
+  <programme start="20240131020000 -0600" stop="20240131024500 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">El camino de los espíritus</title>
   </programme>
-  <programme start="20240131024700 -0600" stop="20240131033600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Joyas sobre ruedas</title>
-    <episode-num system="onscreen">S17 E3</episode-num>
+  <programme start="20240131024500 -0600" stop="20240131033000 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Historias de fantasmas</title>
   </programme>
-  <programme start="20240131033600 -0600" stop="20240131042400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Joyas sobre ruedas</title>
-    <episode-num system="onscreen">S17 E4</episode-num>
+  <programme start="20240131033000 -0600" stop="20240131041500 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Historias de fantasmas</title>
   </programme>
-  <programme start="20240131042400 -0600" stop="20240131051200 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Máquinas renovadas</title>
-    <episode-num system="onscreen">S6 E2</episode-num>
+  <programme start="20240131041500 -0600" stop="20240131050000 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Megaconstrucciones</title>
   </programme>
-  <programme start="20240131051200 -0600" stop="20240131060000 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Sueños mecánicos</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
+  <programme start="20240131050000 -0600" stop="20240131054800 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Fiebre del oro río revuelto</title>
   </programme>
-  <programme start="20240131060000 -0600" stop="20240131062700 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Operación Frontera Latinoamé</title>
-    <episode-num system="onscreen">E3</episode-num>
+  <programme start="20240131054800 -0600" stop="20240131063600 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Mirada policial</title>
   </programme>
-  <programme start="20240131062700 -0600" stop="20240131071700 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Pesca mortal</title>
-    <episode-num system="onscreen">S19 E3</episode-num>
+  <programme start="20240131063600 -0600" stop="20240131072400 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Especialistas en pies</title>
   </programme>
-  <programme start="20240131071700 -0600" stop="20240131080400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Construcciones remotas</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
+  <programme start="20240131072400 -0600" stop="20240131081200 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Parásitos asesinos</title>
   </programme>
-  <programme start="20240131080400 -0600" stop="20240131085400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Alaska Hombres primitivo</title>
-    <episode-num system="onscreen">S7 E8</episode-num>
-  </programme>
-  <programme start="20240131085400 -0600" stop="20240131094400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Fiebre del oro Freddy Dodge</title>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme start="20240131094400 -0600" stop="20240131103400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Tras la pista del oro</title>
-    <episode-num system="onscreen">S2 E3</episode-num>
-  </programme>
-  <programme start="20240131103400 -0600" stop="20240131112500 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Hombres del Ártico</title>
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme start="20240131112500 -0600" stop="20240131121500 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Tarzán americano</title>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20240131121500 -0600" stop="20240131130600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Discovery Desafío X 2</title>
-    <episode-num system="onscreen">S6 E11</episode-num>
-  </programme>
-  <programme start="20240131130600 -0600" stop="20240131135800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Todos contra Ed Stafford</title>
-    <episode-num system="onscreen">S3 E3</episode-num>
-  </programme>
-  <programme start="20240131135800 -0600" stop="20240131144800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Mexicánicos</title>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20240131144800 -0600" stop="20240131153800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Mexicánicos</title>
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme start="20240131153800 -0600" stop="20240131172200 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">E8</episode-num>
-  </programme>
-  <programme start="20240131172200 -0600" stop="20240131181400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Eden</title>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20240131181400 -0600" stop="20240131190600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Eden</title>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20240131190600 -0600" stop="20240131195800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">American Ninja Warrior J</title>
-  </programme>
-  <programme start="20240131195800 -0600" stop="20240131205000 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo Edi</title>
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20240131205000 -0600" stop="20240131214200 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo Edi</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20240131214200 -0600" stop="20240131223400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Todos contra Ed Stafford</title>
-    <episode-num system="onscreen">S3 E2</episode-num>
-  </programme>
-  <programme start="20240131223400 -0600" stop="20240131232600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Tentados por la fortuna</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240131232600 -0600" stop="20240201001800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">México salvaje</title>
-  </programme>
-  <programme start="20240201001800 -0600" stop="20240201010800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Estómagos de hierro</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240201010800 -0600" stop="20240201015800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">La liga de la supervivencia</title>
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20240201015800 -0600" stop="20240201024700 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo Edi</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20240201024700 -0600" stop="20240201033600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Tentados por la fortuna</title>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20240201033600 -0600" stop="20240201042400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Todos contra Ed Stafford</title>
-    <episode-num system="onscreen">S3 E1</episode-num>
-  </programme>
-  <programme start="20240201042400 -0600" stop="20240201051200 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">México salvaje</title>
-  </programme>
-  <programme start="20240201051200 -0600" stop="20240201060000 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Estómagos de hierro</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240201060000 -0600" stop="20240201062500 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Operación Frontera Latinoamé</title>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme start="20240201062500 -0600" stop="20240201071500 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Vidas remotas</title>
-    <episode-num system="onscreen">S2 E8</episode-num>
-  </programme>
-  <programme start="20240201071500 -0600" stop="20240201080400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Construcciones remotas</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20240201080400 -0600" stop="20240201085400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Alaska Hombres primitivo</title>
-    <episode-num system="onscreen">S7 E9</episode-num>
-  </programme>
-  <programme start="20240201085400 -0600" stop="20240201094400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Fiebre del oro Freddy Dodge</title>
-    <episode-num system="onscreen">E5</episode-num>
-  </programme>
-  <programme start="20240201094400 -0600" stop="20240201103400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Tras la pista del oro</title>
-    <episode-num system="onscreen">S2 E4</episode-num>
-  </programme>
-  <programme start="20240201103400 -0600" stop="20240201112500 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Hombres del Ártico</title>
-    <episode-num system="onscreen">S1 E9</episode-num>
-  </programme>
-  <programme start="20240201112500 -0600" stop="20240201121600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Discovery Desafío X 2</title>
-    <episode-num system="onscreen">S6 E12</episode-num>
-  </programme>
-  <programme start="20240201121600 -0600" stop="20240201130600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Tarzán americano</title>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20240201130600 -0600" stop="20240201135800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Todos contra Ed Stafford</title>
-    <episode-num system="onscreen">S3 E4</episode-num>
-  </programme>
-  <programme start="20240201135800 -0600" stop="20240201153800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">American Ninja Warrior</title>
-  </programme>
-  <programme start="20240201153800 -0600" stop="20240201172200 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">E9</episode-num>
-  </programme>
-  <programme start="20240201172200 -0600" stop="20240201181400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Monstruos de río aguas desco</title>
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20240201181400 -0600" stop="20240201190600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Mexicánicos</title>
-    <episode-num system="onscreen">S3 E2</episode-num>
-  </programme>
-  <programme start="20240201190600 -0600" stop="20240201195800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">American Ninja Warrior J</title>
-  </programme>
-  <programme start="20240201195800 -0600" stop="20240201205500 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al Desnudo Lat</title>
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20240201205500 -0600" stop="20240201214700 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">S2 E3</episode-num>
-  </programme>
-  <programme start="20240201214700 -0600" stop="20240201223900 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">S2 E4</episode-num>
-  </programme>
-  <programme start="20240201223900 -0600" stop="20240201233100 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Máxima seguridad</title>
-    <episode-num system="onscreen">S3 E2</episode-num>
-  </programme>
-  <programme start="20240201233100 -0600" stop="20240202011100 -0600" channel="DISCOVERY CHANNEL">
+  <programme start="20240131081200 -0600" stop="20240131095200 -0600" channel="DISCOVERY CHANNEL">
     <title lang="es">Kilos mortales</title>
-    <episode-num system="onscreen">S8 E2</episode-num>
   </programme>
-  <programme start="20240202233100 -0600" stop="20240203011100 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Kilos mortales</title>
-    <episode-num system="onscreen">S8 E2</episode-num>
+  <programme start="20240131095200 -0600" stop="20240131113600 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Asesino bajo el disfraz</title>
   </programme>
-  <programme start="20240203011100 -0600" stop="20240203020000 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Casos asombrosos</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
+  <programme start="20240131113600 -0600" stop="20240131132000 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Asesino bajo el disfraz</title>
   </programme>
-  <programme start="20240203020000 -0600" stop="20240203024800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">S2 E3</episode-num>
+  <programme start="20240131132000 -0600" stop="20240131141200 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Jeffery Dahmer la mente de un monstruo</title>
   </programme>
-  <programme start="20240203024800 -0600" stop="20240203033600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">S2 E4</episode-num>
+  <programme start="20240131141200 -0600" stop="20240131150300 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Jeffery Dahmer la mente de un monstruo</title>
   </programme>
-  <programme start="20240203033600 -0600" stop="20240203042400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Máxima seguridad</title>
-    <episode-num system="onscreen">S3 E2</episode-num>
-  </programme>
-  <programme start="20240203042400 -0600" stop="20240203060000 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Kilos mortales</title>
-    <episode-num system="onscreen">S8 E2</episode-num>
-  </programme>
-  <programme start="20240203060000 -0600" stop="20240203062500 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Operación Frontera Latinoamé</title>
-    <episode-num system="onscreen">E5</episode-num>
-  </programme>
-  <programme start="20240203062500 -0600" stop="20240203071500 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Vidas remotas</title>
-    <episode-num system="onscreen">S2 E9</episode-num>
-  </programme>
-  <programme start="20240203071500 -0600" stop="20240203080400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Construcciones remotas</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240203080400 -0600" stop="20240203085400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Alaska Hombres primitiv</title>
-    <episode-num system="onscreen">S7 E10</episode-num>
-  </programme>
-  <programme start="20240203085400 -0600" stop="20240203094400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Fiebre del oro Freddy Dodge</title>
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme start="20240203094400 -0600" stop="20240203103400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Tras la pista del oro</title>
-    <episode-num system="onscreen">S2 E5</episode-num>
-  </programme>
-  <programme start="20240203103400 -0600" stop="20240203112500 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Hombres del Ártico</title>
-    <episode-num system="onscreen">S2 E1</episode-num>
-  </programme>
-  <programme start="20240203112500 -0600" stop="20240203121600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Discovery Desafío X 2</title>
-    <episode-num system="onscreen">S6 E13</episode-num>
-  </programme>
-  <programme start="20240203121600 -0600" stop="20240203130600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia en Nueva Zelanda</title>
-  </programme>
-  <programme start="20240203130600 -0600" stop="20240203135800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Todos contra Ed Stafford</title>
-    <episode-num system="onscreen">S3 E5</episode-num>
-  </programme>
-  <programme start="20240203135800 -0600" stop="20240203153800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">American Ninja Warrior</title>
-  </programme>
-  <programme start="20240203153800 -0600" stop="20240203172200 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20240203172200 -0600" stop="20240203181400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Mexicánicos</title>
-    <episode-num system="onscreen">S7 E3</episode-num>
-  </programme>
-  <programme start="20240203181400 -0600" stop="20240203190600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Mexicánicos</title>
-    <episode-num system="onscreen">S7 E4</episode-num>
-  </programme>
-  <programme start="20240203190600 -0600" stop="20240203195800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">American Ninja Warrior J</title>
-  </programme>
-  <programme start="20240203195800 -0600" stop="20240203205000 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">S4 E3</episode-num>
-  </programme>
-  <programme start="20240203205000 -0600" stop="20240203214200 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">S4 E4</episode-num>
-  </programme>
-  <programme start="20240203214200 -0600" stop="20240203223400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Alaska Hombres primitivo</title>
-    <episode-num system="onscreen">S5 E2</episode-num>
-  </programme>
-  <programme start="20240203223400 -0600" stop="20240203232600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Tras la pista del oro</title>
-    <episode-num system="onscreen">S4 E2</episode-num>
-  </programme>
-  <programme start="20240203232600 -0600" stop="20240204001800 -0600" channel="DISCOVERY CHANNEL">
+  <programme start="20240131150300 -0600" stop="20240131155400 -0600" channel="DISCOVERY CHANNEL">
     <title lang="es">Fiebre del oro</title>
-    <episode-num system="onscreen">S14 E2</episode-num>
   </programme>
-  <programme start="20240204232600 -0600" stop="20240205001800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Fiebre del oro</title>
-    <episode-num system="onscreen">S14 E2</episode-num>
+  <programme start="20240131155400 -0600" stop="20240131164500 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Supervivencia al desnudo solo</title>
   </programme>
-  <programme start="20240205001800 -0600" stop="20240205010800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">The Garden ¿culto o comunidad</title>
-    <episode-num system="onscreen">E1</episode-num>
+  <programme start="20240131164500 -0600" stop="20240131173600 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Desafío X2</title>
   </programme>
-  <programme start="20240205010800 -0600" stop="20240205013300 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Aeropuerto de Sao Paulo</title>
-    <episode-num system="onscreen">S4 E3</episode-num>
+  <programme start="20240131173600 -0600" stop="20240131182700 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Misterios de las profundidades</title>
   </programme>
-  <programme start="20240205013300 -0600" stop="20240205015800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Aeropuerto de Sao Paulo</title>
-    <episode-num system="onscreen">S4 E4</episode-num>
+  <programme start="20240131182700 -0600" stop="20240131191800 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Misterios de las profundidades</title>
   </programme>
-  <programme start="20240205015800 -0600" stop="20240205024700 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">S4 E4</episode-num>
+  <programme start="20240131191800 -0600" stop="20240131200900 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Monstruos de río: aguas desconocidas</title>
   </programme>
-  <programme start="20240205024700 -0600" stop="20240205033600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Alaska Hombres primitivo</title>
-    <episode-num system="onscreen">S5 E2</episode-num>
-  </programme>
-  <programme start="20240205033600 -0600" stop="20240205042400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Tras la pista del oro</title>
-    <episode-num system="onscreen">S4 E2</episode-num>
-  </programme>
-  <programme start="20240205042400 -0600" stop="20240205051200 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Fiebre del oro</title>
-    <episode-num system="onscreen">S14 E2</episode-num>
-  </programme>
-  <programme start="20240205051200 -0600" stop="20240205060000 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">The Garden ¿culto o comunidad</title>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20240205060000 -0600" stop="20240205064800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">El arte de la supervivencia T</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20240205064800 -0600" stop="20240205073600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">El arte de la supervivencia T</title>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme start="20240205073600 -0600" stop="20240205080100 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Coyote Peterson aventuras sa</title>
-    <episode-num system="onscreen">E9</episode-num>
-  </programme>
-  <programme start="20240205080100 -0600" stop="20240205085100 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">El último de su especie</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20240205085100 -0600" stop="20240205094100 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">El último de su especie</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20240205094100 -0600" stop="20240205102900 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">El último de su especie tibu</title>
-  </programme>
-  <programme start="20240205102900 -0600" stop="20240205112000 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Escuela de tiburones</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20240205112000 -0600" stop="20240205121100 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia Salvaje</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20240205121100 -0600" stop="20240205130200 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Cacería humana</title>
-    <episode-num system="onscreen">S2 E1</episode-num>
-  </programme>
-  <programme start="20240205130200 -0600" stop="20240205135300 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Todos contra Ed Stafford</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20240205135300 -0600" stop="20240205144400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Todos contra Ed Stafford</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240205144400 -0600" stop="20240205153500 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Estómagos de hierro</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20240205153500 -0600" stop="20240205162600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Estómagos de hierro</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240205162600 -0600" stop="20240205171700 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Estómagos de hierro</title>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20240205171700 -0600" stop="20240205190000 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">S7 E5</episode-num>
-  </programme>
-  <programme start="20240205190000 -0600" stop="20240205204400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">S7 E10</episode-num>
-  </programme>
-  <programme start="20240205204400 -0600" stop="20240205222800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">S9 E8</episode-num>
-  </programme>
-  <programme start="20240205222800 -0600" stop="20240205232000 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20240205232000 -0600" stop="20240206001200 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240206232000 -0600" stop="20240207001200 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240207001200 -0600" stop="20240207010300 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">E9</episode-num>
-  </programme>
-  <programme start="20240207010300 -0600" stop="20240207015400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20240207015400 -0600" stop="20240207033300 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">S9 E8</episode-num>
-  </programme>
-  <programme start="20240207033300 -0600" stop="20240207042200 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20240207042200 -0600" stop="20240207051100 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240207051100 -0600" stop="20240207060000 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Supervivencia al desnudo</title>
-    <episode-num system="onscreen">E9</episode-num>
-  </programme>
-  <programme start="20240207060000 -0600" stop="20240207065000 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Alaska Hombres primitiv</title>
-    <episode-num system="onscreen">S3 E23</episode-num>
-  </programme>
-  <programme start="20240207065000 -0600" stop="20240207073900 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Alaska Hombres primitiv</title>
-    <episode-num system="onscreen">S3 E24</episode-num>
-  </programme>
-  <programme start="20240207073900 -0600" stop="20240207080400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Coyote Peterson aventuras sa</title>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20240207080400 -0600" stop="20240207085400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Dr. Jeff, veterinario</title>
-    <episode-num system="onscreen">S6 E7</episode-num>
-  </programme>
-  <programme start="20240207085400 -0600" stop="20240207094400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Wild Frank en África</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20240207094400 -0600" stop="20240207103400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">LEGO Masters</title>
-    <episode-num system="onscreen">S1 E9</episode-num>
-  </programme>
-  <programme start="20240207103400 -0600" stop="20240207112500 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">LEGO Masters</title>
-    <episode-num system="onscreen">S1 E10</episode-num>
-  </programme>
-  <programme start="20240207112500 -0600" stop="20240207121600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Expedición a lo desconocido T</title>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20240207121600 -0600" stop="20240207130600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Cazadores de dinosaurios</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20240207130600 -0600" stop="20240207135600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Un viaje a lo desconocido</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20240207135600 -0600" stop="20240207144600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Un viaje a lo desconocido</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20240207144600 -0600" stop="20240207153800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Expedición Pie Grande</title>
-    <episode-num system="onscreen">S2 E2</episode-num>
-  </programme>
-  <programme start="20240207153800 -0600" stop="20240207163000 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Expedición Mungo</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20240207163000 -0600" stop="20240207172200 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Expedición Mungo</title>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme start="20240207172200 -0600" stop="20240207181400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Monstruos de río aguas desco</title>
-    <episode-num system="onscreen">E5</episode-num>
-  </programme>
-  <programme start="20240207181400 -0600" stop="20240207190600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">México salvaje</title>
-  </programme>
-  <programme start="20240207190600 -0600" stop="20240207195800 -0600" channel="DISCOVERY CHANNEL">
+  <programme start="20240131200900 -0600" stop="20240131210000 -0600" channel="DISCOVERY CHANNEL">
     <title lang="es">Hot Wheels a gran escala</title>
-    <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20240207195800 -0600" stop="20240207205000 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Hot Wheels a gran escal</title>
-    <episode-num system="onscreen">S1 E10</episode-num>
+  <programme start="20240131210000 -0600" stop="20240131215100 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Hot Wheels a gran escala</title>
   </programme>
-  <programme start="20240207205000 -0600" stop="20240207214200 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Mexicánicos</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
+  <programme start="20240131215100 -0600" stop="20240131224200 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Todos contra Ed Stafford</title>
   </programme>
-  <programme start="20240207214200 -0600" stop="20240207223400 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Mexicánicos</title>
-    <episode-num system="onscreen">E8</episode-num>
+  <programme start="20240131224200 -0600" stop="20240131233300 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Todos contra Ed Stafford</title>
   </programme>
-  <programme start="20240207223400 -0600" stop="20240207232600 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Mexicánicos</title>
-    <episode-num system="onscreen">S7 E7</episode-num>
+  <programme start="20240131233300 -0600" stop="20240201002400 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Encuentros paranormales</title>
   </programme>
-  <programme start="20240207232600 -0600" stop="20240208001800 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">Joyas sobre ruedas el auto d</title>
-    <episode-num system="onscreen">E5</episode-num>
+  <programme start="20240201002400 -0600" stop="20240201011500 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Misterios de las profundidades</title>
+  </programme>
+  <programme start="20240201011500 -0600" stop="20240201020000 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Misterios de las profundidades</title>
+  </programme>
+  <programme start="20240201020000 -0600" stop="20240201024500 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Monstruos de río: aguas desconocidas</title>
+  </programme>
+  <programme start="20240201024500 -0600" stop="20240201033000 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Hot Wheels a gran escala</title>
+  </programme>
+  <programme start="20240201033000 -0600" stop="20240201041500 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Encuentros paranormales</title>
+  </programme>
+  <programme start="20240201041500 -0600" stop="20240201050000 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Megaconstrucciones</title>
+  </programme>
+  <programme start="20240201050000 -0600" stop="20240201054700 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Todos contra Ed Stafford</title>
+  </programme>
+  <programme start="20240201054700 -0600" stop="20240201063400 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Especialistas en pies</title>
+  </programme>
+  <programme start="20240201063400 -0600" stop="20240201072100 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Mirada policial</title>
+  </programme>
+  <programme start="20240201072100 -0600" stop="20240201080800 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Parásitos asesinos</title>
+  </programme>
+  <programme start="20240201080800 -0600" stop="20240201085400 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Largados e pelados a tribo</title>
+  </programme>
+  <programme start="20240201085400 -0600" stop="20240201094600 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Largados e pelados a tribo</title>
+  </programme>
+  <programme start="20240201094600 -0600" stop="20240201112800 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20240201112800 -0600" stop="20240201122000 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Todos contra Ed Stafford</title>
+  </programme>
+  <programme start="20240201122000 -0600" stop="20240201131200 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Todos contra Ed Stafford</title>
+  </programme>
+  <programme start="20240201131200 -0600" stop="20240201140400 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Todos contra Ed Stafford</title>
+  </programme>
+  <programme start="20240201140400 -0600" stop="20240201145600 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Todos contra Ed Stafford</title>
+  </programme>
+  <programme start="20240201145600 -0600" stop="20240201154800 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Todos contra Ed Stafford</title>
+  </programme>
+  <programme start="20240201154800 -0600" stop="20240201164000 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Todos contra Ed Stafford</title>
+  </programme>
+  <programme start="20240201164000 -0600" stop="20240201173200 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20240201173200 -0600" stop="20240201182400 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Largados e pelados a tribo</title>
+  </programme>
+  <programme start="20240201182400 -0600" stop="20240201191600 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Largados e pelados a tribo</title>
+  </programme>
+  <programme start="20240201191600 -0600" stop="20240201200800 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20240201200800 -0600" stop="20240201210000 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20240201210000 -0600" stop="20240201215200 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20240201215200 -0600" stop="20240201224400 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Supervivencia al desnudo solo</title>
+  </programme>
+  <programme start="20240201224400 -0600" stop="20240201233500 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Supervivencia al desnudo solo</title>
+  </programme>
+  <programme start="20240201233500 -0600" stop="20240202002500 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">The Garden ¿culto o comunidad</title>
+  </programme>
+  <programme start="20240202002500 -0600" stop="20240202011500 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Largados e pelados a tribo</title>
+  </programme>
+  <programme start="20240202011500 -0600" stop="20240202020000 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Largados e pelados a tribo</title>
+  </programme>
+  <programme start="20240202020000 -0600" stop="20240202024500 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20240202024500 -0600" stop="20240202033000 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20240202033000 -0600" stop="20240202041500 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20240202041500 -0600" stop="20240202050000 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Desafío X2</title>
+  </programme>
+  <programme start="20240202050000 -0600" stop="20240202054700 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Todos contra Ed Stafford</title>
+  </programme>
+  <programme start="20240202054700 -0600" stop="20240202063400 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Especialistas en pies</title>
+  </programme>
+  <programme start="20240202063400 -0600" stop="20240202072100 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Mirada policial</title>
+  </programme>
+  <programme start="20240202072100 -0600" stop="20240202080800 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Parásitos asesinos</title>
+  </programme>
+  <programme start="20240202080800 -0600" stop="20240202085500 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Historias de peso clínica de obesidad</title>
+  </programme>
+  <programme start="20240202085500 -0600" stop="20240202094600 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Historias de peso clínica de obesidad</title>
+  </programme>
+  <programme start="20240202094600 -0600" stop="20240202112800 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20240202112800 -0600" stop="20240202122000 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+  <programme start="20240202122000 -0600" stop="20240202131200 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+  <programme start="20240202131200 -0600" stop="20240202140400 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+  <programme start="20240202140400 -0600" stop="20240202145600 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+  <programme start="20240202145600 -0600" stop="20240202154800 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+  <programme start="20240202154800 -0600" stop="20240202164000 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+  <programme start="20240202164000 -0600" stop="20240202173200 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20240202173200 -0600" stop="20240202182400 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Historias de peso clínica de obesidad</title>
   </programme>
   <programme start="20240131001200 -0600" stop="20240131003600 -0600" channel="DISCOVERY WORLD">
     <title lang="es">Pantano Se vende</title>
@@ -31191,8 +30900,8 @@
     <title lang="es">Dr. Milagro</title>
     <episode-num system="onscreen">E67</episode-num>
   </programme>
-  <programme start="20240201083800 -0600" stop="20240201092700 -0600" channel="TNT NOVELAS">
-    <title lang="es">Nehir - Presa del amor</title>
+  <programme start="20240201110500 -0600" stop="20240201115400 -0600" channel="TNT NOVELAS">
+    <title lang="es">¿Será que es amor</title>
   </programme>
   <programme start="20240201142100 -0600" stop="20240201151000 -0600" channel="TNT NOVELAS">
     <title lang="es">Yargi secretos de familia</title>
@@ -32670,8 +32379,8 @@
   <programme start="20240201233000 -0600" stop="20240202000000 -0600" channel="FORO TV">
     <title lang="es">Las noticias En Vivo</title>
   </programme>
-  <programme start="20240202080000 -0600" stop="20240202110000 -0600" channel="FORO TV">
-    <title lang="es">Expreso de la Mañana En Vivo</title>
+  <programme start="20240202110000 -0600" stop="20240202120000 -0600" channel="FORO TV">
+    <title lang="es">Las Noticias Karla Iberia En Vivo</title>
   </programme>
   <programme start="20240203023000 -0600" stop="20240203060000 -0600" channel="FORO TV">
     <title lang="es">Paid Programing</title>
@@ -37104,11 +36813,25 @@
   <programme start="20240201043000 -0600" stop="20240201050000 -0600" channel="DISNEY CHANNEL">
     <title lang="es">Gravity Falls</title>
   </programme>
-  <programme start="20240201090000 -0600" stop="20240201093000 -0600" channel="DISNEY CHANNEL">
-    <title lang="es">Kiff</title>
-  </programme>
   <programme start="20240201101500 -0600" stop="20240201103000 -0600" channel="DISNEY CHANNEL">
     <title lang="es">Trompa tren</title>
+  </programme>
+  <programme start="20240201113000 -0600" stop="20240201120000 -0600" channel="DISNEY CHANNEL">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+    <title lang="xx">Star vs. the Forces of Evil</title>
+    <desc lang="es">Una princesa mágica llega a la tierra donde continúa luchando contra villanos y para proteger a su poderosa varita mágica que aún está aprendiendo a usar.(n)</desc>
+    <credits>
+      <producer>Aaron Hammersley</producer>
+      <producer>Dominic Bisignano</producer>
+      <composer>Brad Breeck</composer>
+      <composer>Ego Plum</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/star_vs_las_fuerzas_del_mal.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20240201130000 -0600" stop="20240201133000 -0600" channel="DISNEY CHANNEL">
     <title lang="es">Jessie</title>
@@ -37955,8 +37678,8 @@
   <programme start="20240131233000 -0600" stop="20240201000000 -0600" channel="CARTOONITO">
     <title lang="es">Oddbods</title>
   </programme>
-  <programme start="20240201091500 -0600" stop="20240201093000 -0600" channel="CARTOONITO">
-    <title lang="es">Hey Duggee</title>
+  <programme start="20240201113000 -0600" stop="20240201120000 -0600" channel="CARTOONITO">
+    <title lang="es">Mónica y su pandilla</title>
   </programme>
   <programme start="20240202060000 -0600" stop="20240202070000 -0600" channel="CARTOONITO">
     <title lang="es">Oddbods</title>
@@ -38609,20 +38332,8 @@
   <programme start="20240201070000 -0600" stop="20240201080000 -0600" channel="DISNEY JR">
     <title lang="es">Doctora Juguetes</title>
   </programme>
-  <programme start="20240201091500 -0600" stop="20240201093000 -0600" channel="DISNEY JR">
-    <title lang="es">Gigantosaurus</title>
-    <title lang="xx">Gigantosaurus</title>
-    <desc lang="es">Cuatro jóvenes dinosaurios que exploran juntos un mundo prehistórico donde se enfrentan a Gigantosaurus, el dinosaurio más grande y feroz jamás visto.(n)</desc>
-    <credits>
-      <producer>Dominique Bourse</producer>
-      <producer>Olivier Lelardoux</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/gigantosaurus.jpg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
+  <programme start="20240201114500 -0600" stop="20240201120000 -0600" channel="DISNEY JR">
+    <title lang="es">Kiya y los héroes de Kimoja T</title>
   </programme>
   <programme start="20240201123000 -0600" stop="20240201130000 -0600" channel="DISNEY JR">
     <title lang="es">Bluey</title>
@@ -43986,8 +43697,8 @@
   <programme start="20240131230000 -0600" stop="20240201000000 -0600" channel="GLITZ">
     <title lang="es">Sabor a ti</title>
   </programme>
-  <programme start="20240201090000 -0600" stop="20240201100000 -0600" channel="GLITZ">
-    <title lang="es">¿Quién tiene la razón</title>
+  <programme start="20240201110000 -0600" stop="20240201120000 -0600" channel="GLITZ">
+    <title lang="es">Sabor a ti</title>
   </programme>
   <programme start="20240202070000 -0600" stop="20240202080000 -0600" channel="GLITZ">
     <title lang="es">Sabor a ti</title>
@@ -44147,9 +43858,6 @@
   </programme>
   <programme start="20240202043000 -0600" stop="20240202050000 -0600" channel="HOLA TV">
     <title lang="es">Happy &amp; Zen</title>
-  </programme>
-  <programme start="20240202090000 -0600" stop="20240202100000 -0600" channel="HOLA TV">
-    <title lang="es">Las reinas del shopping</title>
   </programme>
   <programme start="20240202113000 -0600" stop="20240202123000 -0600" channel="HOLA TV">
     <title lang="es">Íntimo y personal</title>
@@ -46045,8 +45753,8 @@
   <programme start="20240131230000 -0600" stop="20240201000000 -0600" channel="PASIONES">
     <title lang="es">Sol naciente</title>
   </programme>
-  <programme start="20240201090000 -0600" stop="20240201100000 -0600" channel="PASIONES">
-    <title lang="es">Jardin secreto</title>
+  <programme start="20240201110000 -0600" stop="20240201120000 -0600" channel="PASIONES">
+    <title lang="es">Lo Imperdonable</title>
   </programme>
   <programme start="20240131002000 -0600" stop="20240131004500 -0600" channel="COMEDY CENTRAL">
     <title lang="es">Daria</title>
@@ -48251,9 +47959,6 @@
     <title lang="es">Bull</title>
     <episode-num system="onscreen">E8</episode-num>
   </programme>
-  <programme start="20240201085000 -0600" stop="20240201094000 -0600" channel="USA">
-    <title lang="es">12 monkeys</title>
-  </programme>
   <programme start="20240201112000 -0600" stop="20240201121000 -0600" channel="USA">
     <title lang="es">Magnum P.I. (2018)</title>
     <title lang="xx">Magnum P.I.</title>
@@ -49232,13 +48937,13 @@
   <programme start="20240131231500 -0600" stop="20240201000000 -0600" channel="AZCORAZON">
     <title lang="es">Las Bravo</title>
   </programme>
-  <programme start="20240201090000 -0600" stop="20240201103000 -0600" channel="AZCORAZON">
-    <title lang="es">Resumen - Destino</title>
-  </programme>
   <programme start="20240201111500 -0600" stop="20240201120000 -0600" channel="AZCORAZON">
     <title lang="es">Las Bravo</title>
   </programme>
-  <programme start="20240201171500 -0600" stop="20240201180000 -0600" channel="AZCORAZON">
+  <programme start="20240202111500 -0600" stop="20240202120000 -0600" channel="AZCORAZON">
+    <title lang="es">Las Bravo</title>
+  </programme>
+  <programme start="20240202171500 -0600" stop="20240202180000 -0600" channel="AZCORAZON">
     <title lang="es">Las Bravo</title>
   </programme>
   <programme start="20240131002500 -0600" stop="20240131010000 -0600" channel="HBO SIGNATURE">
@@ -50718,6 +50423,9 @@
   <programme start="20240205103600 -0600" stop="20240205112400 -0600" channel="DISCOVERY SCIENCE">
     <title lang="es">Cómo funciona el universo</title>
   </programme>
+  <programme start="20240205112400 -0600" stop="20240205121200 -0600" channel="DISCOVERY SCIENCE">
+    <title lang="es">La era del videogame</title>
+  </programme>
   <programme start="20240205130000 -0600" stop="20240205134800 -0600" channel="DISCOVERY SCIENCE">
     <title lang="es">Moonshiners</title>
     <episode-num system="onscreen">S5 E18</episode-num>
@@ -51072,25 +50780,6 @@
   </programme>
   <programme start="20240202083000 -0600" stop="20240202090000 -0600" channel="ESPN 1">
     <title lang="es">Futbol Picante</title>
-  </programme>
-  <programme start="20240202090000 -0600" stop="20240202100000 -0600" channel="ESPN 1">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
   <programme start="20240202100000 -0600" stop="20240202102000 -0600" channel="ESPN 1">
     <title lang="es">SportsCenter</title>
@@ -51937,8 +51626,8 @@
   <programme start="20240201060000 -0600" stop="20240201070000 -0600" channel="ESPN 3">
     <title lang="es">Dutch League Highlights</title>
   </programme>
-  <programme start="20240201080000 -0600" stop="20240201100000 -0600" channel="ESPN 3">
-    <title lang="es">Get Up</title>
+  <programme start="20240201100000 -0600" stop="20240201120000 -0600" channel="ESPN 3">
+    <title lang="es">First Take</title>
   </programme>
   <programme start="20240201120000 -0600" stop="20240201140000 -0600" channel="ESPN 3">
     <title lang="es">Latin America Amateur</title>
@@ -52695,8 +52384,8 @@
   <programme start="20240206010000 -0600" stop="20240206040000 -0600" channel="ESPN SUR 1">
     <title lang="es">Road to UEFA Euro 2024 Magazine</title>
   </programme>
-  <programme start="20240206090000 -0600" stop="20240206100000 -0600" channel="ESPN SUR 1">
-    <title lang="es">ESPN F12</title>
+  <programme start="20240206100000 -0600" stop="20240206120000 -0600" channel="ESPN SUR 1">
+    <title lang="es">ESPN F90 - Primera edición</title>
   </programme>
   <programme start="20240206135000 -0600" stop="20240206155500 -0600" channel="ESPN SUR 1">
     <title lang="es">Brentford vs. Manchester City</title>
@@ -52806,8 +52495,8 @@
   <programme start="20240201020000 -0600" stop="20240201040000 -0600" channel="ESPN SUR 2">
     <title lang="es">ESPN Compact</title>
   </programme>
-  <programme start="20240201090000 -0600" stop="20240201100000 -0600" channel="ESPN SUR 2">
-    <title lang="es">ESPN F12</title>
+  <programme start="20240201100000 -0600" stop="20240201120000 -0600" channel="ESPN SUR 2">
+    <title lang="es">ESPN F90 - Primera edición</title>
   </programme>
   <programme start="20240201120000 -0600" stop="20240201135000 -0600" channel="ESPN SUR 2">
     <title lang="es">SportsCenter</title>
@@ -53107,6 +52796,9 @@
   </programme>
   <programme start="20240201090000 -0600" stop="20240201110000 -0600" channel="ESPN SUR 3">
     <title lang="es">Tottenham vs. Brentford</title>
+  </programme>
+  <programme start="20240201110000 -0600" stop="20240201120000 -0600" channel="ESPN SUR 3">
+    <title lang="es">Goles de la Ligue 1</title>
   </programme>
   <programme start="20240201160000 -0600" stop="20240201163000 -0600" channel="ESPN SUR 3">
     <title lang="es">ATP Tour This Week</title>
@@ -53458,9 +53150,6 @@
   </programme>
   <programme start="20240201010000 -0600" stop="20240201030000 -0600" channel="FOX SPORTS">
     <title lang="es">Mazatlán vs. León</title>
-  </programme>
-  <programme start="20240201090000 -0600" stop="20240201100000 -0600" channel="FOX SPORTS">
-    <title lang="es">La última palabra</title>
   </programme>
   <programme start="20240201100000 -0600" stop="20240201103000 -0600" channel="FOX SPORTS">
     <title lang="es">Latitud fox</title>
@@ -55199,7 +54888,7 @@
   <programme start="20240201040000 -0600" stop="20240201050000 -0600" channel="NFL NETWOK">
     <title lang="es">2023 Senior Bowl</title>
   </programme>
-  <programme start="20240201090000 -0600" stop="20240201093000 -0600" channel="NFL NETWOK">
+  <programme start="20240201113000 -0600" stop="20240201120000 -0600" channel="NFL NETWOK">
     <title lang="es">NFL Insiders</title>
   </programme>
   <programme start="20240201140000 -0600" stop="20240201170000 -0600" channel="NFL NETWOK">
@@ -55997,9 +55686,6 @@
   <programme start="20240203080000 -0600" stop="20240203090000 -0600" channel="VIDEO ROLA">
     <title lang="es">Las Gruperronas</title>
   </programme>
-  <programme start="20240203090000 -0600" stop="20240203093000 -0600" channel="VIDEO ROLA">
-    <title lang="es">Videografía</title>
-  </programme>
   <programme start="20240203093000 -0600" stop="20240203100000 -0600" channel="VIDEO ROLA">
     <title lang="es">Give Me Five</title>
   </programme>
@@ -56069,8 +55755,8 @@
   <programme start="20240131230000 -0600" stop="20240201010000 -0600" channel="MUCH MUSIC">
     <title lang="es">#ROCKON</title>
   </programme>
-  <programme start="20240201090000 -0600" stop="20240201110000 -0600" channel="MUCH MUSIC">
-    <title lang="es">Tu Ranking</title>
+  <programme start="20240201110000 -0600" stop="20240201130000 -0600" channel="MUCH MUSIC">
+    <title lang="es">Quieren Rock</title>
   </programme>
   <programme start="20240202030000 -0600" stop="20240202050000 -0600" channel="MUCH MUSIC">
     <title lang="es">#ROCKON</title>
@@ -56176,9 +55862,6 @@
   </programme>
   <programme start="20240201080000 -0600" stop="20240201083000 -0600" channel="BANDAMAX">
     <title lang="es">Mi versión en Bandamax</title>
-  </programme>
-  <programme start="20240201083000 -0600" stop="20240201100000 -0600" channel="BANDAMAX">
-    <title lang="es">Banda y Max</title>
   </programme>
   <programme start="20240201115000 -0600" stop="20240201121500 -0600" channel="BANDAMAX">
     <title lang="es">Trépale al Sierreño</title>
@@ -56453,8 +56136,8 @@
   <programme start="20240131200000 -0600" stop="20240131230000 -0600" channel="HTV">
     <title lang="es">HTV Fiesta</title>
   </programme>
-  <programme start="20240201090000 -0600" stop="20240201110000 -0600" channel="HTV">
-    <title lang="es">Hot Ranking</title>
+  <programme start="20240201110000 -0600" stop="20240201120000 -0600" channel="HTV">
+    <title lang="es">Fórmula HTV</title>
   </programme>
   <programme start="20240131005000 -0600" stop="20240131021000 -0600" channel="NICK JR">
     <title lang="es">Santiago of the Seas</title>
@@ -56612,8 +56295,23 @@
   <programme start="20240131224000 -0600" stop="20240131230500 -0600" channel="NICK JR">
     <title lang="es">Baby Shark's Big Show</title>
   </programme>
-  <programme start="20240201090000 -0600" stop="20240201095500 -0600" channel="NICK JR">
-    <title lang="es">BARBAPAPA - One Big Happy</title>
+  <programme start="20240201115000 -0600" stop="20240201133000 -0600" channel="NICK JR">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay.(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country lang="es">Canadá</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20240201135500 -0600" stop="20240201143500 -0600" channel="NICK JR">
     <title lang="es">Baby Shark's Big Show</title>
@@ -57289,8 +56987,8 @@
   <programme start="20240131222500 -0600" stop="20240201000000 -0600" channel="TLNOVELAS">
     <title lang="es">El Color de la Pasión</title>
   </programme>
-  <programme start="20240201081000 -0600" stop="20240201094500 -0600" channel="TLNOVELAS">
-    <title lang="es">Quiero Amarte</title>
+  <programme start="20240201112000 -0600" stop="20240201125500 -0600" channel="TLNOVELAS">
+    <title lang="es">Marimar</title>
   </programme>
   <programme start="20240201143000 -0600" stop="20240201160500 -0600" channel="TLNOVELAS">
     <title lang="es">El Color de la Pasión</title>
@@ -58429,5 +58127,1099 @@
   <programme start="20240207235000 -0600" stop="20240208004500 -0600" channel="AyE">
     <title lang="es">60 días preso el experimento</title>
     <episode-num system="onscreen">E106</episode-num>
+  </programme>
+  <programme start="20240131001500 -0600" stop="20240131004500 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2319</episode-num>
+  </programme>
+  <programme start="20240131004500 -0600" stop="20240131011000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2320</episode-num>
+  </programme>
+  <programme start="20240131011000 -0600" stop="20240131013500 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2321</episode-num>
+  </programme>
+  <programme start="20240131013500 -0600" stop="20240131020000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2322</episode-num>
+  </programme>
+  <programme start="20240131020000 -0600" stop="20240131030000 -0600" channel="MTV">
+    <title lang="es">Latino Fuerte</title>
+  </programme>
+  <programme start="20240131030000 -0600" stop="20240131040000 -0600" channel="MTV">
+    <title lang="es">MTV ATR A Todo Ritmo</title>
+  </programme>
+  <programme start="20240131040000 -0600" stop="20240131050000 -0600" channel="MTV">
+    <title lang="es">Insomnio MTV</title>
+  </programme>
+  <programme start="20240131050000 -0600" stop="20240131060000 -0600" channel="MTV">
+    <title lang="es">Insomnio MTV</title>
+  </programme>
+  <programme start="20240131060000 -0600" stop="20240131070000 -0600" channel="MTV">
+    <title lang="es">Tu Mix de Hoy</title>
+  </programme>
+  <programme start="20240131070000 -0600" stop="20240131080000 -0600" channel="MTV">
+    <title lang="es">Arriba MTV</title>
+  </programme>
+  <programme start="20240131080000 -0600" stop="20240131090000 -0600" channel="MTV">
+    <title lang="es">Latino Fuerte</title>
+  </programme>
+  <programme start="20240131090000 -0600" stop="20240131094500 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+    <episode-num system="onscreen">E856</episode-num>
+  </programme>
+  <programme start="20240131094500 -0600" stop="20240131103500 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+    <episode-num system="onscreen">E857</episode-num>
+  </programme>
+  <programme start="20240131103500 -0600" stop="20240131112500 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+    <episode-num system="onscreen">E858</episode-num>
+  </programme>
+  <programme start="20240131112500 -0600" stop="20240131122000 -0600" channel="MTV">
+    <title lang="es">Just Tattoo of Us</title>
+    <episode-num system="onscreen">E203</episode-num>
+  </programme>
+  <programme start="20240131122000 -0600" stop="20240131131500 -0600" channel="MTV">
+    <title lang="es">Just Tattoo of Us</title>
+    <episode-num system="onscreen">E204</episode-num>
+  </programme>
+  <programme start="20240131131500 -0600" stop="20240131134000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2323</episode-num>
+  </programme>
+  <programme start="20240131134000 -0600" stop="20240131140500 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2324</episode-num>
+  </programme>
+  <programme start="20240131140500 -0600" stop="20240131143000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2325</episode-num>
+  </programme>
+  <programme start="20240131143000 -0600" stop="20240131145500 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2326</episode-num>
+  </programme>
+  <programme start="20240131145500 -0600" stop="20240131152000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2327</episode-num>
+  </programme>
+  <programme start="20240131152000 -0600" stop="20240131160500 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+    <episode-num system="onscreen">E869</episode-num>
+  </programme>
+  <programme start="20240131160500 -0600" stop="20240131165500 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+    <episode-num system="onscreen">E870</episode-num>
+  </programme>
+  <programme start="20240131165500 -0600" stop="20240131175000 -0600" channel="MTV">
+    <title lang="es">Catfish México</title>
+    <episode-num system="onscreen">E106</episode-num>
+  </programme>
+  <programme start="20240131175000 -0600" stop="20240131190000 -0600" channel="MTV">
+    <title lang="es">Drag Race Mexico</title>
+    <episode-num system="onscreen">E110</episode-num>
+  </programme>
+  <programme start="20240131190000 -0600" stop="20240131195500 -0600" channel="MTV">
+    <title lang="es">La venganza de los Ex VIP</title>
+    <episode-num system="onscreen">E309</episode-num>
+  </programme>
+  <programme start="20240131195500 -0600" stop="20240131203000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2328</episode-num>
+  </programme>
+  <programme start="20240131203000 -0600" stop="20240131220000 -0600" channel="MTV">
+    <title lang="es">Drag Race Spain</title>
+    <episode-num system="onscreen">E210</episode-num>
+  </programme>
+  <programme start="20240131220000 -0600" stop="20240131231500 -0600" channel="MTV">
+    <title lang="es">The challenge</title>
+    <episode-num system="onscreen">E3908</episode-num>
+  </programme>
+  <programme start="20240131231500 -0600" stop="20240201001500 -0600" channel="MTV">
+    <title lang="es">Acapulco Shore</title>
+    <episode-num system="onscreen">E403</episode-num>
+  </programme>
+  <programme start="20240201001500 -0600" stop="20240201004500 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2329</episode-num>
+  </programme>
+  <programme start="20240201004500 -0600" stop="20240201011000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2330</episode-num>
+  </programme>
+  <programme start="20240201011000 -0600" stop="20240201013500 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2331</episode-num>
+  </programme>
+  <programme start="20240201013500 -0600" stop="20240201020000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2332</episode-num>
+  </programme>
+  <programme start="20240201090000 -0600" stop="20240201094500 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+    <episode-num system="onscreen">E859</episode-num>
+  </programme>
+  <programme start="20240201094500 -0600" stop="20240201103500 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+    <episode-num system="onscreen">E860</episode-num>
+  </programme>
+  <programme start="20240201103500 -0600" stop="20240201112500 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+    <episode-num system="onscreen">E861</episode-num>
+  </programme>
+  <programme start="20240201112500 -0600" stop="20240201122000 -0600" channel="MTV">
+    <title lang="es">Just Tattoo of Us</title>
+    <episode-num system="onscreen">E205</episode-num>
+  </programme>
+  <programme start="20240201122000 -0600" stop="20240201131500 -0600" channel="MTV">
+    <title lang="es">Just Tattoo of Us</title>
+    <episode-num system="onscreen">E206</episode-num>
+  </programme>
+  <programme start="20240201131500 -0600" stop="20240201134000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2333</episode-num>
+  </programme>
+  <programme start="20240201134000 -0600" stop="20240201140500 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2334</episode-num>
+  </programme>
+  <programme start="20240201140500 -0600" stop="20240201143000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2335</episode-num>
+  </programme>
+  <programme start="20240201143000 -0600" stop="20240201145500 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2336</episode-num>
+  </programme>
+  <programme start="20240201145500 -0600" stop="20240201152000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2337</episode-num>
+  </programme>
+  <programme start="20240201152000 -0600" stop="20240201160500 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+    <episode-num system="onscreen">E871</episode-num>
+  </programme>
+  <programme start="20240201160500 -0600" stop="20240201165500 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+    <episode-num system="onscreen">E872</episode-num>
+  </programme>
+  <programme start="20240201165500 -0600" stop="20240201175000 -0600" channel="MTV">
+    <title lang="es">Catfish México</title>
+    <episode-num system="onscreen">E108</episode-num>
+  </programme>
+  <programme start="20240201175000 -0600" stop="20240201190000 -0600" channel="MTV">
+    <title lang="es">Drag Race Mexico</title>
+    <episode-num system="onscreen">E111</episode-num>
+  </programme>
+  <programme start="20240201190000 -0600" stop="20240201193500 -0600" channel="MTV">
+    <title lang="es">La venganza extra</title>
+  </programme>
+  <programme start="20240201193500 -0600" stop="20240201203000 -0600" channel="MTV">
+    <title lang="es">La venganza de los Ex VIP</title>
+    <episode-num system="onscreen">E309</episode-num>
+  </programme>
+  <programme start="20240201203000 -0600" stop="20240201210500 -0600" channel="MTV">
+    <title lang="es">La venganza extra</title>
+  </programme>
+  <programme start="20240201210500 -0600" stop="20240201220000 -0600" channel="MTV">
+    <title lang="es">Acapulco Shore</title>
+    <episode-num system="onscreen">E404</episode-num>
+  </programme>
+  <programme start="20240201220000 -0600" stop="20240201225000 -0600" channel="MTV">
+    <title lang="es">Ink Master</title>
+    <desc lang="es">Los mejores artistas de tatuajes de los Estados Unidos compiten para llevarse el gran premio de 100,000 dólares y obtener el título de “Ink Master”.(n)</desc>
+    <credits>
+      <actor>Dave Navarro</actor>
+      <actor>Chris Núñez</actor>
+      <actor>Oliver Peck</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ink_master.png" />
+    <episode-num system="onscreen">E1303</episode-num>
+  </programme>
+  <programme start="20240201225000 -0600" stop="20240201235000 -0600" channel="MTV">
+    <title lang="es">Acapulco Shore</title>
+    <episode-num system="onscreen">E405</episode-num>
+  </programme>
+  <programme start="20240201235000 -0600" stop="20240202001500 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2338</episode-num>
+  </programme>
+  <programme start="20240202001500 -0600" stop="20240202004500 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2339</episode-num>
+  </programme>
+  <programme start="20240202004500 -0600" stop="20240202011000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2340</episode-num>
+  </programme>
+  <programme start="20240202011000 -0600" stop="20240202013500 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2341</episode-num>
+  </programme>
+  <programme start="20240202013500 -0600" stop="20240202020000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2342</episode-num>
+  </programme>
+  <programme start="20240202090000 -0600" stop="20240202094500 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+    <episode-num system="onscreen">E862</episode-num>
+  </programme>
+  <programme start="20240202094500 -0600" stop="20240202103500 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+    <episode-num system="onscreen">E863</episode-num>
+  </programme>
+  <programme start="20240202103500 -0600" stop="20240202112500 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+    <episode-num system="onscreen">E864</episode-num>
+  </programme>
+  <programme start="20240202112500 -0600" stop="20240202122000 -0600" channel="MTV">
+    <title lang="es">Just Tattoo of Us</title>
+    <episode-num system="onscreen">E207</episode-num>
+  </programme>
+  <programme start="20240202122000 -0600" stop="20240202131500 -0600" channel="MTV">
+    <title lang="es">Just Tattoo of Us</title>
+    <episode-num system="onscreen">E208</episode-num>
+  </programme>
+  <programme start="20240202131500 -0600" stop="20240202134000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2401</episode-num>
+  </programme>
+  <programme start="20240202134000 -0600" stop="20240202140500 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2402</episode-num>
+  </programme>
+  <programme start="20240202140500 -0600" stop="20240202143000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2403</episode-num>
+  </programme>
+  <programme start="20240202143000 -0600" stop="20240202145500 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2404</episode-num>
+  </programme>
+  <programme start="20240202145500 -0600" stop="20240202152000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2405</episode-num>
+  </programme>
+  <programme start="20240202152000 -0600" stop="20240202160500 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+  </programme>
+  <programme start="20240202160500 -0600" stop="20240202165500 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+    <episode-num system="onscreen">E874</episode-num>
+  </programme>
+  <programme start="20240202165500 -0600" stop="20240202172000 -0600" channel="MTV">
+    <title lang="es">Yo! MTV Raps</title>
+    <episode-num system="onscreen">E105</episode-num>
+  </programme>
+  <programme start="20240202172000 -0600" stop="20240202175000 -0600" channel="MTV">
+    <title lang="es">Yo! MTV Raps</title>
+    <episode-num system="onscreen">E106</episode-num>
+  </programme>
+  <programme start="20240202175000 -0600" stop="20240202190000 -0600" channel="MTV">
+    <title lang="es">Drag Race Mexico</title>
+    <episode-num system="onscreen">E112</episode-num>
+  </programme>
+  <programme start="20240202190000 -0600" stop="20240202195500 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+    <episode-num system="onscreen">E892</episode-num>
+  </programme>
+  <programme start="20240202195500 -0600" stop="20240202201500 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2406</episode-num>
+  </programme>
+  <programme start="20240202201500 -0600" stop="20240202211000 -0600" channel="MTV">
+    <title lang="es">La venganza de los Ex VIP</title>
+    <episode-num system="onscreen">E308</episode-num>
+  </programme>
+  <programme start="20240202211000 -0600" stop="20240202220000 -0600" channel="MTV">
+    <title lang="es">La venganza de los Ex VIP</title>
+    <episode-num system="onscreen">E309</episode-num>
+  </programme>
+  <programme start="20240202220000 -0600" stop="20240202225000 -0600" channel="MTV">
+    <title lang="es">Love &amp; Hip Hop Atlanta</title>
+    <episode-num system="onscreen">E212</episode-num>
+  </programme>
+  <programme start="20240202225000 -0600" stop="20240203001500 -0600" channel="MTV">
+    <title lang="es">Drag Race Spain</title>
+    <episode-num system="onscreen">E210</episode-num>
+  </programme>
+  <programme start="20240203001500 -0600" stop="20240203004500 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2407</episode-num>
+  </programme>
+  <programme start="20240203004500 -0600" stop="20240203011000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2408</episode-num>
+  </programme>
+  <programme start="20240203011000 -0600" stop="20240203013500 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2409</episode-num>
+  </programme>
+  <programme start="20240203013500 -0600" stop="20240203020000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2410</episode-num>
+  </programme>
+  <programme start="20240203090000 -0600" stop="20240203092500 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2410</episode-num>
+  </programme>
+  <programme start="20240203092500 -0600" stop="20240203095000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2411</episode-num>
+  </programme>
+  <programme start="20240203095000 -0600" stop="20240203101500 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2412</episode-num>
+  </programme>
+  <programme start="20240203101500 -0600" stop="20240203104000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2413</episode-num>
+  </programme>
+  <programme start="20240203104000 -0600" stop="20240203110500 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2414</episode-num>
+  </programme>
+  <programme start="20240203110500 -0600" stop="20240203113000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2415</episode-num>
+  </programme>
+  <programme start="20240203113000 -0600" stop="20240203115000 -0600" channel="MTV">
+    <title lang="es">Ridiculousness</title>
+    <episode-num system="onscreen">E2416</episode-num>
+  </programme>
+  <programme start="20240203115000 -0600" stop="20240203124000 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+    <episode-num system="onscreen">E889</episode-num>
+  </programme>
+  <programme start="20240203124000 -0600" stop="20240203133000 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+    <episode-num system="onscreen">E890</episode-num>
+  </programme>
+  <programme start="20240203133000 -0600" stop="20240203142000 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+    <episode-num system="onscreen">E891</episode-num>
+  </programme>
+  <programme start="20240203142000 -0600" stop="20240203150500 -0600" channel="MTV">
+    <title lang="es">Catfish S.4-5</title>
+    <episode-num system="onscreen">E892</episode-num>
+  </programme>
+  <programme start="20240203150500 -0600" stop="20240203163000 -0600" channel="MTV">
+    <title lang="es">Drag Race Spain</title>
+    <episode-num system="onscreen">E209</episode-num>
+  </programme>
+  <programme start="20240203163000 -0600" stop="20240203175500 -0600" channel="MTV">
+    <title lang="es">Drag Race Spain</title>
+    <episode-num system="onscreen">E210</episode-num>
+  </programme>
+  <programme start="20240203175500 -0600" stop="20240203185000 -0600" channel="MTV">
+    <title lang="es">Just Tattoo of Us</title>
+    <episode-num system="onscreen">E207</episode-num>
+  </programme>
+  <programme start="20240203185000 -0600" stop="20240203194500 -0600" channel="MTV">
+    <title lang="es">Just Tattoo of Us</title>
+    <episode-num system="onscreen">E208</episode-num>
+  </programme>
+  <programme start="20240203194500 -0600" stop="20240203205000 -0600" channel="MTV">
+    <title lang="es">La venganza de los Ex VIP</title>
+    <episode-num system="onscreen">E305</episode-num>
+  </programme>
+  <programme start="20240203205000 -0600" stop="20240203212500 -0600" channel="MTV">
+    <title lang="es">La venganza extra</title>
+  </programme>
+  <programme start="20240203212500 -0600" stop="20240203222000 -0600" channel="MTV">
+    <title lang="es">La venganza de los Ex VIP</title>
+    <episode-num system="onscreen">E306</episode-num>
+  </programme>
+  <programme start="20240203222000 -0600" stop="20240203225500 -0600" channel="MTV">
+    <title lang="es">La venganza extra</title>
+  </programme>
+  <programme start="20240203225500 -0600" stop="20240203235000 -0600" channel="MTV">
+    <title lang="es">La venganza de los Ex VIP</title>
+    <episode-num system="onscreen">E307</episode-num>
+  </programme>
+  <programme start="20240203235000 -0600" stop="20240204002500 -0600" channel="MTV">
+    <title lang="es">La venganza extra</title>
+  </programme>
+  <programme start="20240204002500 -0600" stop="20240204012000 -0600" channel="MTV">
+    <title lang="es">La venganza de los Ex VIP</title>
+    <episode-num system="onscreen">E308</episode-num>
+  </programme>
+  <programme start="20240204012000 -0600" stop="20240204015500 -0600" channel="MTV">
+    <title lang="es">La venganza extra</title>
+  </programme>
+  <programme start="20240204015500 -0600" stop="20240204030000 -0600" channel="MTV">
+    <title lang="es">Latino Fuerte</title>
+  </programme>
+  <programme start="20240204090000 -0600" stop="20240204092500 -0600" channel="MTV">
+    <title lang="es">World Stage</title>
+  </programme>
+  <programme start="20240204092500 -0600" stop="20240204095000 -0600" channel="MTV">
+    <title lang="es">World Stage</title>
+  </programme>
+  <programme start="20240204095000 -0600" stop="20240204101500 -0600" channel="MTV">
+    <title lang="es">MTV Cribs</title>
+    <episode-num system="onscreen">E1911</episode-num>
+  </programme>
+  <programme start="20240204101500 -0600" stop="20240204104000 -0600" channel="MTV">
+    <title lang="es">MTV Cribs</title>
+    <episode-num system="onscreen">E1912</episode-num>
+  </programme>
+  <programme start="20240204104000 -0600" stop="20240204110500 -0600" channel="MTV">
+    <title lang="es">MTV Cribs</title>
+    <episode-num system="onscreen">E1913</episode-num>
+  </programme>
+  <programme start="20240204110500 -0600" stop="20240204113000 -0600" channel="MTV">
+    <title lang="es">MTV Cribs</title>
+    <episode-num system="onscreen">E1914</episode-num>
+  </programme>
+  <programme start="20240204113000 -0600" stop="20240204115000 -0600" channel="MTV">
+    <title lang="es">MTV Cribs</title>
+    <episode-num system="onscreen">E1915</episode-num>
+  </programme>
+  <programme start="20240204115000 -0600" stop="20240204124000 -0600" channel="MTV">
+    <title lang="es">Teen Mom: The Next Chapter</title>
+    <episode-num system="onscreen">E131</episode-num>
+  </programme>
+  <programme start="20240204124000 -0600" stop="20240204133000 -0600" channel="MTV">
+    <title lang="es">Teen Mom: The Next Chapter</title>
+    <episode-num system="onscreen">E132</episode-num>
+  </programme>
+  <programme start="20240204133000 -0600" stop="20240204142000 -0600" channel="MTV">
+    <title lang="es">Teen Mom: The Next Chapter</title>
+    <episode-num system="onscreen">E133</episode-num>
+  </programme>
+  <programme start="20240204142000 -0600" stop="20240204153000 -0600" channel="MTV">
+    <title lang="es">The challenge</title>
+    <episode-num system="onscreen">E3907</episode-num>
+  </programme>
+  <programme start="20240204153000 -0600" stop="20240204164500 -0600" channel="MTV">
+    <title lang="es">The challenge</title>
+    <episode-num system="onscreen">E3908</episode-num>
+  </programme>
+  <programme start="20240204164500 -0600" stop="20240204180000 -0600" channel="MTV">
+    <title lang="es">Drag Race Mexico</title>
+    <episode-num system="onscreen">E108</episode-num>
+  </programme>
+  <programme start="20240204180000 -0600" stop="20240204191000 -0600" channel="MTV">
+    <title lang="es">Drag Race Mexico</title>
+    <episode-num system="onscreen">E109</episode-num>
+  </programme>
+  <programme start="20240204191000 -0600" stop="20240204202000 -0600" channel="MTV">
+    <title lang="es">Drag Race Mexico</title>
+    <episode-num system="onscreen">E110</episode-num>
+  </programme>
+  <programme start="20240204202000 -0600" stop="20240204213000 -0600" channel="MTV">
+    <title lang="es">Drag Race Mexico</title>
+    <episode-num system="onscreen">E112</episode-num>
+  </programme>
+  <programme start="20240204213000 -0600" stop="20240204222500 -0600" channel="MTV">
+    <title lang="es">La venganza de los Ex VIP</title>
+    <episode-num system="onscreen">E309</episode-num>
+  </programme>
+  <programme start="20240204222500 -0600" stop="20240204230000 -0600" channel="MTV">
+    <title lang="es">La venganza extra</title>
+  </programme>
+  <programme start="20240204230000 -0600" stop="20240205000000 -0600" channel="MTV">
+    <title lang="es">Acapulco Shore</title>
+    <episode-num system="onscreen">E406</episode-num>
+  </programme>
+  <programme start="20240205000000 -0600" stop="20240205010000 -0600" channel="MTV">
+    <title lang="es">Acapulco Shore</title>
+    <episode-num system="onscreen">E407</episode-num>
+  </programme>
+  <programme start="20240205010000 -0600" stop="20240205020000 -0600" channel="MTV">
+    <title lang="es">Acapulco Shore</title>
+    <episode-num system="onscreen">E408</episode-num>
+  </programme>
+  <programme start="20240205020000 -0600" stop="20240205030000 -0600" channel="MTV">
+    <title lang="es">Latino Fuerte</title>
+  </programme>
+  <programme start="20240205030000 -0600" stop="20240205040000 -0600" channel="MTV">
+    <title lang="es">MTV ATR A Todo Ritmo</title>
+  </programme>
+  <programme start="20240205040000 -0600" stop="20240205050000 -0600" channel="MTV">
+    <title lang="es">Insomnio MTV</title>
+  </programme>
+  <programme start="20240205050000 -0600" stop="20240205070000 -0600" channel="MTV">
+    <title lang="es">mtv</title>
+  </programme>
+  <programme start="20240205070000 -0600" stop="20240205110000 -0600" channel="MTV">
+    <title lang="es">mtv</title>
+  </programme>
+  <programme start="20240205110000 -0600" stop="20240205150000 -0600" channel="MTV">
+    <title lang="es">mtv</title>
+  </programme>
+  <programme start="20240205150000 -0600" stop="20240205190000 -0600" channel="MTV">
+    <title lang="es">mtv</title>
+  </programme>
+  <programme start="20240205190000 -0600" stop="20240205230000 -0600" channel="MTV">
+    <title lang="es">mtv</title>
+  </programme>
+  <programme start="20240205230000 -0600" stop="20240206030000 -0600" channel="MTV">
+    <title lang="es">mtv</title>
+  </programme>
+  <programme start="20240131030000 -0600" stop="20240131050000 -0600" channel="MTV 80S">
+    <title lang="es">Greatest Love Of All! Top 50</title>
+  </programme>
+  <programme start="20240131050000 -0600" stop="20240131060000 -0600" channel="MTV 80S">
+    <title lang="es">Rock Anthems</title>
+  </programme>
+  <programme start="20240131060000 -0600" stop="20240131100000 -0600" channel="MTV 80S">
+    <title lang="es">No Solo Only 80s Groups! Top</title>
+  </programme>
+  <programme start="20240131100000 -0600" stop="20240131120000 -0600" channel="MTV 80S">
+    <title lang="es">Non-Stop 80s Hits</title>
+  </programme>
+  <programme start="20240131120000 -0600" stop="20240131140000 -0600" channel="MTV 80S">
+    <title lang="es">Let's Hear It For The Girls</title>
+  </programme>
+  <programme start="20240131140000 -0600" stop="20240131150000 -0600" channel="MTV 80S">
+    <title lang="es">Indie 80s</title>
+  </programme>
+  <programme start="20240131150000 -0600" stop="20240131190000 -0600" channel="MTV 80S">
+    <title lang="es">Totally 80s</title>
+  </programme>
+  <programme start="20240131190000 -0600" stop="20240131210000 -0600" channel="MTV 80S">
+    <title lang="es">Non-Stop 80s Hits</title>
+  </programme>
+  <programme start="20240131210000 -0600" stop="20240131230000 -0600" channel="MTV 80S">
+    <title lang="es">MTV 80s At The Movies</title>
+  </programme>
+  <programme start="20240201030000 -0600" stop="20240201050000 -0600" channel="MTV 80S">
+    <title lang="es">Let's Hear It For The Girls</title>
+  </programme>
+  <programme start="20240201050000 -0600" stop="20240201060000 -0600" channel="MTV 80S">
+    <title lang="es">Indie 80s</title>
+  </programme>
+  <programme start="20240201060000 -0600" stop="20240201100000 -0600" channel="MTV 80S">
+    <title lang="es">I Want My MTV 80s</title>
+  </programme>
+  <programme start="20240201100000 -0600" stop="20240201120000 -0600" channel="MTV 80S">
+    <title lang="es">Non-Stop 80s Hits</title>
+  </programme>
+  <programme start="20240201120000 -0600" stop="20240201140000 -0600" channel="MTV 80S">
+    <title lang="es">MTV 80s At The Movies</title>
+  </programme>
+  <programme start="20240201140000 -0600" stop="20240201150000 -0600" channel="MTV 80S">
+    <title lang="es">Rock Anthems</title>
+  </programme>
+  <programme start="20240201210000 -0600" stop="20240201230000 -0600" channel="MTV 80S">
+    <title lang="es">Pump Up The 80s Party</title>
+  </programme>
+  <programme start="20240202030000 -0600" stop="20240202050000 -0600" channel="MTV 80S">
+    <title lang="es">MTV 80s At The Movies</title>
+  </programme>
+  <programme start="20240202120000 -0600" stop="20240202140000 -0600" channel="MTV 80S">
+    <title lang="es">Pump Up The 80s Party</title>
+  </programme>
+  <programme start="20240202140000 -0600" stop="20240202150000 -0600" channel="MTV 80S">
+    <title lang="es">Headbangers Ball</title>
+  </programme>
+  <programme start="20240202150000 -0600" stop="20240202190000 -0600" channel="MTV 80S">
+    <title lang="es">1988 Wrapped</title>
+  </programme>
+  <programme start="20240202210000 -0600" stop="20240202230000 -0600" channel="MTV 80S">
+    <title lang="es">Electric 80s</title>
+  </programme>
+  <programme start="20240202230000 -0600" stop="20240203030000 -0600" channel="MTV 80S">
+    <title lang="es">No Solo Only 80s Groups! Top</title>
+  </programme>
+  <programme start="20240203030000 -0600" stop="20240203050000 -0600" channel="MTV 80S">
+    <title lang="es">Pump Up The 80s Party</title>
+  </programme>
+  <programme start="20240203050000 -0600" stop="20240203060000 -0600" channel="MTV 80S">
+    <title lang="es">Headbangers Ball</title>
+  </programme>
+  <programme start="20240203120000 -0600" stop="20240203140000 -0600" channel="MTV 80S">
+    <title lang="es">Electric 80s</title>
+  </programme>
+  <programme start="20240203210000 -0600" stop="20240203230000 -0600" channel="MTV 80S">
+    <title lang="es">80s Power Ballad Heaven</title>
+  </programme>
+  <programme start="20240204030000 -0600" stop="20240204050000 -0600" channel="MTV 80S">
+    <title lang="es">Electric 80s</title>
+  </programme>
+  <programme start="20240204060000 -0600" stop="20240204100000 -0600" channel="MTV 80S">
+    <title lang="es">Top 50 Best 80s Debuts</title>
+  </programme>
+  <programme start="20240204120000 -0600" stop="20240204140000 -0600" channel="MTV 80S">
+    <title lang="es">80s Power Ballad Heaven</title>
+  </programme>
+  <programme start="20240204210000 -0600" stop="20240204230000 -0600" channel="MTV 80S">
+    <title lang="es">Super Pop Hits</title>
+  </programme>
+  <programme start="20240205030000 -0600" stop="20240205050000 -0600" channel="MTV 80S">
+    <title lang="es">80s Power Ballad Heaven</title>
+  </programme>
+  <programme start="20240205120000 -0600" stop="20240205140000 -0600" channel="MTV 80S">
+    <title lang="es">Super Pop Hits</title>
+  </programme>
+  <programme start="20240205150000 -0600" stop="20240205190000 -0600" channel="MTV 80S">
+    <title lang="es">Legends Of The 80s! Top 50</title>
+  </programme>
+  <programme start="20240205190000 -0600" stop="20240205230000 -0600" channel="MTV 80S">
+    <title lang="es">Non-Stop 80s Hits</title>
+  </programme>
+  <programme start="20240205230000 -0600" stop="20240206030000 -0600" channel="MTV 80S">
+    <title lang="es">1989 Wrapped</title>
+  </programme>
+  <programme start="20240206230000 -0600" stop="20240207030000 -0600" channel="MTV 80S">
+    <title lang="es">1989 Wrapped</title>
+  </programme>
+  <programme start="20240131001500 -0600" stop="20240131011500 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20240131011500 -0600" stop="20240131031500 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240131031500 -0600" stop="20240131051500 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240131051500 -0600" stop="20240131060000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240131060000 -0600" stop="20240131070000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Hechos A.M Primera Línea En Vivo</title>
+  </programme>
+  <programme start="20240131070000 -0600" stop="20240131080000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Hechos AM En Vivo</title>
+  </programme>
+  <programme start="20240131080000 -0600" stop="20240131090000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Nosotros, Ustedes y Hechos</title>
+  </programme>
+  <programme start="20240131090000 -0600" stop="20240131130000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20240131130000 -0600" stop="20240131140000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.(n)</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
+  </programme>
+  <programme start="20240131140000 -0600" stop="20240131150000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20240131150000 -0600" stop="20240131160000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Escape Perfecto</title>
+  </programme>
+  <programme start="20240131160000 -0600" stop="20240131173000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20240131173000 -0600" stop="20240131193000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20240131193000 -0600" stop="20240131203000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.(n)</desc>
+    <credits>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+  <programme start="20240131203000 -0600" stop="20240131223000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Exatlón México</title>
+  </programme>
+  <programme start="20240131223000 -0600" stop="20240131231500 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Noticiero Hechos de la noche</title>
+  </programme>
+  <programme start="20240131231500 -0600" stop="20240131233000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20240131233000 -0600" stop="20240131234500 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Campañeando</title>
+  </programme>
+  <programme start="20240131234500 -0600" stop="20240201001500 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20240201090000 -0600" stop="20240201130000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20240202011500 -0600" stop="20240202040000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20240202040000 -0600" stop="20240202041500 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20240202041500 -0600" stop="20240202050000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20240202050000 -0600" stop="20240202053000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20240202053000 -0600" stop="20240202060000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20240202060000 -0600" stop="20240202080000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Cuando regrese mamá</title>
+  </programme>
+  <programme start="20240202080000 -0600" stop="20240202090000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Hechos Sábado</title>
+  </programme>
+  <programme start="20240202090000 -0600" stop="20240202130000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20240202130000 -0600" stop="20240202140000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">La rueda de la suerte</title>
+  </programme>
+  <programme start="20240202140000 -0600" stop="20240202160000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Escape Perfecto</title>
+  </programme>
+  <programme start="20240202160000 -0600" stop="20240202180000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Sábado al extremo</title>
+  </programme>
+  <programme start="20240202180000 -0600" stop="20240202210000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Amor en navidad</title>
+  </programme>
+  <programme start="20240202210000 -0600" stop="20240202220000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Lo mejor de Acércate a Rocío</title>
+  </programme>
+  <programme start="20240202220000 -0600" stop="20240203000000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20240203000000 -0600" stop="20240203020000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240203020000 -0600" stop="20240203040000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240203040000 -0600" stop="20240203050000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240203060000 -0600" stop="20240203080000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">El niño y la estrella</title>
+  </programme>
+  <programme start="20240203080000 -0600" stop="20240203090000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Hechos Domingo</title>
+  </programme>
+  <programme start="20240203130000 -0600" stop="20240203150000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Lo mejor de Acércate a Rocío</title>
+  </programme>
+  <programme start="20240203150000 -0600" stop="20240203170000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Domingo Al Extremo</title>
+  </programme>
+  <programme start="20240203170000 -0600" stop="20240203190000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Amor en navidad</title>
+  </programme>
+  <programme start="20240203190000 -0600" stop="20240203200000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.(n)</desc>
+    <credits>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+  <programme start="20240203200000 -0600" stop="20240203230000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Exatlón México</title>
+  </programme>
+  <programme start="20240203230000 -0600" stop="20240204000000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20240204000000 -0600" stop="20240204003000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20240204003000 -0600" stop="20240204023000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240204023000 -0600" stop="20240204043000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240204043000 -0600" stop="20240204060000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240204060000 -0600" stop="20240204070000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Hechos A.M Primera Línea En Vivo</title>
+  </programme>
+  <programme start="20240204070000 -0600" stop="20240204080000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Hechos AM En Vivo</title>
+  </programme>
+  <programme start="20240204080000 -0600" stop="20240204090000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Nosotros, Ustedes y Hechos</title>
+  </programme>
+  <programme start="20240204130000 -0600" stop="20240204140000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.(n)</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
+  </programme>
+  <programme start="20240204140000 -0600" stop="20240204150000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20240204150000 -0600" stop="20240204160000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Escape Perfecto</title>
+  </programme>
+  <programme start="20240204160000 -0600" stop="20240204173000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20240204173000 -0600" stop="20240204193000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20240204193000 -0600" stop="20240204203000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.(n)</desc>
+    <credits>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+  <programme start="20240204203000 -0600" stop="20240204223000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Exatlón México</title>
+  </programme>
+  <programme start="20240204223000 -0600" stop="20240204231500 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Noticiero Hechos de la noche</title>
+  </programme>
+  <programme start="20240204231500 -0600" stop="20240204233000 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20240204233000 -0600" stop="20240204234500 -0600" channel="AZTECA UNO -2">
+    <title lang="es">Campañeando</title>
+  </programme>
+  <programme start="20240131003000 -0600" stop="20240131010000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20240131010000 -0600" stop="20240131043000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240131043000 -0600" stop="20240131050000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Aquí y ahora</title>
+  </programme>
+  <programme start="20240131050000 -0600" stop="20240131053000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240131053000 -0600" stop="20240131060000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20240131060000 -0600" stop="20240131070000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20240131070000 -0600" stop="20240131090000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20240131090000 -0600" stop="20240131120000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20240131120000 -0600" stop="20240131133000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Cuéntamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20240131133000 -0600" stop="20240131143000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">100 mexicanos dijieron</title>
+  </programme>
+  <programme start="20240131143000 -0600" stop="20240131153000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">El privilegio de amar</title>
+  </programme>
+  <programme start="20240131153000 -0600" stop="20240131163000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">La mentira</title>
+  </programme>
+  <programme start="20240131163000 -0600" stop="20240131173000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Vivir de Amor</title>
+  </programme>
+  <programme start="20240131173000 -0600" stop="20240131183000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20240131183000 -0600" stop="20240131193000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Tu Vida es Mi Vida</title>
+  </programme>
+  <programme start="20240131193000 -0600" stop="20240131203000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20240131203000 -0600" stop="20240131213000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Golpe de suerte</title>
+  </programme>
+  <programme start="20240131213000 -0600" stop="20240131223000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">El Maleficio</title>
+  </programme>
+  <programme start="20240131223000 -0600" stop="20240131230000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">En Punto Enrique Acevedo En Vivo</title>
+  </programme>
+  <programme start="20240131230000 -0600" stop="20240201000000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Tercer Grado En Vivo</title>
+  </programme>
+  <programme start="20240201000000 -0600" stop="20240201003000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20240201003000 -0600" stop="20240201043000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240201043000 -0600" stop="20240201050000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Aquí y ahora</title>
+  </programme>
+  <programme start="20240201050000 -0600" stop="20240201053000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240201053000 -0600" stop="20240201060000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20240201060000 -0600" stop="20240201070000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20240201070000 -0600" stop="20240201090000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20240201090000 -0600" stop="20240201120000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20240201120000 -0600" stop="20240201133000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Cuéntamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20240201133000 -0600" stop="20240201143000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">100 mexicanos dijieron</title>
+  </programme>
+  <programme start="20240201143000 -0600" stop="20240201153000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">El privilegio de amar</title>
+  </programme>
+  <programme start="20240201153000 -0600" stop="20240201163000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">La mentira</title>
+  </programme>
+  <programme start="20240201163000 -0600" stop="20240201173000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Vivir de Amor</title>
+  </programme>
+  <programme start="20240201173000 -0600" stop="20240201183000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20240201183000 -0600" stop="20240201193000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Tu Vida es Mi Vida</title>
+  </programme>
+  <programme start="20240201193000 -0600" stop="20240201203000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20240201203000 -0600" stop="20240201213000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Golpe de suerte</title>
+  </programme>
+  <programme start="20240201213000 -0600" stop="20240201223000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">El Maleficio</title>
+  </programme>
+  <programme start="20240201223000 -0600" stop="20240201230000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">En Punto Enrique Acevedo En Vivo</title>
+  </programme>
+  <programme start="20240201230000 -0600" stop="20240201233000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Esta Libre</title>
+  </programme>
+  <programme start="20240201233000 -0600" stop="20240202000000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Contacto deportivo En Vivo</title>
+  </programme>
+  <programme start="20240202230000 -0600" stop="20240202233000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Relatos Macabrones</title>
+  </programme>
+  <programme start="20240203003000 -0600" stop="20240203043000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20240203050000 -0600" stop="20240203060000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20240203060000 -0600" stop="20240203070000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Papá soltero</title>
+  </programme>
+  <programme start="20240203070000 -0600" stop="20240203083000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">El más valiente del mundo</title>
+  </programme>
+  <programme start="20240203083000 -0600" stop="20240203103000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">La novicia soñadora</title>
+  </programme>
+  <programme start="20240203103000 -0600" stop="20240203123000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Cuéntamelo Ya...Al Fin</title>
+  </programme>
+  <programme start="20240203123000 -0600" stop="20240203143000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Soy libre</title>
+  </programme>
+  <programme start="20240203143000 -0600" stop="20240203170000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">El gendarme desconocido</title>
+  </programme>
+  <programme start="20240203170000 -0600" stop="20240203190000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Mira quién baila La revancha</title>
+  </programme>
+  <programme start="20240203190000 -0600" stop="20240203210000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20240203210000 -0600" stop="20240203230000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20240203230000 -0600" stop="20240204000000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">40 y 20</title>
+  </programme>
+  <programme start="20240204000000 -0600" stop="20240204020000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240204020000 -0600" stop="20240204040000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240204040000 -0600" stop="20240204043000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240204050000 -0600" stop="20240204060000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240204060000 -0600" stop="20240204071500 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Papá soltero</title>
+  </programme>
+  <programme start="20240204071500 -0600" stop="20240204090000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Blue Demon en Pasaporte</title>
+  </programme>
+  <programme start="20240204090000 -0600" stop="20240204110000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Delincuente</title>
+  </programme>
+  <programme start="20240204110000 -0600" stop="20240204120000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Más Deporte En Vivo</title>
+  </programme>
+  <programme start="20240204120000 -0600" stop="20240204140000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Sinverguenza pero honrado</title>
+  </programme>
+  <programme start="20240204140000 -0600" stop="20240204150000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Acción</title>
+  </programme>
+  <programme start="20240204150000 -0600" stop="20240204173000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">El analfabeto</title>
+  </programme>
+  <programme start="20240204173000 -0600" stop="20240204190000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20240204190000 -0600" stop="20240204210000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">A la mala</title>
+  </programme>
+  <programme start="20240204210000 -0600" stop="20240204230000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Mira quién baila La revancha</title>
+  </programme>
+  <programme start="20240204230000 -0600" stop="20240205000000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">La Jugada En Vivo</title>
+  </programme>
+  <programme start="20240205000000 -0600" stop="20240205040000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Canal de las Estrellas</title>
+  </programme>
+  <programme start="20240205040000 -0600" stop="20240205080000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Canal de las Estrellas</title>
+  </programme>
+  <programme start="20240205080000 -0600" stop="20240205120000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Canal de las Estrellas</title>
+  </programme>
+  <programme start="20240205120000 -0600" stop="20240205160000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Canal de las Estrellas</title>
+  </programme>
+  <programme start="20240205160000 -0600" stop="20240205200000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Canal de las Estrellas</title>
+  </programme>
+  <programme start="20240205200000 -0600" stop="20240206000000 -0600" channel="LAS ESTRELLAS -2">
+    <title lang="es">Canal de las Estrellas</title>
   </programme>
 </tv>
